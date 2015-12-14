@@ -1,0 +1,44 @@
+name: pixelbar
+description: "Hackerspace in Rotterdam, The Netherlands"
+meta_description: "Hackerspace in Rotterdam, The Netherlands"
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+gems: [jekyll-paginate]
+
+paginate: 20
+baseurl: /
+domain_name: 'http://pixelbar.github.io'
+google_analytics: 'UA-71432510-1'
+disqus: true
+disqus_shortname: 'disqus_oOGZ7RkQv5'
+
+# Details for the RSS feed generator
+url:            'http://pixelbar.github.io'
+author:         'pixelbar'
+authorTwitter:  '@pixelbar010'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post

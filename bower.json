@@ -1,0 +1,19 @@
+{
+  "name": "pixelbar",
+  "version": "0.0.1",
+  "authors": [
+    "Pixelbar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fetch": "~0.10.1"
+  }
+}
