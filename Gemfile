@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'redcarpet'
-gem 'pygments.rb'
 gem 'jekyll-paginate'
 gem 'jekyll-watch'
+gem 'kramdown'
+gem 'rouge'
