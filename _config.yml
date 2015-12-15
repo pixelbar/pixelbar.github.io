@@ -7,7 +7,7 @@ title:               pixelbar
 tagline:             "Hackerspace in Rotterdam, The Netherlands"
 description:         "Hackerspace in Rotterdam, The Netherlands"
 url:                 'http://pixelbar.github.io'
-baseurl:             '/'
+baseurl:             ''
 paginate:            5
 
 # About/contact
