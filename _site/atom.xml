@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>pixelbar</title>
+ <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
+ <link href="http://pixelbar.github.io/"/>
+ <updated>2015-12-20T23:08:04+01:00</updated>
+ <id>http://pixelbar.github.io</id>
+ <author>
+   <name>Pixelbar</name>
+   <email>bestuur@pixelbar.nl</email>
+ </author>
+
+ 
+ <entry>
+   <title>Introducing Pixelbar</title>
+   <link href="http://pixelbar.github.io/2015/introducing-pixelbar/"/>
+   <updated>2015-12-01T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2015/introducing-pixelbar</id>
+   <content type="html">&lt;p&gt;Starting 2016 Rotterdam will officially have a proper hackerspace: Pixelbar. We’ve been a small community and are prepping a workspace in &lt;a href=&quot;http://stadshavensrotterdam.nl/deelgebieden/merwe-vierhavens/&quot;&gt;M4H&lt;/a&gt;. It’s time to meet, socialize and collaborate in 010. Bring your knowledge and ideas about computers, machinery, tech, science, digital art and let’s get this party started!&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-we-offer&quot;&gt;What do we offer?&lt;/h3&gt;
+
+&lt;p&gt;In addition to our workspace, we bring a few other things to the table:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Awesome members that would like to meet you.&lt;/li&gt;
+  &lt;li&gt;Work with you on projects and explain how we’ve build a few of our own on our &lt;a href=&quot;https://wiki.pixelbar.nl/index.php/Main_Page&quot;&gt;wiki&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Learn you more through e.g. &lt;a href=&quot;https://pixelbar.nl/workshops/&quot;&gt;workshops&lt;/a&gt; and make them accessible for anyone that wants to learn.&lt;/li&gt;
+  &lt;li&gt;Give you insight on our code using &lt;a href=&quot;https://github.com/pixelbar&quot;&gt;Github&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Visit (local and international) hackathons and other hackerspaces together.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check out &lt;strong&gt;☰&lt;/strong&gt; to see more.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-can-i-do&quot;&gt;What can I do?&lt;/h3&gt;
+
+&lt;p&gt;Maybe you’re already familiar with the hackerspace community, or maybe you’re not. You might have heard of us through a friend, or about us on the news. Either way, the thing you should know is hackers come in many forms: from food- to IKEA-hacking and obviously computer-hacking too. Everything is possible, as long as you share that information - you’re a hacker.&lt;/p&gt;
+
+&lt;p&gt;If that’s the case, you’re welcome to join us by:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pixelbar.nl/becomeamember.php&quot;&gt;Become a member&lt;/a&gt; of the space and start hacking and sharing information with us&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;or by:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pixelbar.nl/becomeamember.php&quot;&gt;Become a friend&lt;/a&gt; of the space and support our cause.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Have a great - hacking -  year!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;video id=&quot;gif-mp4&quot; poster=&quot;https://media.giphy.com/media/k8kG3Plo87Aqs/200_s.gif&quot; style=&quot;margin:0;padding:0&quot; width=&quot;391&quot; height=&quot;219&quot; autoplay=&quot;&quot; loop=&quot;&quot;&gt;
+  &lt;source src=&quot;https://media.giphy.com/media/k8kG3Plo87Aqs/giphy.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+  Your browser does not support the mp4 video codec.
+&lt;/video&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
