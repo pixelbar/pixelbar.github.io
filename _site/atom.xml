@@ -4,7 +4,7 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2015-12-20T23:08:04+01:00</updated>
+ <updated>2015-12-21T22:54:55+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
@@ -15,9 +15,9 @@
  <entry>
    <title>Introducing Pixelbar</title>
    <link href="http://pixelbar.github.io/2015/introducing-pixelbar/"/>
-   <updated>2015-12-01T00:00:00+01:00</updated>
+   <updated>2015-12-19T00:00:00+01:00</updated>
    <id>http://pixelbar.github.io/2015/introducing-pixelbar</id>
-   <content type="html">&lt;p&gt;Starting 2016 Rotterdam will officially have a proper hackerspace: Pixelbar. We’ve been a small community and are prepping a workspace in &lt;a href=&quot;http://stadshavensrotterdam.nl/deelgebieden/merwe-vierhavens/&quot;&gt;M4H&lt;/a&gt;. It’s time to meet, socialize and collaborate in 010. Bring your knowledge and ideas about computers, machinery, tech, science, digital art and let’s get this party started!&lt;/p&gt;
+   <content type="html">&lt;p&gt;Starting 2016, Rotterdam will officially have a proper hackerspace: Pixelbar. We’ve been a small community and are prepping a workspace in &lt;a href=&quot;http://stadshavensrotterdam.nl/deelgebieden/merwe-vierhavens/&quot;&gt;M4H&lt;/a&gt;. It’s time to meet, socialize and collaborate in 010. Bring your knowledge and ideas about computers, machinery, tech, science, digital art and let’s get this party started!&lt;/p&gt;
 
 &lt;h3 id=&quot;what-do-we-offer&quot;&gt;What do we offer?&lt;/h3&gt;
 
@@ -39,14 +39,16 @@
 
 &lt;p&gt;If that’s the case, you’re welcome to join us by:&lt;/p&gt;
 
+&lt;hr /&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pixelbar.nl/becomeamember.php&quot;&gt;Become a member&lt;/a&gt; of the space and start hacking and sharing information with us&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pixelbar.nl/becomeamember.php&quot;&gt;Become a member of the space and start hacking&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;or by:&lt;/p&gt;
+&lt;hr /&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pixelbar.nl/becomeamember.php&quot;&gt;Become a friend&lt;/a&gt; of the space and support our cause.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pixelbar.nl/becomeamember.php&quot;&gt;Become a friend of the space to support our cause&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;

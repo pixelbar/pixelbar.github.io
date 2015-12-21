@@ -3,7 +3,7 @@ layout: post
 title: Introducing Pixelbar
 ---
 
-Starting 2016 Rotterdam will officially have a proper hackerspace: Pixelbar. We've been a small community and are prepping a workspace in [M4H](http://stadshavensrotterdam.nl/deelgebieden/merwe-vierhavens/). It's time to meet, socialize and collaborate in 010. Bring your knowledge and ideas about computers, machinery, tech, science, digital art and let's get this party started!
+Starting 2016, Rotterdam will officially have a proper hackerspace: Pixelbar. We've been a small community and are prepping a workspace in [M4H](http://stadshavensrotterdam.nl/deelgebieden/merwe-vierhavens/). It's time to meet, socialize and collaborate in 010. Bring your knowledge and ideas about computers, machinery, tech, science, digital art and let's get this party started!
 
 ### What do we offer?
 
@@ -24,11 +24,13 @@ Maybe you're already familiar with the hackerspace community, or maybe you're no
 
 If that's the case, you're welcome to join us by:
 
-* [Become a member](https://pixelbar.nl/becomeamember.php) of the space and start hacking and sharing information with us
+----
 
-or by:
+* [Become a member of the space and start hacking](https://pixelbar.nl/becomeamember.php)
 
-* [Become a friend](https://pixelbar.nl/becomeamember.php) of the space and support our cause.
+----
+
+* [Become a friend of the space to support our cause](https://pixelbar.nl/becomeamember.php)
 
 ----
 
