@@ -4,7 +4,7 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2015-12-22T12:23:38+01:00</updated>
+ <updated>2015-12-22T23:28:56+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
@@ -41,7 +41,7 @@
 &lt;ul&gt;
   &lt;li&gt;Awesome members that would like to meet you.&lt;/li&gt;
   &lt;li&gt;Work with you on projects and explain how we’ve build a few of our own on our &lt;a href=&quot;https://wiki.pixelbar.nl/index.php/Main_Page&quot;&gt;wiki&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Learn you more through e.g. &lt;a href=&quot;https://pixelbar.nl/workshops/&quot;&gt;workshops&lt;/a&gt; and make them accessible for anyone that wants to learn.&lt;/li&gt;
+  &lt;li&gt;Learn you more through e.g. &lt;a href=&quot;/workshops&quot;&gt;workshops&lt;/a&gt; and make them accessible for anyone that wants to learn.&lt;/li&gt;
   &lt;li&gt;Give you insight on our code using &lt;a href=&quot;https://github.com/pixelbar&quot;&gt;Github&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;Visit (local and international) hackathons and other hackerspaces together.&lt;/li&gt;
 &lt;/ul&gt;
@@ -57,13 +57,13 @@
 &lt;hr /&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pixelbar.nl/becomeamember.php&quot;&gt;Become a member of the space and start hacking&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/register&quot;&gt;Become a member of the space and start hacking&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pixelbar.nl/becomeamember.php&quot;&gt;Become a friend of the space to support our cause&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/register&quot;&gt;Become a friend of the space to support our cause&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;

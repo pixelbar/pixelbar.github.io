@@ -11,7 +11,7 @@
 
   <title>
     
-      Introducing Pixelbar &middot; pixelbar
+      Blinking LED &middot; pixelbar
     
   </title>
 
@@ -127,70 +127,54 @@
       </div>
 
       <div class="container content">
-        <div class="post">
-  <h1 class="post-title">Introducing Pixelbar</h1>
-  <span class="post-date">19 Dec 2015</span>
-  <p>Starting 2016, Rotterdam will officially have a proper hackerspace: Pixelbar. We’ve been a small community and are prepping a workspace in <a href="http://stadshavensrotterdam.nl/deelgebieden/merwe-vierhavens/">M4H</a>. It’s time to meet, socialize and collaborate in 010. Bring your knowledge and ideas about computers, machinery, tech, science, digital art and let’s get this party started!</p>
+        <p><a href="/workshops">← back to the workshops</a></p>
 
-<h3 id="what-do-we-offer">What do we offer?</h3>
+<h1 id="blinking-led">Blinking LED</h1>
 
-<p>In addition to our workspace, we bring a few other things to the table:</p>
-
+<h3 id="requirements">Requirements</h3>
 <ul>
-  <li>Awesome members that would like to meet you.</li>
-  <li>Work with you on projects and explain how we’ve build a few of our own on our <a href="https://wiki.pixelbar.nl/index.php/Main_Page">wiki</a>.</li>
-  <li>Learn you more through e.g. <a href="/workshops">workshops</a> and make them accessible for anyone that wants to learn.</li>
-  <li>Give you insight on our code using <a href="https://github.com/pixelbar">Github</a>.</li>
-  <li>Visit (local and international) hackathons and other hackerspaces together.</li>
+  <li>Arduino Nano</li>
+  <li>Light Emitting Diode</li>
+  <li>220Ohm Resistor</li>
+  <li>Breadboard</li>
+  <li>Jumper Wires</li>
 </ul>
 
-<p>Check out <strong>☰</strong> to see more.</p>
+<h3 id="project-image">Project Image</h3>
 
-<h3 id="what-can-i-do">What can I do?</h3>
+<p><img src="/public/images/workshops/1/sketch1.png" alt="sketch" /></p>
 
-<p>Maybe you’re already familiar with the hackerspace community, or maybe you’re not. You might have heard of us through a friend, or about us on the news. Either way, the thing you should know is hackers come in many forms: from food- to IKEA-hacking and obviously computer-hacking too. Everything is possible, as long as you share that information - you’re a hacker.</p>
+<h3 id="project-code">Project code</h3>
 
-<p>If that’s the case, you’re welcome to join us by:</p>
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="cm">/*
+  Blink
 
-<hr />
+  Switching a LED on and off
+*/</span>
 
-<ul>
-  <li><a href="/register">Become a member of the space and start hacking</a></li>
-</ul>
+<span class="c1">// integer variable led is declared</span>
+<span class="kt">int</span> <span class="n">led</span> <span class="o">=</span> <span class="mi">2</span><span class="o">;</span>
 
-<hr />
+<span class="c1">// the setup() method is executed only once</span>
+<span class="kt">void</span> <span class="nf">setup</span><span class="p">(</span><span class="o">)</span> <span class="o">{</span>
+  <span class="c1">// the led PIN is declared as digital output</span>
+  <span class="n">pinMode</span><span class="o">(</span><span class="n">led</span><span class="o">,</span> <span class="n">OUTPUT</span><span class="o">);</span>
+<span class="o">}</span>
 
-<ul>
-  <li><a href="/register">Become a friend of the space to support our cause</a></li>
-</ul>
+<span class="c1">// the loop() method is repeated</span>
+<span class="kt">void</span> <span class="nf">loop</span><span class="p">(</span><span class="o">)</span> <span class="o">{</span>
+  <span class="c1">// switching on the led</span>
+  <span class="n">digitalWrite</span><span class="o">(</span><span class="n">led</span><span class="o">,</span> <span class="n">HIGH</span><span class="o">);</span>
 
-<hr />
+  <span class="c1">// stopping the program for 1000 milliseconds</span>
+  <span class="n">delay</span><span class="o">(</span><span class="mi">1000</span><span class="o">);</span>
 
-<p><strong>Have a great - hacking -  year!</strong></p>
+  <span class="c1">// switching off the led</span>
+  <span class="n">digitalWrite</span><span class="o">(</span><span class="n">led</span><span class="o">,</span> <span class="n">LOW</span><span class="o">);</span>
 
-<video id="gif-mp4" poster="https://media.giphy.com/media/k8kG3Plo87Aqs/200_s.gif" style="margin:0;padding:0" width="391" height="219" autoplay="" loop="">
-  <source src="https://media.giphy.com/media/k8kG3Plo87Aqs/giphy.mp4" type="video/mp4" />
-  Your browser does not support the mp4 video codec.
-</video>
-
-
-</div>
-
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    
-      <li>
-        <h3>
-          <a href="/2015/funded/">
-            Succesfully funded
-            <small>22 Dec 2015</small>
-          </a>
-        </h3>
-      </li>
-    
-  </ul>
-</div>
+  <span class="c1">// stopping the program for 1000 milliseconds</span>
+  <span class="n">delay</span><span class="o">(</span><span class="mi">1000</span><span class="o">);</span>
+<span class="o">}</span></code></pre></figure>
 
       </div>
     </div>

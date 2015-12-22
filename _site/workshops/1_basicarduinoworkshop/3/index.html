@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Making music with a buzzer &middot; pixelbar
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Scripts -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="/public/scripts/main.js"></script>
+
+</head>
+
+
+  <body>
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <img id="logo" src="/public/logo.png">
+    <p>Hackerspace in Rotterdam, The Netherlands</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about/">About</a>
+        
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/register/">Register</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/workshops/">Workshops</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+
+    <a class="sidebar-nav-item" href="https://wiki.pixelbar.nl/index.php/Main_Page">Wiki</a>
+    <a class="sidebar-nav-item" href="https://github.com/pixelbar">Github</a>
+    <a class="sidebar-nav-item" href="mailto:bestuur@pixelbar.nl">Contact</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2015. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">pixelbar</a>
+            <small><span>is currently <span id="status"></span></span></small>
+
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <p><a href="/workshops">← back to the workshops</a></p>
+
+<h1 id="making-music-with-a-buzzer">Making music with a buzzer</h1>
+
+<h3 id="requirements">Requirements</h3>
+<ul>
+  <li>Arduino Nano</li>
+  <li>Passive Buzzer</li>
+  <li>Breadboard</li>
+  <li>Jumper Wires</li>
+</ul>
+
+<h3 id="project-image">Project Image</h3>
+
+<p><img src="/public/images/workshops/1/sketch3.png" alt="sketch" /></p>
+
+<h3 id="project-code">Project code</h3>
+
+<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="kt">int</span> <span class="n">speakerPin</span> <span class="o">=</span> <span class="mi">2</span><span class="o">;</span>
+
+<span class="kt">int</span> <span class="n">length</span> <span class="o">=</span> <span class="mi">15</span><span class="o">;</span> <span class="c1">// the number of notes</span>
+<span class="kt">char</span> <span class="n">notes</span><span class="o">[]</span> <span class="o">=</span> <span class="s">"ccggaagffeeddc "</span><span class="o">;</span> <span class="c1">// a space represents a rest</span>
+<span class="kt">int</span> <span class="n">beats</span><span class="o">[]</span> <span class="o">=</span> <span class="o">{</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">2</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">2</span><span class="o">,</span> <span class="mi">4</span> <span class="o">};</span>
+<span class="kt">int</span> <span class="n">tempo</span> <span class="o">=</span> <span class="mi">300</span><span class="o">;</span>
+
+<span class="kt">void</span> <span class="nf">playTone</span><span class="p">(</span><span class="kt">int</span> <span class="n">tone</span><span class="o">,</span> <span class="kt">int</span> <span class="n">duration</span><span class="o">)</span> <span class="o">{</span>
+  <span class="k">for</span> <span class="o">(</span><span class="kt">long</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">duration</span> <span class="o">*</span> <span class="mi">1000L</span><span class="o">;</span> <span class="n">i</span> <span class="o">+=</span> <span class="n">tone</span> <span class="o">*</span> <span class="mi">2</span><span class="o">)</span> <span class="o">{</span>
+    <span class="n">digitalWrite</span><span class="o">(</span><span class="n">speakerPin</span><span class="o">,</span> <span class="n">HIGH</span><span class="o">);</span>
+    <span class="n">delayMicroseconds</span><span class="o">(</span><span class="n">tone</span><span class="o">);</span>
+    <span class="n">digitalWrite</span><span class="o">(</span><span class="n">speakerPin</span><span class="o">,</span> <span class="n">LOW</span><span class="o">);</span>
+    <span class="n">delayMicroseconds</span><span class="o">(</span><span class="n">tone</span><span class="o">);</span>
+  <span class="o">}</span>
+<span class="o">}</span>
+
+<span class="kt">void</span> <span class="nf">playNote</span><span class="p">(</span><span class="kt">char</span> <span class="n">note</span><span class="o">,</span> <span class="kt">int</span> <span class="n">duration</span><span class="o">)</span> <span class="o">{</span>
+  <span class="kt">char</span> <span class="n">names</span><span class="o">[]</span> <span class="o">=</span> <span class="o">{</span> <span class="sc">'c'</span><span class="o">,</span> <span class="sc">'d'</span><span class="o">,</span> <span class="sc">'e'</span><span class="o">,</span> <span class="sc">'f'</span><span class="o">,</span> <span class="sc">'g'</span><span class="o">,</span> <span class="sc">'a'</span><span class="o">,</span> <span class="sc">'b'</span><span class="o">,</span> <span class="sc">'C'</span> <span class="o">};</span>
+  <span class="kt">int</span> <span class="n">tones</span><span class="o">[]</span> <span class="o">=</span> <span class="o">{</span> <span class="mi">1915</span><span class="o">,</span> <span class="mi">1700</span><span class="o">,</span> <span class="mi">1519</span><span class="o">,</span> <span class="mi">1432</span><span class="o">,</span> <span class="mi">1275</span><span class="o">,</span> <span class="mi">1136</span><span class="o">,</span> <span class="mi">1014</span><span class="o">,</span> <span class="mi">956</span> <span class="o">};</span>
+
+  <span class="c1">// play the tone corresponding to the note name</span>
+  <span class="k">for</span> <span class="o">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">8</span><span class="o">;</span> <span class="n">i</span><span class="o">++)</span> <span class="o">{</span>
+    <span class="k">if</span> <span class="o">(</span><span class="n">names</span><span class="o">[</span><span class="n">i</span><span class="o">]</span> <span class="o">==</span> <span class="n">note</span><span class="o">)</span> <span class="o">{</span>
+      <span class="n">playTone</span><span class="o">(</span><span class="n">tones</span><span class="o">[</span><span class="n">i</span><span class="o">],</span> <span class="n">duration</span><span class="o">);</span>
+    <span class="o">}</span>
+  <span class="o">}</span>
+<span class="o">}</span>
+
+<span class="kt">void</span> <span class="nf">setup</span><span class="p">(</span><span class="o">)</span> <span class="o">{</span>
+  <span class="n">pinMode</span><span class="o">(</span><span class="n">speakerPin</span><span class="o">,</span> <span class="n">OUTPUT</span><span class="o">);</span>
+<span class="o">}</span>
+
+<span class="kt">void</span> <span class="nf">loop</span><span class="p">(</span><span class="o">)</span> <span class="o">{</span>
+  <span class="k">for</span> <span class="o">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="o">;</span> <span class="n">i</span><span class="o">++)</span> <span class="o">{</span>
+    <span class="k">if</span> <span class="o">(</span><span class="n">notes</span><span class="o">[</span><span class="n">i</span><span class="o">]</span> <span class="o">==</span> <span class="sc">' '</span><span class="o">)</span> <span class="o">{</span>
+      <span class="n">delay</span><span class="o">(</span><span class="n">beats</span><span class="o">[</span><span class="n">i</span><span class="o">]</span> <span class="o">*</span> <span class="n">tempo</span><span class="o">);</span> <span class="c1">// rest</span>
+    <span class="o">}</span> <span class="k">else</span> <span class="o">{</span>
+      <span class="n">playNote</span><span class="o">(</span><span class="n">notes</span><span class="o">[</span><span class="n">i</span><span class="o">],</span> <span class="n">beats</span><span class="o">[</span><span class="n">i</span><span class="o">]</span> <span class="o">*</span> <span class="n">tempo</span><span class="o">);</span>
+    <span class="o">}</span>
+
+    <span class="c1">// pause between notes</span>
+    <span class="n">delay</span><span class="o">(</span><span class="n">tempo</span> <span class="o">/</span> <span class="mi">2</span><span class="o">);</span>
+  <span class="o">}</span>
+<span class="o">}</span></code></pre></figure>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>
