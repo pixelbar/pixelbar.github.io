@@ -24,7 +24,7 @@ As a member of the space, you'll get complete access. Every workshop, event, equ
 * A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
 * And we'll throw in a first (?) "mate" experience for you, as an true hacker
 
-\- [Register](https://pixelbar.nl/becomeamember.php)
+\- [Register](/register)
 
 ### Become a friend
 
@@ -36,7 +36,7 @@ If you don't live close, don't really feel like hacking or just don't have enoug
 * A Pixelbar account (which allows you to register drinks)
 * A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
 
-\- [Register](https://pixelbar.nl/becomeamember.php)
+\- [Register](/register)
 
 ### Location
 

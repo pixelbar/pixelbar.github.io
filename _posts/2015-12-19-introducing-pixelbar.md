@@ -11,7 +11,7 @@ In addition to our workspace, we bring a few other things to the table:
 
 * Awesome members that would like to meet you.
 * Work with you on projects and explain how we've build a few of our own on our [wiki](https://wiki.pixelbar.nl/index.php/Main_Page).
-* Learn you more through e.g. [workshops](https://pixelbar.nl/workshops/) and make them accessible for anyone that wants to learn.
+* Learn you more through e.g. [workshops](/workshops) and make them accessible for anyone that wants to learn.
 * Give you insight on our code using [Github](https://github.com/pixelbar).
 * Visit (local and international) hackathons and other hackerspaces together.
 
@@ -26,11 +26,11 @@ If that's the case, you're welcome to join us by:
 
 ----
 
-* [Become a member of the space and start hacking](https://pixelbar.nl/becomeamember.php)
+* [Become a member of the space and start hacking](/register)
 
 ----
 
-* [Become a friend of the space to support our cause](https://pixelbar.nl/becomeamember.php)
+* [Become a friend of the space to support our cause](/register)
 
 ----
 
