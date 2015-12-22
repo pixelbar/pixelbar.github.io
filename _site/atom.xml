@@ -4,13 +4,28 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2015-12-21T22:54:55+01:00</updated>
+ <updated>2015-12-22T12:15:30+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Succesfully funded</title>
+   <link href="http://pixelbar.github.io/2015/funded/"/>
+   <updated>2015-12-22T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2015/funded</id>
+   <content type="html">&lt;p&gt;Recently, we made a proposal for funding at &lt;a href=&quot;https://www.citylab010.nl/plannen/hackerspaceinrotterdam&quot;&gt;CityLab 010&lt;/a&gt; (Dutch). Furthermore, we gave a pitch to the city council and other related parties to inform them about the situation in Rotterdam.&lt;/p&gt;
+
+&lt;p&gt;We’re happy to announce that the Rotterdam government has passed this grant towards our cause.&lt;/p&gt;
+
+&lt;p&gt;You might be wondering why a hackerspace would reach out to the government in the first place. As a hackerspace we have certain goals we’d like to make happen sooner than later. This oppertunity has brought us closer to our goals without sacraficing the membership fee of our members, which makes us more flexible to make decisions and basically gives us a better runway for the first year.&lt;/p&gt;
+
+&lt;p&gt;Still have questions? Just &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#098;&amp;#101;&amp;#115;&amp;#116;&amp;#117;&amp;#117;&amp;#114;&amp;#064;&amp;#112;&amp;#105;&amp;#120;&amp;#101;&amp;#108;&amp;#098;&amp;#097;&amp;#114;&amp;#046;&amp;#110;&amp;#108;&quot;&gt;reach out&lt;/a&gt; to us.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Introducing Pixelbar</title>

@@ -102,34 +102,72 @@
         <div class="page">
   <h1 class="page-title">About</h1>
   <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  The hackerspace of Rotterdam since 2015.
 </p>
 
-<p>In the novel, <em>The Strange Case of Dr. Jeykll and Mr. Hyde</em>, Mr. Poole is Dr. Jekyll’s virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It’s made by <a href="https://twitter.com/mdo">@mdo</a>.</p>
-
-<p>There are currently two themes built on Poole:</p>
-
+<h3 id="our-rules">Our rules</h3>
 <ul>
-  <li><a href="http://hyde.getpoole.com">Hyde</a></li>
-  <li><a href="http://lanyon.getpoole.com">Lanyon</a></li>
+  <li>We have respect for everyone: any gender or sexual preference.</li>
+  <li>We only accept members of 18 years and older to the space.</li>
+  <li>We respect nicknames, but to be a member - we’ll need your personal name.</li>
+  <li>We don’t destroy property of other people without their consent.</li>
 </ul>
 
-<p>Learn more and contribute on <a href="https://github.com/poole">GitHub</a>.</p>
-
-<h2 id="setup">Setup</h2>
-
-<p>Some fun facts about the setup of this project include:</p>
+<h3 id="become-a-member">Become a member</h3>
+<p>As a member of the space, you’ll get complete access. Every workshop, event, equipment, everything. Your equal to everyone else in the organisation and it’s just 25 euro’s per month. Which also means that you support our cause for 100%.</p>
 
 <ul>
-  <li>Built for <a href="http://jekyllrb.com">Jekyll</a></li>
-  <li>Developed on GitHub and hosted for free on <a href="https://pages.github.com">GitHub Pages</a></li>
-  <li>Coded with <a href="http://sublimetext.com">Sublime Text 2</a>, an amazing code editor</li>
-  <li>Designed and developed while listening to music like <a href="https://soundcloud.com/maddecent/sets/blood-bros-series">Blood Bros Trilogy</a></li>
+  <li>24x7 access to the space (if you’d like a key)</li>
+  <li>Use of the tools/equipment in the space</li>
+  <li>The possibility to show your project in the space</li>
+  <li>A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet)</li>
+  <li>A Pixelbar account (which allows you to register drinks)</li>
+  <li>A [nickname]@pixelbar.nl email forward (if somebody else doesn’t use that nickname yet)</li>
+  <li>And we’ll throw in a first (?) “mate” experience for you, as an true hacker</li>
 </ul>
 
-<p>Have questions or suggestions? Feel free to <a href="https://github.com/poole/issues/new">open an issue on GitHub</a> or <a href="https://twitter.com/mdo">ask me on Twitter</a>.</p>
+<p>- <a href="https://pixelbar.nl/becomeamember.php">Register</a></p>
 
-<p>Thanks for reading!</p>
+<h3 id="become-a-friend">Become a friend</h3>
+
+<p>If you don’t live close, don’t really feel like hacking or just don’t have enough funds to support the hackerspace… it is also possible to become a friend of the space for just 5 euro per month.</p>
+
+<ul>
+  <li>Access to the space (unregular, only when someone is present)</li>
+  <li>Use of the tools/equipment in the space</li>
+  <li>A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet)</li>
+  <li>A Pixelbar account (which allows you to register drinks)</li>
+  <li>A [nickname]@pixelbar.nl email forward (if somebody else doesn’t use that nickname yet)</li>
+</ul>
+
+<p>- <a href="https://pixelbar.nl/becomeamember.php">Register</a></p>
+
+<h3 id="location">Location</h3>
+
+<p>We’re located in the “Keilewerf” at Vierhavensstraat 56, 3029 BG Rotterdam. There is (limited) parking space available and if you go with public transportation: you can take the stop at Marconiplein and walk you way up towards the KFC and take a left into the Vierhavensstraat. After about 450 meters, you’ll be at our building (recognisable by all of the street art on the exterior of the building).</p>
+
+<script src="https://maps.googleapis.com/maps/api/js"></script>
+
+<script>
+  function initialize() {
+    var mapCanvas = document.getElementById('map');
+    var mapOptions = {
+      center: new google.maps.LatLng(51.910111, 4.433988),
+      zoom: 16,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    }
+    var map = new google.maps.Map(mapCanvas, mapOptions)
+    var markerPos = new google.maps.LatLng(51.910111, 4.433988);
+    var marker = new google.maps.Marker({
+      position: markerPos,
+      map: map,
+      title: "Pixelbar HQ",
+    });
+  }
+  google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+<div id="map" style="width: 100%; height: 400px; margin-bottom: 15px;"></div>
 
 </div>
 
