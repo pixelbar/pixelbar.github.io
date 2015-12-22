@@ -76,6 +76,17 @@ input[type=radio] {
   -webkit-user-select: none;
 }
 
+.sidebar-item .ss-icon, .ss-icon:hover {
+  color: rgba(255,255,255,.6);
+  font-size: 22px;
+  padding-right: 5px;
+}
+
+.ss-icon:hover {
+  text-decoration: none;
+  color: rgba(255,255,255,1);
+}
+
 /*
  * Global resets
  *
