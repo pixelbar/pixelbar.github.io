@@ -11,7 +11,7 @@ title: About
 * We have respect for everyone: any gender or sexual preference.
 * We only accept members of 18 years and older to the space.
 * We respect nicknames, but to be a member - we'll need your personal name.
-* We don't destroy property of other people without their consent.
+* We don’t destroy property or other people without their consent.
 
 ### Become a member
 As a member of the space, you'll get complete access. Every workshop, event, equipment, everything. Your equal to everyone else in the organisation and it's just 25 euro's per month. Which also means that you support our cause for 100%.
