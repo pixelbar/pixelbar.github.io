@@ -1,4 +1,4 @@
-permalink: /:year/:title/
+permalink: pretty
 
 gems: [jekyll-paginate]
 
