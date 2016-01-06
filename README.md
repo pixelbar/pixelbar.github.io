@@ -1,6 +1,6 @@
 # pixelbar.github.io
 
-Everyone is welcome to hack on this site! Want to learn how? Check [Jekyll](http://jekyllrb.com).
+Everyone is welcome to hack on this site! Want to learn how? Check [Jekyll](http://jekyllrb.com). Make sure you have Ruby installed, use `sudo gem install bundle` and then `bundle install` in the folder where you checkout your fork.
 
 Change anything you like!
 
