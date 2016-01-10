@@ -4,7 +4,7 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2016-01-06T23:22:38+01:00</updated>
+ <updated>2016-01-10T21:01:49+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Succesfully funded</title>
-   <link href="http://pixelbar.github.io/2015/12/22/funded/"/>
-   <updated>2015-12-22T00:00:00+01:00</updated>
-   <id>http://pixelbar.github.io/2015/12/22/funded</id>
+   <link href="http://pixelbar.github.io/2016/01/10/funded/"/>
+   <updated>2016-01-10T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2016/01/10/funded</id>
    <content type="html">&lt;p&gt;Recently, we made a proposal for funding at &lt;a href=&quot;https://www.citylab010.nl/plannen/hackerspaceinrotterdam&quot;&gt;CityLab 010&lt;/a&gt; (Dutch). Furthermore, we gave a pitch to the city council and other related parties to inform them about the situation in Rotterdam.&lt;/p&gt;
 
 &lt;p&gt;We’re happy to announce that the Rotterdam government has passed this grant towards our cause.&lt;/p&gt;
