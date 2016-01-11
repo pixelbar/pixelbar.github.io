@@ -18,7 +18,7 @@ $(function() {
 
     $('input').attr('disabled', true)
     $('.formhandler').remove()
-    fetch('http://localhost:3000/register', {
+    fetch('http://pixelbar.elasticbeanstalk.com/register', {
       method: 'post',
       headers: {
         'Accept': 'application/json',
@@ -33,6 +33,7 @@ $(function() {
       $('form').before(`
         <p class="message formhandler">${err.response.message.charAt(0).toUpperCase() + err.response.message.slice(1)}</p>
       `)
+
       $('input').attr('disabled', false)
     })
   });
@@ -43,7 +44,7 @@ function parseJSON(response) {
 }
 
 function checkStatus(response) {
-  if (response.status >= 200 && response.status < 300) {
+  if (response.status === 'ok') {
     return response
   } else {
     var error = new Error(response)

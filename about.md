@@ -22,7 +22,7 @@ As a member of the space, you'll get complete access. Every workshop, event, equ
 * A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet)
 * A Pixelbar account (which allows you to register drinks)
 * A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
-* And we'll throw in a first (?) "mate" experience for you, as an true hacker
+* And we'll throw in a first (?) "mate" experience for you, as a true hacker
 
 \- [Register](/register)
 
