@@ -38,6 +38,10 @@ All requests are checked personally and we'll contact you within roughly 48 hour
         <td><input type="text" class="form-control" id="nickname" name="nickname" /></td>
       </tr>
       <tr>
+        <td><label class="control-label" for="email">Email</label></td>
+        <td><input type="text" class="form-control" id="email" name="email" /></td>
+      </tr>
+      <tr>
         <td><label class="control-label" for="postal">Postal</label></td>
         <td><input type="text" class="form-control" id="postal" name="postal" /></td>
       </tr>
