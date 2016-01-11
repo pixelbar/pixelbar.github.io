@@ -2,6 +2,9 @@ permalink: pretty
 
 gems: [jekyll-paginate]
 
+url: https://pixelbar.nl
+enforce_ssl: pixelbar.nl
+
 # Setup
 title:               pixelbar
 tagline:             "Hackerspace in Rotterdam, The Netherlands"
