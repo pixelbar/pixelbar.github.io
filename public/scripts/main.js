@@ -11,6 +11,48 @@ function getState() {
 
 $(getState);
 
+$(function() {
+  $('form').submit(function(e) {
+    e.preventDefault();
+    var data = $(this).serializeFormJSON();
+
+    $('input').attr('disabled', true)
+    $('.formhandler').remove()
+    fetch('http://pixelbar.elasticbeanstalk.com/register', {
+      method: 'post',
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(data)
+    }).then(parseJSON).then(checkStatus).then(function () {
+      $('form').replaceWith(`
+        <p class="message formhandler">We've received your request. Please be patient while we review it, which can take upto 48 hours. Than we will contact you. If you can't wait or have questions, please <a href="mailto:bestuur@pixelbar.nl">contact us</a>.</p>
+      `)
+    }).catch(function (err) {
+      $('form').before(`
+        <p class="message formhandler">${err.response.message.charAt(0).toUpperCase() + err.response.message.slice(1)}</p>
+      `)
+
+      $('input').attr('disabled', false)
+    })
+  });
+});
+
+function parseJSON(response) {
+  return response.json()
+}
+
+function checkStatus(response) {
+  if (response.status === 'ok') {
+    return response
+  } else {
+    var error = new Error(response)
+    error.response = response
+    throw error
+  }
+}
+
 // From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
 if (!Object.keys) {
   Object.keys = (function() {
@@ -63,34 +105,8 @@ $.fn.serializeFormJSON = function () {
           }
           o[this.name].push(this.value || '');
       } else {
-          o[this.name] = this.value || '';
+        if(this.value) o[this.name] = this.value;
       }
   });
   return o;
 };
-
-
-$(function() {
-  $('form').submit(function(e) {
-    e.preventDefault();
-    var captcha = grecaptcha.getResponse();
-    var invalidInput = false;
-    if(true) {
-      var data = $(this).serializeFormJSON();
-      for (var i = 0; i < Object.keys(data).length; i++) {
-        var key = Object.keys(data)[i],
-            value = data[key];
-        if(key !== "notes" && value === "") {
-          invalidInput = true;
-        }
-      };
-
-      if(!invalidInput) {
-        // send `data` to server here
-      }
-
-    }
-
-    if(invalidInput) alert("Please provide all required fields.");
-  });
-});
