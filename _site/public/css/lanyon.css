@@ -134,9 +134,10 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 
-@media(min-width: 48rem) {
+@media(min-width: 64rem) {
   .wrap {
     margin-left: 14rem;
+    width: calc(100% - 14rem);
   }
 }
 
@@ -228,7 +229,11 @@ h1, h2, h3, h4, h5, h6 {
           transition: all .3s ease-in-out;
 }
 
-@media (min-width: 48em) {
+@media(min-width: 48rem) {
+
+}
+
+@media (min-width: 65em) {
   .sidebar {
     left: 0;
     visibility: visible;
@@ -302,7 +307,7 @@ a.sidebar-nav-item:focus {
   cursor: pointer;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 65em) {
 
   .sidebar-toggle {
     display: none;
@@ -389,7 +394,7 @@ a.sidebar-nav-item:focus {
           transform: translateX(14rem);
 }
 
-@media(min-width: 48rem) {
+@media(min-width: 64rem) {
 
   #sidebar-checkbox:checked ~ .sidebar,
   #sidebar-checkbox:checked ~ .wrap,
