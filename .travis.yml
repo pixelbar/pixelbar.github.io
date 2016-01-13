@@ -6,7 +6,7 @@ before_script:
 branches:
   only:
   - master
-before_deploy: bundle install && ./script/cibuild
+script: ./script/cibuild
 deploy:
   - provider: s3
     access_key_id: AKIAJAFNZ335LMX6RWNQ
