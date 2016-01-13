@@ -1,5 +1,7 @@
 permalink: pretty
 
+exclude: [vendor]
+
 gems: [jekyll-paginate]
 
 # url: https://pixelbar.nl
