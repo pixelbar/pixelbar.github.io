@@ -10,6 +10,7 @@ script: ./script/cibuild
 deploy:
   - provider: s3
     access_key_id: AKIAJAFNZ335LMX6RWNQ
+    region: "eu-central-1"
     secret_access_key:
       secure: C80ECPb6Nt2u930/2ATjexfgg4deGLnPqeu3bwbb6kuEE0vKPZxkMum6kWmfCt6hm8H53f0MeM7F6eI/4c2rdKVpIE0lcTMWVPUlKoJZmUI+ericPe1Eb+L4Qif2/n6Kf4EFpqcL7ZE7guBGzNcu9qT6McdQWnA8t8GEq6YSQCY4SO1VLxAycsPqrOh0E78rsklAnI5qmUe61NnOJ0UriviYB9um16I3cjCZw9VG5pj4xAfkd3bN0l6TSHYhjB5Ia1B4IF2pu6ZlHvK0I7ROqajHu+3gi5IEslsfBo2RuCG6Vusyueu/DQATPRdsmfS2zIja0US5PrAkuXEUhiHgJOcwmTRr3f80kWOxcqXVswE9TQVEf86QRSDrHdsSG5Zzi/y3vjUzIM+S4g8fgXUC49ekBkCAzKFl51QNHhVWgcOa5eCyyLcyRPGPYjiimkkApiE3XcMdLX58jZAmCouQXskOyT1ssB5UDbX1fPa3WZATH6NZT1eL31hmPZgLDGm0iL0dBQqoVXVJEfKxmMfYNRbavAOE2K7zQyU3M/fzjrIWtEmozAhvSirMJfgt9WCFXXbRCoG/g/IzhmhCU64TPjfqUOwEFIlrWjjj+5kyhU3Gx1Du6u+fCklJijACsfnaf0GJIBpNzHsa6cr6Qud1S7Qd4f9JD3/XU6iH6mkwaEI=
     bucket: pixelbar.nl
