@@ -11,13 +11,13 @@
 
   <title>
     
-      Controlling the LED with a button &middot; pixelbar
+      Brenno de Winter will open the space &middot; pixelbar
     
   </title>
 
   <meta content="pixelbar" property="og:site_name">
   
-    <meta content="Controlling the LED with a button" property="og:title">
+    <meta content="Brenno de Winter will open the space" property="og:title">
   
   
     <meta content="article" property="og:type">
@@ -26,13 +26,20 @@
     <meta content="Hackerspace in Rotterdam, The Netherlands" property="og:description">
   
   
-    <meta content="http://pixelbar.github.io/workshops/1_basicarduinoworkshop/2/" property="og:url">
+    <meta content="http://pixelbar.github.io/2016/01/21/join-our-opening/" property="og:url">
   
+  
+    <meta content="2016-01-21T00:00:00+01:00" property="article:published_time">
+    <meta content="http://pixelbar.github.io/about/" property="article:author">
   
   
     <meta content="/img/logo-high-resolution.png" property="og:image">
   
   
+    
+  
+  
+    
   
 
   <!-- CSS -->
@@ -158,77 +165,52 @@
       </div>
 
       <div class="container content">
-        <p><a href="/workshops">← back to the workshops</a></p>
+        <div class="post">
+  <h1 class="post-title">Brenno de Winter will open the space</h1>
+  <span class="post-date">21 Jan 2016</span>
+  <p>Our opening starts at <strong>2 PM on Saturday, Februari 13th</strong>. Like we said before, we have some awesome things planned for you, so make sure to be on time!</p>
 
-<h1 id="controlling-the-led-with-a-button">Controlling the LED with a button</h1>
+<p>First of, we’re happy to announce that Brenno de Winter will be giving the opening talk.</p>
 
-<h3 id="requirements">Requirements</h3>
-<ul>
-  <li>Arduino Nano</li>
-  <li>Light Emitting Diode</li>
-  <li>220Ohm Resistor</li>
-  <li>10KOhm Resistor</li>
-  <li>Momentary Button</li>
-  <li>Breadboard</li>
-  <li>Jumper Wires</li>
-</ul>
+<p>There will be food and drinks, live music and workshops.</p>
 
-<h3 id="project-image">Project Image</h3>
+<p><a href="https://www.facebook.com/events/1715318488705411/">Let us know if you’ll be there</a>.</p>
 
-<p><img src="/public/images/workshops/1/sketch2.png" alt="sketch" /></p>
+</div>
 
-<h3 id="project-code">Project code</h3>
-
-<figure class="highlight"><pre><code class="language-java" data-lang="java"><span class="cm">/*
-  Button
-
- Turns on and off a light emitting diode(LED) connected to digital
- pin 2, when pressing a pushbutton attached to pin 3.
-
-
- The circuit:
- * LED attached from pin 2 to ground
- * pushbutton attached to pin 3 from +5V
- * 10K resistor attached to pin 3 from ground
-
- * Note: on most Arduinos there is already an LED on the board
- attached to pin 13.
-
- This example code is in the public domain.
-
- http://www.arduino.cc/en/Tutorial/Button
- */</span>
-
-<span class="c1">// constants won't change. They're used here to</span>
-<span class="c1">// set pin numbers:</span>
-<span class="kd">const</span> <span class="kt">int</span> <span class="n">buttonPin</span> <span class="o">=</span> <span class="mi">3</span><span class="o">;</span>     <span class="c1">// the number of the pushbutton pin</span>
-<span class="kd">const</span> <span class="kt">int</span> <span class="n">ledPin</span> <span class="o">=</span>  <span class="mi">2</span><span class="o">;</span>      <span class="c1">// the number of the LED pin</span>
-
-<span class="c1">// variables will change:</span>
-<span class="kt">int</span> <span class="n">buttonState</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span>         <span class="c1">// variable for reading the pushbutton status</span>
-
-<span class="kt">void</span> <span class="nf">setup</span><span class="p">(</span><span class="o">)</span> <span class="o">{</span>
-  <span class="c1">// initialize the LED pin as an output:</span>
-  <span class="n">pinMode</span><span class="o">(</span><span class="n">ledPin</span><span class="o">,</span> <span class="n">OUTPUT</span><span class="o">);</span>
-  <span class="c1">// initialize the pushbutton pin as an input:</span>
-  <span class="n">pinMode</span><span class="o">(</span><span class="n">buttonPin</span><span class="o">,</span> <span class="n">INPUT</span><span class="o">);</span>
-<span class="o">}</span>
-
-<span class="kt">void</span> <span class="nf">loop</span><span class="p">(</span><span class="o">){</span>
-  <span class="c1">// read the state of the pushbutton value:</span>
-  <span class="n">buttonState</span> <span class="o">=</span> <span class="n">digitalRead</span><span class="o">(</span><span class="n">buttonPin</span><span class="o">);</span>
-
-  <span class="c1">// check if the pushbutton is pressed.</span>
-  <span class="c1">// if it is, the buttonState is HIGH:</span>
-  <span class="k">if</span> <span class="o">(</span><span class="n">buttonState</span> <span class="o">==</span> <span class="n">HIGH</span><span class="o">)</span> <span class="o">{</span>
-    <span class="c1">// turn LED on:</span>
-    <span class="n">digitalWrite</span><span class="o">(</span><span class="n">ledPin</span><span class="o">,</span> <span class="n">HIGH</span><span class="o">);</span>
-  <span class="o">}</span>
-  <span class="k">else</span> <span class="o">{</span>
-    <span class="c1">// turn LED off:</span>
-    <span class="n">digitalWrite</span><span class="o">(</span><span class="n">ledPin</span><span class="o">,</span> <span class="n">LOW</span><span class="o">);</span>
-  <span class="o">}</span>
-<span class="o">}</span></code></pre></figure>
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2016/01/13/official-opening/">
+            Official opening
+            <small>13 Jan 2016</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2016/01/11/funded/">
+            Successfully funded
+            <small>11 Jan 2016</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2015/12/19/introducing-pixelbar/">
+            Introducing Pixelbar
+            <small>19 Dec 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
 
       </div>
     </div>
