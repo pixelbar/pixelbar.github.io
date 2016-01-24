@@ -37,28 +37,3 @@ If you don't live close, don't really feel like hacking or just don't have enoug
 * A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
 
 \- [Register](/register)
-
-### Location
-
-We're located in the "Keilewerf" at Vierhavensstraat 56, 3029 BG Rotterdam. There is (limited) parking space available and if you go with public transportation: you can take the stop at Marconiplein and walk you way up towards the KFC and take a left into the Vierhavensstraat. After about 450 meters, you'll be at our building (recognisable by all of the street art on the exterior of the building).
-
-<script src="https://maps.googleapis.com/maps/api/js"></script>
-<script>
-  function initialize() {
-    var mapCanvas = document.getElementById('map');
-    var mapOptions = {
-      center: new google.maps.LatLng(51.910111, 4.433988),
-      zoom: 16,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    }
-    var map = new google.maps.Map(mapCanvas, mapOptions)
-    var markerPos = new google.maps.LatLng(51.910111, 4.433988);
-    var marker = new google.maps.Marker({
-      position: markerPos,
-      map: map,
-      title: "Pixelbar HQ",
-    });
-  }
-  google.maps.event.addDomListener(window, 'load', initialize);
-</script>
-<div id="map" style="width: 100%; height: 400px; margin-bottom: 15px;"></div>

@@ -78,3 +78,7 @@ All requests are checked personally and we'll contact you within roughly 48 hour
     <button type="submit" class="btn btn-success">Submit request</button>
   </div>
 </form>
+
+### After you become a member
+
+You can become a member by registering yourself here. After we confirm your membership, you can create a monthly transfer for your contribution to our account. Our accountnumber is : <b>NL55INGB0006918331</b>. If you have any further questions, do not hesitate to send us an email at <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl</a>
