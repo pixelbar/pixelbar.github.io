@@ -14,7 +14,7 @@ title: About
 * We don’t destroy property or other people without their consent.
 
 ### Become a member
-As a member of the space, you'll get complete access. Every workshop, event, equipment, everything. Your equal to everyone else in the organisation and it's just 25 euro's per month. Which also means that you support our cause for 100%.
+As a member of the space, you'll get complete access. Every workshop, event, equipment, everything. You're equal to everyone else in the organisation and it's just 25 euro's per month. Which also means that you support our cause for 100%.
 
 * 24x7 access to the space (if you'd like a key)
 * Use of the tools/equipment in the space
