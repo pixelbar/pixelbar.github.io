@@ -7,33 +7,16 @@ title: About
   The hackerspace of Rotterdam since 2015.
 </p>
 
-### Our rules
-* We have respect for everyone: any gender or sexual preference.
-* We only accept members of 18 years and older to the space.
-* We respect nicknames, but to be a member - we'll need your personal name.
-* We don’t destroy property or other people without their consent.
+### History
 
-### Become a member
-As a member of the space, you'll get complete access. Every workshop, event, equipment, everything. You're equal to everyone else in the organisation and it's just 25 euro's per month. Which also means that you support our cause for 100%.
+The name Pixelbar was found around 2014 when 4 of our earliest members ( who are still member in the current foundation ) were joined together in one of the famous "Hacking Weekends". These weekends excisted for the sole purpose of having fun, creating stuff with electronics and programming.
 
-* 24x7 access to the space (if you'd like a key)
-* Use of the tools/equipment in the space
-* The possibility to show your project in the space
-* A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet)
-* A Pixelbar account (which allows you to register drinks)
-* A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
-* And we'll throw in a first (?) "mate" experience for you, as a true hacker
+### Campzone
 
-\- [Register](/register)
+Most of the members knew eachother from an event called <a href="http://www.campzone.nl">Campzone</a>. Campzone is a 11-day outdoor lan event. On this event, we found that most of the attendees in our tent were interested in more then gaming. For us campzone slowly turned around to be an hacking event instead of a gaming event. 
 
-### Become a friend
+<i><sup>These days we even call our tent : "Tent - Pixelbar" Because most of the people in this tent have allready joined ( or will be joining ) The Pixelbar Hackerspace.</sup></i>
 
-If you don't live close, don't really feel like hacking or just don't have enough funds to support the hackerspace... it is also possible to become a friend of the space for just 5 euro per month.
+### The next step
 
-* Access to the space (unregular, only when someone is present)
-* Use of the tools/equipment in the space
-* A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet)
-* A Pixelbar account (which allows you to register drinks)
-* A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
-
-\- [Register](/register)
+Most of the Pixelbar meetings took place at the home of any of the friends. Even though we had lots of fun at these meetings Around August 2015 we decided to take a step forward. David and Miep went to the notary and Pixelbar was officially founded. A location was found fast at the Keilewerf in Rotterdam. The Keilewerf was pleased to create housing for a new hackerspace.
