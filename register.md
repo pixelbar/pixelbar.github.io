@@ -82,3 +82,7 @@ All requests are checked personally and we'll contact you within roughly 48 hour
 ### After you become a member
 
 You can become a member by registering yourself here. After we confirm your membership, you can create a monthly transfer for your contribution to our account. Our accountnumber is : <b>NL55INGB0006918331</b>. If you have any further questions, do not hesitate to send us an email at <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl</a>
+
+### Privacy Statement
+
+At Pixelbar we think privacy is very important, therefor we just use your information to validate you meet the requirements ( like the age ) We can also use the data for direct contact from the board to you. We have no interest in sending spam, since we are nog a commercial company. We will nog sell your data, we will nog abuse your data. If you have questions about this, please email <a href="mailto:bestuur@pixelbar.nl">the board</a> or hop by and visit Pixelbar in Rotterdam!
