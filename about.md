@@ -9,7 +9,7 @@ title: About
 
 ### History
 
-The name Pixelbar was found around 2014 when 4 of our earliest members ( who are still member in the current foundation ) were joined together in one of the famous "Hacking Weekends". These weekends excisted for the sole purpose of having fun, creating stuff with electronics and programming.
+The name Pixelbar was founded around 2013 when 4 of our earliest members ( who still are members in the current foundation ) were joined together in one of the famous "Hacking Weekends". These weekends excisted for the sole purpose of having fun, creating stuff with electronics and programming.
 
 ### Campzone
 

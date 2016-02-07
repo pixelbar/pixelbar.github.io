@@ -11,8 +11,8 @@ title: Contact
 
 Telephone : At this moment there is no phone yet<br />
 IRC : #pixelbar at smurfnet.ch<br />
-Slack : <a href="https://pixelbar.slack.com">pixelbar.slack.com</a><br />
-Email : <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl</a>
+Slack : <a href="https://pixelbar.herokuapp.com">pixelbar.herokuapp.com</a> Feel free to invite yourself.<br />
+Email : <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
 
 ### Location
 
