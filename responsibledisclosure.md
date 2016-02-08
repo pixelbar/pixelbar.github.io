@@ -1,11 +1,7 @@
 ---
-layout: page
+layout: default
 title: Responsible Disclosure
 ---
-
-<p class="message">
-  The hackerspace of Rotterdam since 2015.
-</p>
 
 ### Responsible Disclosure
 
