@@ -11,7 +11,8 @@ function getState() {
 
 $(getState);
 
-$(function() {
+
+/*$(function() {
   $('#registerbackup').submit(function(e) {
     e.preventDefault();
     var data = $(this).serializeFormJSON();
@@ -38,7 +39,7 @@ $(function() {
     })
   });
 });
-
+*/
 $(function() {
   $('#register').submit(function(e) {
     e.preventDefault();
