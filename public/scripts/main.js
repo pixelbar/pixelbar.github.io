@@ -12,7 +12,7 @@ function getState() {
 $(getState);
 
 $(function() {
-  $('#register').submit(function(e) {
+  $('#registerbackup').submit(function(e) {
     e.preventDefault();
     var data = $(this).serializeFormJSON();
 
@@ -36,6 +36,25 @@ $(function() {
 
       $('input').attr('disabled', false)
     })
+  });
+});
+
+$(function() {
+  $('#register').submit(function(e) {
+    e.preventDefault();
+    var data = $(this).serialize();
+	$('.formhandler').remove()
+	$('input').attr('disabled', true)
+    $.ajax({
+		type: "POST",
+		url: "https://api.pixelbar.nl/becomeamember/",
+		data: data,
+		success: function() {
+			$('form').replaceWith(`
+				<p class="message formhandler">We've received your request. You will recieve a confirmation email soon.</p>
+			`)
+		}
+	});
   });
 });
 
