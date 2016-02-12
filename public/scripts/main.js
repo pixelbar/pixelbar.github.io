@@ -51,7 +51,7 @@ $(function() {
 		data: data,
 		success: function() {
 			$('form').replaceWith(`
-				<p class="message formhandler">We've received your request. Please be patient while we review it, which can take upto 12 hours. If you can't wait or have questions, please <a href="mailto:bestuur@pixelbar.nl">contact us</a>.</p>
+				<p class="message formhandler">We've received your request. You will recieve a confirmation email soon.</p>
 			`)
 		}
 	});
