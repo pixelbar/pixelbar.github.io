@@ -48,7 +48,7 @@ $(function() {
 	$('input').attr('disabled', true)
     $.ajax({
 		type: "POST",
-		url: "https://api.pixelbar.nl/becomeamember/",
+		url: "https://api.pixelbar.nl/becomeamember/idnex.php",
 		data: data,
 		success: function() {
 			$('form').replaceWith(`
