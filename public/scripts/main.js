@@ -18,7 +18,7 @@ $(function() {
 
     $('input').attr('disabled', true)
     $('.formhandler').remove()
-    fetch('http://pixelbar.elasticbeanstalk.com/register', {
+    fetch('https://api1.pixelbar.nl/register', {
       method: 'post',
       headers: {
         'Accept': 'application/json',
