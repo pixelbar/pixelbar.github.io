@@ -12,7 +12,7 @@ function getState() {
 $(getState);
 
 $(function() {
-  $('form').submit(function(e) {
+  $('#register').submit(function(e) {
     e.preventDefault();
     var data = $(this).serializeFormJSON();
 

@@ -14,7 +14,7 @@ All requests are checked personally and we'll contact you within roughly 48 hour
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
 
-<form>
+<form id="register">
   <table>
     <tbody>
       <tr>
