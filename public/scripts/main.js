@@ -46,7 +46,7 @@ $(function() {
 	$('.formhandler').remove()
 	$('input').attr('disabled', true)
     $.ajax({
-		type: "POST"",
+		type: "POST",
 		url: "https://lists.pixelbar.nl/mailman/subscribe/pixelbar",
 		data: data,
 		success: function() {
