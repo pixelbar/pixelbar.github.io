@@ -11,8 +11,9 @@ function getState() {
 
 $(getState);
 
-$(function() {
-  $('form').submit(function(e) {
+
+/*$(function() {
+  $('#registerbackup').submit(function(e) {
     e.preventDefault();
     var data = $(this).serializeFormJSON();
 
@@ -27,7 +28,7 @@ $(function() {
       body: JSON.stringify(data)
     }).then(parseJSON).then(checkStatus).then(function () {
       $('form').replaceWith(`
-        <p class="message formhandler">We've received your request. Please be patient while we review it, which can take upto 48 hours. Than we will contact you. If you can't wait or have questions, please <a href="mailto:bestuur@pixelbar.nl">contact us</a>.</p>
+        <p class="message formhandler">We've received your request. Please be patient while we review it, which can take upto 48 hours. We will contact you afterwards. If you can't wait or have questions, please <a href="mailto:bestuur@pixelbar.nl">contact us</a>.</p>
       `)
     }).catch(function (err) {
       $('form').before(`
@@ -36,6 +37,44 @@ $(function() {
 
       $('input').attr('disabled', false)
     })
+  });
+});
+*/
+$(function() {
+  $('#register').submit(function(e) {
+    e.preventDefault();
+    var data = $(this).serialize();
+	$('.formhandler').remove()
+	$('input').attr('disabled', true)
+    $.ajax({
+		type: "POST",
+		url: "https://api.pixelbar.nl/becomeamember/",
+		data: data,
+		success: function() {
+			$('form').replaceWith(`
+				<p class="message formhandler">We've received your request. Please be patient while we review it, which can take upto 48 hours. We will contact you afterwards. If you can't wait or have questions, please <a href="mailto:bestuur@pixelbar.nl">contact us</a>.</p>
+			`)
+		}
+	});
+  });
+});
+
+$(function() {
+  $('#joinlist').submit(function(e) {
+    e.preventDefault();
+    var data = $(this).serialize();
+	$('.formhandler').remove()
+	$('input').attr('disabled', true)
+    $.ajax({
+		type: "POST",
+		url: "https://lists.pixelbar.nl/mailman/subscribe/pixelbar",
+		data: data,
+		success: function() {
+			$('form').replaceWith(`
+				<p class="message formhandler">We've received your request. You will recieve a confirmation email soon.</p>
+			`)
+		}
+	});
   });
 });
 

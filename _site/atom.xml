@@ -4,13 +4,37 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2016-02-08T10:23:31+01:00</updated>
+ <updated>2016-02-15T22:49:40+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>It's open!</title>
+   <link href="http://pixelbar.github.io/2016/02/15/its-open/"/>
+   <updated>2016-02-15T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2016/02/15/its-open</id>
+   <content type="html">&lt;p&gt;The party last Saturday was awesome! Thank you all for visiting, the presents and many thanks to all the other hackerspaces for helping out! This has really kickstarted the current space. We’ve also received lots of ideas and input on how we should create and arrange everything in the new (upcoming) space.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://keilefest.nl&quot;&gt;Keilefest&lt;/a&gt; did a great job on the festival, with artists like &lt;a href=&quot;http://wldrf.nl/&quot;&gt;WLDRF&lt;/a&gt; and the great food and beverages.&lt;/p&gt;
+
+&lt;p&gt;But most of all, thank you Brenno for giving a presentation and explaining the world about hackerspaces (Dutch):&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uh8JPt6GkNM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Media coverage (Dutch)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/davidvanleeuwen/interview-pixelbar-12-feb-2016-radio-rijnmond&quot;&gt;Radio Rijnmond interview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.metronieuws.nl/nieuws/rotterdam/2016/02/rotterdamse-pixelbar-is-grote-hobbyclub-voor-hackers&quot;&gt;Metro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://denieuwspeper.nl/nieuws/pixelbar-in-de-keilewerf-is-de-eerste-hackerspace-van-rotterdam/&quot;&gt;De Nieuwspeper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Brenno de Winter will open the space</title>
@@ -23,7 +47,7 @@
 
 &lt;p&gt;There will be food and drinks, live music and workshops.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1715318488705411/&quot;&gt;Let us know if you’ll be there&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/1715318488705411/&quot;&gt;If you use Facebook, you can let us know if you’ll be there&lt;/a&gt;. Or just give us a poke on IRC, Slack, Mail,…&lt;/p&gt;
 </content>
  </entry>
  
