@@ -4,13 +4,45 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2016-04-06T00:58:53+02:00</updated>
+ <updated>2016-04-28T23:42:21+02:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Buildlog new space part 2</title>
+   <link href="http://pixelbar.github.io/2016/04/28/buildlog-new-space-part-2/"/>
+   <updated>2016-04-28T00:00:00+02:00</updated>
+   <id>http://pixelbar.github.io/2016/04/28/buildlog-new-space-part-2</id>
+   <content type="html">&lt;p&gt;So, we can start each post with a standard “we’re back again” however we though it was a better idea to show you what we did so-far. On Kingsday 2016 we came together with some of our members to start working on the walls of the new hackerspace.&lt;/p&gt;
+
+&lt;h3 id=&quot;our-agenda&quot;&gt;Our Agenda&lt;/h3&gt;
+
+&lt;p&gt;We started the day getting some wood, After we brought the new materials back to the space we started working on a frame for one of the walls. At noon, we had finished our first wall frame. Later during the day we made another frame. At least it’s a start.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.xx.fbcdn.net/t31.0-8/13130854_567355333438862_8943574628870175768_o.jpg&quot; width=&quot;350px&quot; /&gt;
+&lt;img src=&quot;https://scontent.xx.fbcdn.net/t31.0-8/13122977_567355330105529_29934000954332968_o.jpg&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;next-build-meetup&quot;&gt;Next build meetup&lt;/h3&gt;
+
+&lt;p&gt;This weekend, on Saturday 30th of April we will be back at Pixelbar to continue our work. The additional wood has arrived and we are really looking forward to continue building Pixelbar!. If you are around, feel free to drop by. ( but note, we might ask you to help us ;) ).&lt;/p&gt;
+
+&lt;h3 id=&quot;project-wifi&quot;&gt;Project WiFi&lt;/h3&gt;
+
+&lt;p&gt;Together with Keilewerf, we thought of an central WiFi network infrastructure. The “old” WiFi network was only working in the central kitchen. Unfortunately the reach was not enough for all of the awesome neighbours we have at the Keilewerf. Dennus and Miep started working on the new WiFi environment on Kingsday. At the end of the evening everything worked! We had places 1 small rack as distribution and 5 Accesspoints were placed at this moment, 2 more are to be placed in Pixelbar itself. For complete awesomeness we have added 2 racks to our hackerspace ( which were sponsored by [nifhack’(http://www.nifhack.nl). We will distribute the network of our hackerspace centrally via these racks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://scontent.xx.fbcdn.net/t31.0-8/s960x960/13063050_567355376772191_7661748750779694234_o.jpg&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;we-need-you&quot;&gt;We need you!&lt;/h3&gt;
+
+&lt;p&gt;Do you want to know all about our new hackerspace ? Please look over &lt;a href=&quot;https://wiki.pixelbar.nl/index.php/Projects:2016:New_Hackerspace&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Feel free to send us advice or, even more important help us building the new space. We are nowhere without help from our participants and our friends. We try to keep the Wiki as up-to-date as possible. When we have final dates for building the construction we will also send out an email to our mailinglist which you can join &lt;a href=&quot;https://www.pixelbar.nl/joinlist/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Buildlog new space and HackerHotel</title>
