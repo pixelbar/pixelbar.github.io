@@ -18,7 +18,7 @@ This weekend, on Saturday 30th of April we will be back at Pixelbar to continue 
 
 ### Project WiFi
 
-Together with Keilewerf, we thought of an central WiFi network infrastructure. The "old" WiFi network was only working in the central kitchen. Unfortunately the reach was not enough for all of the awesome neighbours we have at the Keilewerf. Dennus and Miep started working on the new WiFi environment on Kingsday. At the end of the evening everything worked! We had places 1 small rack as distribution and 5 Accesspoints were placed at this moment, 2 more are to be placed in Pixelbar itself. For complete awesomeness we have added 2 racks to our hackerspace ( which were sponsored by [nifhack'(http://www.nifhack.nl). We will distribute the network of our hackerspace centrally via these racks.
+Together with Keilewerf, we thought of an central WiFi network infrastructure. The "old" WiFi network was only working in the central kitchen. Unfortunately the reach was not enough for all of the awesome neighbours we have at the Keilewerf. Dennus and Miep started working on the new WiFi environment on Kingsday. At the end of the evening everything worked! We had places 1 small rack as distribution and 5 Accesspoints were placed at this moment, 2 more are to be placed in Pixelbar itself. For complete awesomeness we have added 2 racks to our hackerspace ( which were sponsored by [nifhack](http://www.nifhack.nl) ). We will distribute the network of our hackerspace centrally via these racks.
 
 <img src="https://scontent.xx.fbcdn.net/t31.0-8/s960x960/13063050_567355376772191_7661748750779694234_o.jpg" width="350px">
 
