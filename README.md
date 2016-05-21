@@ -8,4 +8,4 @@ Change anything you like, and make a pull request!
 
 If you'd like to add an article, add a page or fix a typo. Please create a fork on Github and make a pull request!
 
-🍆
+🍆😎
