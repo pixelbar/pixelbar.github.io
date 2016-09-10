@@ -58,4 +58,5 @@ If you call Pixelbar, a voice system will tell you if we're open at that moment.
 
 ### Organisational
 
-Chambre of Commerce : 63989255 ( Rotterdam )
+* Chambre of Commerce : 63989255 ( Rotterdam )
+* VAT Number : NL855478172B01
