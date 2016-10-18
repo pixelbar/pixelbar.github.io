@@ -4,7 +4,14 @@ title: Workshops
 ---
 
 
-### 1. Basic Arduino / Electronics
+### 1. NodeSchool
+
+NodeSchool are hosted open source workshops that teach web software skills. And best of all... they're free. Node.js is a popular, open-source, cross-platform JavaScript runtime environment for developing a diverse variety of tools and applications.
+
+NodeSchool <span>#1:<span> Basics with ES6
+<iframe src="//slides.com/davidvanleeuwen/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+### 2. Basic Arduino / Electronics
 
 #### Prerequisites:
 
