@@ -20,8 +20,8 @@ All requests are checked personally and we'll contact you within roughly 48 hour
       <tr>
         <td><label class="control-label">What type of hacker are you?</label></td>
         <td>
-          <input type="radio" name="membertype" value="member" id="member" checked><label class="control-label" for="member">Member of the Space (25 euro)</label></input> <br />
-          <input type="radio" name="membertype" value="friend" id="friend"><label class="control-label" for="friend">Friend of the Space (5 euro)</label></input>
+          <input type="radio" name="membertype" value="member" id="member" checked><label class="control-label" for="member">Member of the Space (25 euro)</label><br />
+          <input type="radio" name="membertype" value="friend" id="friend"><label class="control-label" for="friend">Friend of the Space (5 euro)</label>
         </td>
       </tr>
 
