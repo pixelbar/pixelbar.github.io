@@ -4,7 +4,7 @@ title: Register
 ---
 
 <p class="message">
-  <a href="/about">Read more about our memberships →</a>
+  <a href="/becomingamember/">Read more about our memberships →</a>
 </p>
 
 ### Request to become a member
