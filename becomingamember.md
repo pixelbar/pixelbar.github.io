@@ -9,9 +9,9 @@ title: Becoming a member
 
 ### Our rules
 * We have respect for everyone: any gender or sexual preference.
-* We only accept members of 18 years and older to the space.
 * A Membership is personal, You can not transfer your membership.
 * We don’t destroy property of/and other people without their consent.
+* If you are younger than 18 and want to join Pixelbar, please contact us or visit the space.
 
 ### Become a member
 As a member of the space, you'll get complete access. Every workshop, event, equipment, everything. You're equal to everyone else in the organisation and it's just 25 euro's per month. Which also means that you support our cause for 100%.
