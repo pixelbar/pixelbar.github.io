@@ -31,7 +31,7 @@ As we have noticed lately, there are some basic questions almost everyone we mee
 <b>A: </b>Yes you can! If you become a Full Member one of the perks is receiving a key to the hackerspace so you can hack whenever you want. Just one small sidenote, we still have no private front-door. This is still a work in progress for now.
 
 <b>Q: </b><i>I'm visiting from really really far away. Can i sleep at Pixelbar?</i><br />
-<b>A: </b>No, The fire brigade wont let enyone sleep inside the building. The building is safe, but with all the tools and materials around we dont want to risk anybody getting hurt when sleeping inside Pixelbar.
+<b>A: </b>No, The fire brigade wont let anyone sleep inside the building. The building is safe, but with all the tools and materials around we dont want to risk anybody getting hurt when sleeping inside Pixelbar.
 
 <b>Q: </b><i>Everything you write is in english. Is this the primary language at Pixelbar?</i><br />
 <b>A: </b>No. Our website is written in english for readability by everyone. Rotterdam is an international city. We have members from multiple nationalities. We talk Dutch most of the time, but you also might hear some German or other languages when you are around.
