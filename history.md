@@ -4,7 +4,7 @@ title: History
 ---
 
 <p class="message">
-  The hackerspace of Rotterdam since 2015.
+  Opening hours: <br /> Every Wednesday - from 7pm <br /> Every Saturday - from 2pm <br /><br /><small>If the spatestate says it's open, but the door isn't, please call +31 (0) 10 7171 591.</small>
 </p>
 
 ### History
