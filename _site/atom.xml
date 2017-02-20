@@ -4,13 +4,26 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2016-11-23T22:58:50+01:00</updated>
+ <updated>2017-02-20T21:15:36+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Ancilla van de Leest surprise visit</title>
+   <link href="http://pixelbar.github.io/2017/02/20/ancilla-te-gast/"/>
+   <updated>2017-02-20T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2017/02/20/ancilla-te-gast</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;This Wednesday, on Feb 22th at 8pm&lt;/strong&gt; our hackerspace will welcome a special guest. Namely: &lt;a href=&quot;https://twitter.com/ncilla&quot;&gt;Ancilla van de Leest&lt;/a&gt;, the leader of the &lt;a href=&quot;https://tk2017.piratenpartij.nl/&quot;&gt;Pirate Party&lt;/a&gt; of The Netherlands. The reason why she is stopping by is not necessarily because she is from Rotterdam and visits hackerpaces regularly (it’s a first for our space though). No, instead she will visit us to talk about her party and the upcoming Dutch parliamentary elections, which are happening next month.&lt;/p&gt;
+
+&lt;iframe style=&quot;padding-bottom: 15px;&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GbjUe-FYg7s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Although you might or might not share the same political views, everyone is welcome and our space is open for new discussions. So if you’re interested in Dutch politics, the Pirate Party, net neutrality, privacy topics or Ancilla in general - come visit us this Wednesday.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>NodeSchool <span>#3:</span> realtime</title>
