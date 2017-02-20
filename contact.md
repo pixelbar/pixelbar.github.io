@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <p class="message">
-  The hackerspace of Rotterdam since 2015.
+  We're the hackerspace of Rotterdam since 2015. <br /><br /> Opening hours: <br /> Every Wednesday - from 7pm <br /> Every Saturday - from 2pm <br /><br /><small>If the spatestate says it's open, but the door isn't, please call the number below.</small>
 </p>
 
 ### Contact
