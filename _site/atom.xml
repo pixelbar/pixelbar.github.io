@@ -4,13 +4,25 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2017-02-20T21:36:09+01:00</updated>
+ <updated>2017-03-18T15:27:16+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Visit the Minsk hackerspace</title>
+   <link href="http://pixelbar.github.io/2017/03/18/minsk-hackerspace/"/>
+   <updated>2017-03-18T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2017/03/18/minsk-hackerspace</id>
+   <content type="html">&lt;p&gt;Recently we had a member of the hackerspace in Minsk, Belarus, visited our space. Yahor gave a presentation about what they have done and are doing right now at their space. Pretty interesting and cool too see. And obviously we’re happy to welcome everyone at our space. Check out his presentation:&lt;/p&gt;
+
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/18mFYDeYVEEc0Y9-B2Sl1Rb1A2ouCksU3TFgMfkbK540/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;480&quot; height=&quot;299&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Ancilla van de Leest surprise visit</title>
