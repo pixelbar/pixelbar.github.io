@@ -4,13 +4,28 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2017-03-18T15:28:30+01:00</updated>
+ <updated>2017-03-22T19:34:43+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Open doors day hackerspace</title>
+   <link href="http://pixelbar.github.io/2017/03/22/open-doors-day/"/>
+   <updated>2017-03-22T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2017/03/22/open-doors-day</id>
+   <content type="html">&lt;p&gt;This Saturday (March 25) 10 hackerspaces will open their doors to the public. And obviously Pixelbar we be one of those hackerspaces, as we are opening our doors for everyone that wants to visit.&lt;/p&gt;
+
+&lt;p&gt;From 11:00 until 17:00 you can visit us where you can see our projects, talk with our members and can become more familiar with our hackerspace. So if you are looking for some inspiration, learn something or just want to chill, visit us this Saturday!&lt;/p&gt;
+
+&lt;p&gt;No need to sign up, just come by at our space. You can find us in the &lt;a href=&quot;https://www.pixelbar.nl/contact/&quot;&gt;Keilewerf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Do you want to visit other hackerspaces too? Check out the &lt;a href=&quot;https://hackerspaces.nl/open-dag/&quot;&gt;Dutch hackerspaces site&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Visit the Minsk hackerspace</title>
