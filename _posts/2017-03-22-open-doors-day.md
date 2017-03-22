@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open doors day hackerspace
+title: Open doors day
 ---
 
 This Saturday (March 25) 10 hackerspaces will open their doors to the public. And obviously Pixelbar we be one of those hackerspaces, as we are opening our doors for everyone that wants to visit.
