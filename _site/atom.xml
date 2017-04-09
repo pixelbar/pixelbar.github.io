@@ -4,13 +4,43 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2017-03-22T19:40:21+01:00</updated>
+ <updated>2017-04-09T22:25:00+02:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Announcing Electron Junction @ Pixelbar</title>
+   <link href="http://pixelbar.github.io/2017/04/09/announcing-electron-junction/"/>
+   <updated>2017-04-09T00:00:00+02:00</updated>
+   <id>http://pixelbar.github.io/2017/04/09/announcing-electron-junction</id>
+   <content type="html">&lt;p&gt;We’re happy to announce &lt;a href=&quot;https://electronjunction.nl&quot;&gt;Electron Junction&lt;/a&gt;. An event that is all about people that like to tinker and play around with electronics, which can be as simple as blinking a LED with an Arduino or as complicated as building autonomous robots to explore the universe. While the focus will be on hardware, software will play an important role as well.&lt;/p&gt;
+
+&lt;p&gt;Tickets are available via the &lt;a href=&quot;https://tickets.pixelbar.nl/ej/1/&quot;&gt;Pixelbar Ticketshop&lt;/a&gt;. If you want to participate in the Arduino workshop by Mitch Altman or the SMD workshop by Klimnt you can reserve your spot and reserve the required kits of components in the shop as well. Please note, there are limited component kits.&lt;/p&gt;
+
+&lt;p&gt;Electron Junction is the first day-long event organized by Pixelbar Rotterdam.&lt;/p&gt;
+
+&lt;p&gt;Event Information&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Date : April 22, 2017.&lt;/li&gt;
+  &lt;li&gt;Time : 12:00 AM - 0:00 PM CEST.&lt;/li&gt;
+  &lt;li&gt;Location : &lt;a href=&quot;http://www.keilewerf.nl&quot;&gt;Keilewerf&lt;/a&gt; - Vierhavensstraat 56, 3364 DL Rotterdam.&lt;/li&gt;
+  &lt;li&gt;Organisation : &lt;a href=&quot;https://www.pixelbar.nl&quot;&gt;Pixelbar&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Website : &lt;a href=&quot;https://www.electronjunction.nl&quot;&gt;https://www.electronjunction.nl&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A social evening will follow on the event. Food will be available for donations and we’ll have some Club Mate and Beer. Maybe even tschunk.&lt;/p&gt;
+
+&lt;p&gt;Looking forward to see you in Rotterdam!&lt;/p&gt;
+
+&lt;p&gt;We are still looking for additional speakers and people who would like to present their projects. 
+This can be either a talk of about 45 mins or, equally awesome, you are welcome to bring your project for a live demo during the day. Please contact the orga at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#064;&amp;#112;&amp;#105;&amp;#120;&amp;#101;&amp;#108;&amp;#098;&amp;#097;&amp;#114;&amp;#046;&amp;#110;&amp;#108;&quot;&gt;orga [at] pixelbar.nl&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Open doors day</title>
