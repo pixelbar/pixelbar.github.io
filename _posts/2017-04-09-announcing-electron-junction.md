@@ -14,7 +14,7 @@ Electron Junction is the first day-long event organized by Pixelbar Rotterdam.
 Event Information
 
 * Date : April 22, 2017.
-* Time : 12:00 AM - 0:00 PM CEST.
+* Time : 12:00 - 0:00 CEST.
 * Location : [Keilewerf](http://www.keilewerf.nl) - Vierhavensstraat 56, 3364 DL Rotterdam.
 * Organisation : [Pixelbar](https://www.pixelbar.nl).
 * Website : [https://www.electronjunction.nl](https://www.electronjunction.nl).
