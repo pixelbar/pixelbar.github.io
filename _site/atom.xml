@@ -4,13 +4,28 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2017-05-24T23:11:42+02:00</updated>
+ <updated>2017-08-23T13:12:34+02:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Nodeschool meets Fabcity on September 2nd</title>
+   <link href="http://pixelbar.github.io/2017/08/23/nodeschool-fabcity/"/>
+   <updated>2017-08-23T00:00:00+02:00</updated>
+   <id>http://pixelbar.github.io/2017/08/23/nodeschool-fabcity</id>
+   <content type="html">&lt;p&gt;Nodeschool Rotterdam is getting bigger, better and stronger. We’re super happy to team up with &lt;a href=&quot;http://futurefluxfestival.nl/program/fabcity-rotterdam/&quot;&gt;Fabcity&lt;/a&gt; on September 2 to introduce more people to NodeJS!&lt;/p&gt;
+
+&lt;p&gt;We also slightly changed the format, so it’s an all new NodeSchool and therefor we’re going to do something special, namely: hardware hacking. Using JavaScript and NodeJS we’re going to start out doing some hardware challenges. It’ll be heavily inspired by Nodebots. So please join us and let’s hack something cool together!&lt;/p&gt;
+
+&lt;p&gt;It’s open to everyone, it doesn’t matter if you don’t have any experience coding and/or with hardware. All you need to do is stop by and have a look. If you want to join the focussed session however, please signup and show up for the one at 12:00 or 15:00 and please bring a laptop.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://nodeschool.io/rotterdam/&quot;&gt;Check out the website for more information&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Announcing Electron Junction @ Pixelbar</title>
