@@ -49,8 +49,8 @@ We're located in the <a href="http://www.keilewerf.nl">Keilewerf</a>. There is (
 </script>
 <div id="map" style="width: 100%; height: 400px; margin-bottom: 15px;"></div>
 
-Our "frontdoor" can be found over here:
-![location](/public/images/shared/location.png)
+Our "frontdoor" can be found over here (please push the button, only works when the spacestate is open):
+![location](/public/images/shared/location.jpg)
 
 ### Spacestate
 
