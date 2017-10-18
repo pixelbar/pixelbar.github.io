@@ -49,6 +49,9 @@ We're located in the <a href="http://www.keilewerf.nl">Keilewerf</a>. There is (
 </script>
 <div id="map" style="width: 100%; height: 400px; margin-bottom: 15px;"></div>
 
+Our "frontdoor" can be found over here:
+![location](/public/images/shared/location.png)
+
 ### Spacestate
 
 Allmost every hackerspace has a way of letting visitors know if the space is open. This is called a SpaceState. At Pixelbar we also implemented a spacestate switch which is toggled by the first participant entering the hackerspace, and is toggled to close when the last participant leaves. You will find the current spacestate on the top of this website. If you follow us on twitter : <a href="https://www.twitter.com/pixelbar010">@pixelbar010</a>, You will see a tweet everytime the switch is toggled. If you use Pushover we can even send you a push message via the link <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">here</a>
