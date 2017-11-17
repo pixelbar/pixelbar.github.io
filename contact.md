@@ -11,7 +11,7 @@ title: Contact
 
 Telephone : +31 (0) 10 7171 591<br />
 IRC : #pixelbar at smurfnet.ch<br />
-Slack : <a href="https://pixelbar.herokuapp.com">pixelbar.herokuapp.com</a> Feel free to invite yourself.<br />
+Slack : <a href="https://slack.pixelbar.nl/">slack.pixelbar.nl</a> Feel free to invite yourself.<br />
 Email : <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
 
 Mailing List : Pixelbar has a mailinglist for general communication. You can subscribe yourself <a href="https://www.pixelbar.nl/joinlist/">here</a>
