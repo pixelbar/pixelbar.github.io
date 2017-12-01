@@ -4,13 +4,38 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2017-11-29T10:42:09+01:00</updated>
+ <updated>2017-12-01T15:12:14+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Hacktalk/CryptoParty at Worm</title>
+   <link href="http://pixelbar.github.io/2017/11/30/worm-cryptoparty/"/>
+   <updated>2017-11-30T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2017/11/30/worm-cryptoparty</id>
+   <content type="html">&lt;p&gt;Nowadays everyone is concerned about their privacy, right?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Arguing that you don’t care about privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;– Edward Snowden&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, we’d like to think so. Therefor we’re going to take matters into our own hands during this awesome CryptoParty! Learn, talk and inspire each other how to be better.&lt;/p&gt;
+
+&lt;p&gt;At a &lt;a href=&quot;https://www.cryptoparty.in&quot;&gt;CryptoParty&lt;/a&gt; you can learn how to encrypt your emails and messages, how to browse anonymously and ask all the questions you have about privacy and security. Although talking about security is an option, a CryptoParty makes much more sense if you can install some security tools and learn how to use them, so bring a laptop or a smartphone to the event!&lt;/p&gt;
+
+&lt;p&gt;The event is free and open for everyone, especially for those without prior knowledge of cybersecurity. As we need to know how many people will join, we ask you to &lt;a href=&quot;https://worm.stager.nl/web/tickets/171834&quot;&gt;please sign up here&lt;/a&gt;, using any nickname you like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At 19:00 our friend &lt;a href=&quot;https://shiromarieke.github.io/&quot;&gt;Marie&lt;/a&gt; will take the lead and help everyone be more secure with a group of volunteers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;See you &lt;a href=&quot;https://worm.org/&quot;&gt;there&lt;/a&gt;!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Happy Sint Pannekoek!</title>
