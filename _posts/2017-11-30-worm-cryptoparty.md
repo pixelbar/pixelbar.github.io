@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacktalk/CryptoParty at Worm
+title: CryptoParty at Worm (12/12)
 ---
 
 Nowadays everyone is concerned about their privacy, right?
