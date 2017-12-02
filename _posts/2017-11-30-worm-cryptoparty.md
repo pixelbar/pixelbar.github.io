@@ -17,4 +17,4 @@ The event is free and open for everyone, especially for those without prior know
 
 **At 19:00 our friend [Marie](https://shiromarieke.github.io/) will take the lead and help everyone be more secure with a group of volunteers.**
 
-See you [there](https://worm.org/)!
+This event is hosted at [Worm](https://worm.org/) by [Hacktalk](https://hacktalk.nl) and [Rotterdam Security Labs](https://roselabs.nl/about/).
