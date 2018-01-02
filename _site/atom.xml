@@ -4,13 +4,26 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2017-12-02T19:24:50+01:00</updated>
+ <updated>2018-01-02T07:45:51+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Hacky Newyear</title>
+   <link href="http://pixelbar.github.io/2018/01/02/Hacky-Newyear/"/>
+   <updated>2018-01-02T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2018/01/02/Hacky-Newyear</id>
+   <content type="html">&lt;p&gt;We want to wish everyone a very hacky newyear!&lt;/p&gt;
+
+&lt;p&gt;This year will be all about hacking, exploring and creating new stuff! Do you want to find out more about that really old ZX Spectrum or do you really want to learn Rust, C#, NodeJS or any other programming language ? That’s what we’re about! We really support learning new things! And what better time to start hacking then with the beginning of a new year!&lt;/p&gt;
+
+&lt;p&gt;Do we see you around this year ? We’re looking forward to it!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>CryptoParty at Worm (12/12)</title>
