@@ -85,4 +85,4 @@ You can become a member by registering yourself here. After we confirm your memb
 
 ### Privacy Statement
 
-At Pixelbar we think privacy is very important, therefor we just use your information to validate you meet the requirements ( like the age ) We can also use the data for direct contact from the board to you. We have no interest in sending spam, since we are nog a commercial company. We will nog sell your data, we will nog abuse your data. If you have questions about this, please email <a href="mailto:bestuur@pixelbar.nl">the board</a> or hop by and visit Pixelbar in Rotterdam!
+At Pixelbar we think privacy is very important, therefor we just use your information to validate you meet the requirements ( like the age ) We can also use the data for direct contact from the board to you. We have no interest in sending spam, since we are not a commercial company. We will not sell your data, we will not abuse your data. If you have questions about this, please email <a href="mailto:bestuur@pixelbar.nl">the board</a> or hop by and visit Pixelbar in Rotterdam!
