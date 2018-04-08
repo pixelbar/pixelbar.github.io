@@ -11,9 +11,9 @@ title: History
 
 The name Pixelbar was founded around 2013 when 4 of our earliest members ( who still are members in the current foundation ) were joined together in one of the famous "Hacking Weekends". These weekends excisted for the sole purpose of having fun, creating stuff with electronics and programming.
 
-### Campzone
+### CampZone
 
-Most of the members knew eachother from an event called <a href="http://www.campzone.nl">Campzone</a>. Campzone is a 11-day outdoor lan event. On this event, we found that most of the attendees in our tent were interested in more then gaming. For us campzone slowly turned around to be an hacking event instead of a gaming event. 
+Most of the members knew eachother from an event called <a href="http://www.campzone.nl">CampZone</a>. CampZone is a 11-day outdoor lan event. On this event, we found that most of the attendees in our tent were interested in more then gaming. For us CampZone slowly turned around to be an hacking event instead of a gaming event. 
 
 <i><sup>These days we even call our tent : "Tent - Pixelbar" Because most of the people in this tent have allready joined ( or will be joining ) The Pixelbar Hackerspace.</sup></i>
 
