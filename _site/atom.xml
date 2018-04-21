@@ -4,13 +4,38 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2018-04-08T22:13:10+02:00</updated>
+ <updated>2018-04-22T00:09:36+02:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Join NodeSchool #9 and win a ticket to AmsterdamJS!</title>
+   <link href="http://pixelbar.github.io/2018/04/21/nodeschool-9/"/>
+   <updated>2018-04-21T00:00:00+02:00</updated>
+   <id>http://pixelbar.github.io/2018/04/21/nodeschool-9</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://meetu.ps/e/F8Lmc/1VyxL/f&quot;&gt;&lt;img src=&quot;/public/images/click-bait-nodeschool9.png&quot; alt=&quot;NodeSchool&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s been a while, but we’re back! Our space had some renovation, which now allows us to do a workshop downstairs and a freeform upstairs if you want.&lt;/p&gt;
+
+&lt;h2 id=&quot;workshop&quot;&gt;Workshop&lt;/h2&gt;
+
+&lt;p&gt;Instead of creating a traditional API using REST (a way to create a webserver and serve data to a website), we’ll be looking at GraphQL. This is a technology that has been picked up by larger companies, which allows you to do actual quering of your data.&lt;/p&gt;
+
+&lt;p&gt;Don’t worry if you didn’t really get that! We’ll be able to help everyone out, whether you’re a beginning with programming or somebody that already start doing NodeJS development.&lt;/p&gt;
+
+&lt;h2 id=&quot;freeform&quot;&gt;Freeform&lt;/h2&gt;
+
+&lt;p&gt;Want to show of your project? Or need help with your project? It doesn’t need to be related to GraphQL - but that would be nice. Talk, learn and do projects with others.&lt;/p&gt;
+
+&lt;p&gt;Check the site for more information: &lt;a href=&quot;https://nodeschool.io/rotterdam/&quot;&gt;nodeschool.io/rotterdam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;rsvp-on-meetupcomhttpmeetupsef8lmc1vyxlf&quot;&gt;&lt;a href=&quot;http://meetu.ps/e/F8Lmc/1VyxL/f&quot;&gt;RSVP on meetup.com&lt;/a&gt;&lt;/h2&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Going next level PARTY on 14 April</title>
