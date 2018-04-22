@@ -24,7 +24,7 @@ title: Beleidsplan 2018-2019
   * [Workshops](#workshops)
   * [Projecten](#projecten)
   * [Omvang](#omvang)
-* [Financiën](#financin)
+* [Financiën](#financiën)
   * [Inkomsten](#inkomsten)
   * [Kosten](#kosten)
 * [Toekomst](#toekomst)
