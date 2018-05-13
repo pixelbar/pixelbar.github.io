@@ -26,49 +26,50 @@ All requests are checked personally and we'll contact you within roughly 48 hour
       </tr>
 
       <tr>
-        <td><label class="control-label" for="firstname">Firstname</label></td>
+        <td><label class="control-label" for="firstname">Firstname *</label></td>
         <td><input type="text" class="form-control" id="firstname" name="firstname" /></td>
       </tr>
       <tr>
-        <td><label class="control-label" for="lastname">Lastname</label></td>
+        <td><label class="control-label" for="lastname">Lastname *</label></td>
         <td><input type="text" class="form-control" id="lastname" name="lastname" /></td>
       </tr>
       <tr>
-        <td><label class="control-label" for="nickname">Nickname</label></td>
+        <td><label class="control-label" for="nickname">Nickname *</label></td>
         <td><input type="text" class="form-control" id="nickname" name="nickname" /></td>
       </tr>
       <tr>
-        <td><label class="control-label" for="email">Email</label></td>
+        <td><label class="control-label" for="email">Email *</label></td>
         <td><input type="text" class="form-control" id="email" name="email" /></td>
       </tr>
       <tr>
-        <td><label class="control-label" for="postal">Postal</label></td>
+        <td><label class="control-label" for="postal">Postal *</label></td>
         <td><input type="text" class="form-control" id="postal" name="postal" /></td>
       </tr>
       <tr>
-        <td><label class="control-label" for="city">City</label></td>
+        <td><label class="control-label" for="city">City *</label></td>
         <td><input type="text" class="form-control" id="city" name="city" /></td>
       </tr>
       <tr>
-        <td><label class="control-label" for="address">Street + number</label></td>
+        <td><label class="control-label" for="address">Street + number *</label></td>
         <td><input type="text" class="form-control" id="address" name="address" /></td>
       </tr>
       <tr>
-        <td><label class="control-label" for="phone">Phone</label></td>
+        <td><label class="control-label" for="phone">Phone *</label></td>
         <td><input type="text" class="form-control" id="phone" name="phone" /></td>
       </tr>
       <tr>
-        <td><label class="control-label" for="age">Age</label></td>
-        <td><input type="text" class="form-control" id="age" name="age" /></td>
+        <td><label class="control-label" for="age">18+ **</label></td>
+        <td><input type="checkbox" class="form-control" id="age" name="age" /></td>
       </tr>
       <tr>
-        <td><label class="control-label" for="notes">Notes*</label></td>
+        <td><label class="control-label" for="notes">Notes</label></td>
         <td><textarea class="form-control autogrow" id="notes" name="notes" rows="5"></textarea></td>
       </tr>
     </tbody>
   </table>
 
-  * optional
+  (*) mandatory.
+  (**) If you are younger than 18, you can still apply. Just leave this checkbox unticked.
 
   <div class="form-group">
     <div class="g-recaptcha" data-sitekey="6Lc3pwwTAAAAAPaUYb7uskECmmY50pY3IMtqHnYr" style="-moz-transform:scale(0.77); -ms-transform:scale(0.77); -o-transform:scale(0.77); -moz-transform-origin:0; -ms-transform-origin:0; -o-transform-origin:0; -webkit-transform:scale(0.77); transform:scale(0.77); -webkit-transform-origin:0 0; transform-origin:0; filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.77,M12=0,M21=0,M22=0.77,SizingMethod='auto expand');" ></div>
