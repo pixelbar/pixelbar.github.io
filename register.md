@@ -68,7 +68,7 @@ All requests are checked personally and we'll contact you within roughly 48 hour
     </tbody>
   </table>
 
-  (*) mandatory.
+  (*) mandatory. <br />
   (**) If you are younger than 18, you can still apply. Just leave this checkbox unticked.
 
   <div class="form-group">
