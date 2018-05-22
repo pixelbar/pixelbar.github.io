@@ -50,6 +50,7 @@ De gegevens die u aan ons geeft kunnen wij aan derde partijen verstrekken indien
 Zo maken wij gebruik van een derde partij voor:
 
 * Het verzorgen van de (financiële) administratie;
+* Het afhandelen en registreren van tickets welke via bestuur@pixelbar.nl en via de registratiepagina op de website geopend worden;
 
 Wij geven nooit persoonsgegevens door aan andere partijen waarmee we geen verwerkersovereenkomst hebben afgesloten. Met deze partijen (verwerkers) maken wij hierin uiteraard de nodige afspraken om de beveiliging van uw persoonsgegevens te waarborgen. Verder zullen wij de door u verstrekte gegevens niet aan andere partijen verstrekken, tenzij dit wettelijk verplicht en toegestaan is. Tevens kunnen wij persoonsgegevens delen met derden indien u ons hier schriftelijk toestemming voor geeft.
 
