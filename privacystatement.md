@@ -60,7 +60,7 @@ Wij verstrekken geen persoonsgegevens aan partijen welke gevestigd zijn buiten d
 Wij verwerken enkel persoonsgegevens van minderjarigen (personen jonger dan 16 jaar) met schriftelijke toestemming van de ouder(s), verzorger of wettelijke vertegenwoordiger. Het is dan belangrijk dat de ouder(s) of voogd dit statement leest. Zij kunnen ook de rechten uitoefenen die u hebt met betrekking tot de persoonsgegevens die u bij ons achterlaat, zoals het recht om u te verzetten tegen de (verdere) verwerking van uw persoonsgegevens of het recht op inzage in en correctie van uw gegevens.
 
 ### Bewaartermijn ###
-Uw gegevens blijven bewaard zo lang de persoon is ingeschreven. Dit omvat zowel de alle persoonsgegevens , speciale gegevens en bankgegevens.
+Uw (persoons)-gegevens blijven zo kort mogelijk bewaard, maar ten minste voor zo lang de persoon is ingeschreven. Naast deze inschrijftermijn is Stichting Pixelbar nog gebonden aan een wettelijke bewaartermijn voor haar administratie.
 
 ### Beveiliging ###
 Wij hebben passende technische en organisatorische maatregelen genomen om persoonsgegevens van u te beschermen tegen onrechtmatige verwerking, zo hebben we bijvoorbeeld de volgende maatregelen genomen;
@@ -78,3 +78,5 @@ U heeft recht op inzage, rectificatie of verwijdering van de persoonsgegeven wel
 ### Klachten ###
 Mocht u een klacht hebben over de verwerking van uw persoonsgegevens dan vragen wij u hierover direct contact met ons op te nemen. Komen wij er samen met u niet uit dan vinden wij dit natuurlijk erg vervelend. U heeft altijd het recht een klacht in te dienen bij de Autoriteit Persoonsgegevens, dit is de toezichthoudende autoriteit op het gebied van privacy bescherming.
 
+### Wijzigingen ###
+Stichting Pixelbar behoudt zich het recht voor om wijzigingen aan te brengen in het privacy statement. Check daarom regelmatig het privacy statement voor eventuele aanpassingen. Deze versie is van 24 mei 2018
