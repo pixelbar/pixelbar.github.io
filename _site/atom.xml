@@ -4,13 +4,28 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2018-08-17T10:12:56+02:00</updated>
+ <updated>2018-11-20T10:52:14+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>29 November Happy Sint Pannekoek!</title>
+   <link href="http://pixelbar.github.io/2018/11/20/pancakes/"/>
+   <updated>2018-11-20T00:00:00+01:00</updated>
+   <id>http://pixelbar.github.io/2018/11/20/pancakes</id>
+   <content type="html">&lt;p&gt;The 29th of November it is a party once again! Just like last year, we will be celebrating Sint Pannekoek with everybody starting &lt;strong&gt;at 19:00&lt;/strong&gt;, with lots and lots of pancakes and friends! Please give us a heads up if you like to join (so we can go grocerie shopping only once :)) on to our &lt;a href=&quot;https://slack.pixelbar.nl&quot;&gt;Slack&lt;/a&gt; or IRC.&lt;/p&gt;
+
+&lt;p&gt;Last year we baked pancakes for about 4 hours, Everyone really enjoyed eating pancakes and placing pancakes over their heads. Sounds strange doesn’t it? Well, it’s a very old Rotterdam tradition and we’d like to celebrate it by basically eating lots of pancakes. Yep. It’s the best tradition there is. And nobody will ever change our tradition.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/images/pancakes.png&quot; alt=&quot;sketch&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PS: help baking pancakes is very welcome!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Join NodeSchool #9 and win a ticket to AmsterdamJS!</title>
