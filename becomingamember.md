@@ -42,3 +42,7 @@ If you don't live close, don't really feel like hacking or just don't have enoug
 <!--
 \- [Register](/register)
 -->
+
+### After you became a member
+
+After we confirm your membership, you can create a monthly transfer for your contribution to our account. Our accountnumber is : <b>NL55INGB0006918331</b>. If you have any further questions, do not hesitate to send us an email at <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl</a>
