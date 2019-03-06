@@ -61,5 +61,8 @@ If you call Pixelbar, a voice system will tell you if we're open at that moment.
 
 ### Organisational
 
-* Chambre of Commerce : 63989255 ( Rotterdam )
-* VAT Number : NL855478172B01
+* Chambre of Commerce: 63989255 ( Rotterdam )
+* VAT Number: NL855478172B01
+* Bank: ING Bank
+* BIC Code: INGBNL2A
+* IBAN Number: NL55INGB0006918331

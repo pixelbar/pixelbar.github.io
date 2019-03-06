@@ -25,6 +25,9 @@ As we have noticed lately, there are some basic questions almost everyone we mee
 <b>Q: </b><i>Do i need to have mimimal skills for joining Pixelbar?</i><br />
 <b>A: </b>No. Pixelbar is just a please where we learn things by doing it. Even if you never touched an Arduino, Written a "Hello World" program or soldered some electronic parts together you are very welcome to learn to do so. People learn from doing stuff. We are happy to help you if you're stuck on something.
 
+<b>Q: </b><i>How can i transfer money to Pixelbar to support you guys?</i><br />
+<b>A: </b>After we confirm your membership, you can create a monthly transfer for your contribution to our account. Our accountnumber is : <b>NL55INGB0006918331</b>. If you have any further questions, do not hesitate to send us an email at <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl</a>
+
 ### Questions about Pixelbar
 
 <b>Q: </b><i>I have noticed Pixelbar is not open always, Can we change anything about that ?</i><br />
