@@ -3,10 +3,6 @@ layout: page
 title: F.A.Q.
 ---
 
-<p class="message">
-  Opening hours: <br /> Every Wednesday - from 7pm <br /> Every Saturday - from 2pm <br /><br /><small>If the spatestate says it's open, but the door isn't, please call +31 (0) 10 7171 591.</small>
-</p>
-
 ### Frequently Asked Questions
 
 As we have noticed lately, there are some basic questions almost everyone we meet has. Therefor, we came up with this page. We will try to answer some questions we got so you dont have to ask them. If you feel something is missing over here, please let us know via the chat, <a href="mailto:bestuur@pixelbar.nl">e-mail</a> or in person when you visit Pixelbar

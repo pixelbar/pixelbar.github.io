@@ -11,13 +11,13 @@
 
   <title>
     
-      Official opening &middot; pixelbar
+      Becoming a member &middot; pixelbar
     
   </title>
 
   <meta content="pixelbar" property="og:site_name">
   
-    <meta content="Official opening" property="og:title">
+    <meta content="Becoming a member" property="og:title">
   
   
     <meta content="article" property="og:type">
@@ -26,20 +26,13 @@
     <meta content="Hackerspace in Rotterdam, The Netherlands" property="og:description">
   
   
-    <meta content="http://pixelbar.github.io/2016/01/13/official-opening/" property="og:url">
+    <meta content="http://pixelbar.github.io/becomingamember.md.old" property="og:url">
   
-  
-    <meta content="2016-01-13T00:00:00+01:00" property="article:published_time">
-    <meta content="http://pixelbar.github.io/about/" property="article:author">
   
   
     <meta content="/img/logo-high-resolution.png" property="og:image">
   
   
-    
-  
-  
-    
   
 
   <!-- CSS -->
@@ -92,6 +85,12 @@
         
       
     
+      
+    
+      
+        
+          <a class="sidebar-nav-item active" href="/becomingamember.md.old">Becoming a member</a>
+        
       
     
       
@@ -223,49 +222,52 @@
       </div>
 
       <div class="container content">
-        <div class="post">
-  <h1 class="post-title">Official opening</h1>
-  <span class="post-date">13 Jan 2016</span>
-  <p>Are you ready for a party? Because we’re planning to officially open the hackerspace on <strong>Saturday, Februari 13th</strong>. So make sure to put that date in your calendar!</p>
+        <div class="page">
+  <h1 class="page-title">Becoming a member</h1>
+  <p class="message">
+  The hackerspace of Rotterdam since 2015.
+</p>
 
-<p>When you stop by that day, you can expect several workshops from us and others at the <a href="http://www.keilewerf.nl/">Keilewerf</a>. From making furniture to hacking with Arduino’s, it’s all happening. And, there will be great talks from people in the hacker community and live music from several bands!</p>
+### Our rules
+* We have respect for everyone: any gender or sexual preference.
+* A Membership is personal, You can not transfer your membership.
+* We don’t destroy property of/and other people without their consent.
+* If you are younger than 18 and want to join Pixelbar, please contact us or visit the space.
 
-<p>The complete agenda will be published on our site soon.</p>
+### Become a member
+As a member of the space, you'll get complete access. Every workshop, event, equipment, everything. You're equal to everyone else in the organisation and it's just 25 euro's per month. Which also means that you support our cause for 100%.
 
-</div>
+* 24x7 access to the space (if you'd like a key)
+* Use of the tools/equipment in the space
+* The possibility to show your project in the space
+* A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet)
+* A Pixelbar account (which allows you to register drinks)
+* A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
+* And we'll throw in a first (?) "mate" experience for you, as a true hacker
 
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    
-      <li>
-        <h3>
-          <a href="/2019/03/06/open-doors-day-2019/">
-            Open Doors Day 2019 <br />( 30 March 2019 )
-            <small>06 Mar 2019</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/2019/01/09/art-rotterdam/">
-            Come visit us during Art Rotterdam
-            <small>09 Jan 2019</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/2018/11/20/pancakes/">
-            29 November Happy Sint Pannekoek!
-            <small>20 Nov 2018</small>
-          </a>
-        </h3>
-      </li>
-    
-  </ul>
+<!--
+\- [Register](/register)
+-->
+To register for Pixelbar, please visit our space!
+
+### Become a friend
+
+If you don't live close, don't really feel like hacking or just don't have enough funds to support the hackerspace... it is also possible to become a friend of the space for just 5 euro per month.
+
+* Access to the space (unregular, only when someone is present)
+* Use of the tools/equipment in the space
+* A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet)
+* A Pixelbar account (which allows you to register drinks)
+* A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
+
+<!--
+\- [Register](/register)
+-->
+
+### After you became a member
+
+After we confirm your membership, you can create a monthly transfer for your contribution to our account. Our accountnumber is : <b>NL55INGB0006918331</b>. If you have any further questions, do not hesitate to send us an email at <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl</a>
+
 </div>
 
       </div>

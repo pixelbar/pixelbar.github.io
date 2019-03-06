@@ -2,47 +2,64 @@
 layout: page
 title: Becoming a member
 ---
+### This page is awaiting translation.
 
-<p class="message">
-  The hackerspace of Rotterdam since 2015.
-</p>
 
-### Our rules
-* We have respect for everyone: any gender or sexual preference.
-* A Membership is personal, You can not transfer your membership.
-* We don’t destroy property of/and other people without their consent.
-* If you are younger than 18 and want to join Pixelbar, please contact us or visit the space.
+<!--Do you want to get involved with Pixelbar? Visit us and hang around with our participants. To visit us we do not need you to become a participant immdiately. Just check our website to see if we're open, or contact us and let us know you want to visit us.
+If you decide to become a regular visitor and you really like the atmosphere, it might be your time to become a participant.
+As a participant of Pixelbar you will get full access to the space. Each workshop, event, tools, just everything is available to you. You are equal to the rest of Pixelbar and it will only set you back for 25 Euro per month. This also means you support Pixelbar for the full 100%.
 
-### Become a member
-As a member of the space, you'll get complete access. Every workshop, event, equipment, everything. You're equal to everyone else in the organisation and it's just 25 euro's per month. Which also means that you support our cause for 100%.
-
-* 24x7 access to the space (if you'd like a key)
-* Use of the tools/equipment in the space
-* The possibility to show your project in the space
-* A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet)
-* A Pixelbar account (which allows you to register drinks)
-* A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
-* And we'll throw in a first (?) "mate" experience for you, as a true hacker
-
-<!--
-\- [Register](/register)
--->
-To register for Pixelbar, please visit our space!
-
-### Become a friend
-
-If you don't live close, don't really feel like hacking or just don't have enough funds to support the hackerspace... it is also possible to become a friend of the space for just 5 euro per month.
-
-* Access to the space (unregular, only when someone is present)
-* Use of the tools/equipment in the space
-* A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet)
-* A Pixelbar account (which allows you to register drinks)
-* A [nickname]@pixelbar.nl email forward (if somebody else doesn't use that nickname yet)
-
-<!--
-\- [Register](/register)
 -->
 
-### After you became a member
+Wil je graag betrokken raken bij de Pixelbar? Kom eens langs en bezoek onze ruimte en hang wat rond met onze leden. Daar hoef je natuurlijk geen lid voor te zijn. Controleer via onze website wanneer we open zijn of neem contact op met ons en laat ons weten waarom je graag langs wilt komen.
 
-After we confirm your membership, you can create a monthly transfer for your contribution to our account. Our accountnumber is : <b>NL55INGB0006918331</b>. If you have any further questions, do not hesitate to send us an email at <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl</a>
+Kom je regelmatig langs, vindt je het leuk in de space? Dan wordt het tijd om lid te worden van Pixelbar!
+Als lid van de space krijg je volledige toegang. Elke workshop, evenement, uitrusting, alles. Je bent gelijk aan iedereen in de organisatie en het is slechts 25 euro per maand. Wat ook betekent dat je onze stichting voor 100% steunt.
+
+Deelnemer zijn heeft de volgende voordelen:
+
+* 24x7 toegang doormiddel van een eigen sleutel tot de space (Na 2 maanden actief lidmaatschap).
+* Gebruik van de gereedschappen / apparatuur in de space.
+* De mogelijkheid om je project in de space te tonen.
+* Een eigen schap om je project in de space te bewaren.
+* Een Spacenet-account (waarmee je wereldwijd toegang hebt tot internet bij elke hackerspace met Spacenet).
+* Een Pixelbar-account (waarmee je consumpties kan afnemen).
+* Een [nickname] @ pixelbar.nl e-mail forwarder.
+
+### Het daadwerkelijk doen
+
+Je wilt lid worden, awesome! Hoe nu verder?
+
+* Kom even langs op de space om elkaar te leren kennen.
+* Je bent op de hoogte van onze [huisregels](https://www.pixelbar.nl/houserules).
+* Vul onderstaand formulier in en stuur deze per email naar [bestuur@pixelbar.nl](mailto:bestuur@pixelbar.nl).
+* Na bevestiging van het bestuur maak je € 25,- per maand over (via een periodieke overboeking) op **NL55 INGB 0006 9183 31** tnv Stichting Pixelbar.
+* Je bent lid nadat de eerste betaling gedaan is.
+
+<pre>
+Voor en achternaam:
+
+Nickname:
+
+Telefoonnummer:
+
+Referentie (Hoe heb je Pixelbar gevonden):
+
+Opmerkingen:
+
+</pre>
+
+### Vriend worden
+
+Als je niet in de buurt woont, geen zin hebt om te hacken of heb je gewoon niet genoeg geld om de hackerspace te ondersteunen. Dan is het ook mogelijk om een vriend van de space we worden voor €5,- per maand. 
+
+Vriend worden? Maak dan € 5,- per maand (of € 60,- per jaar) over (via een periodieke overboeking) op **NL55 INGB 0006 9183 31** tnv Stichting Pixelbar.
+Stuur ook een mail met de mededeling dat je vriend wordt en je nickname naar [bestuur@pixelbar.nl](mailto:bestuur@pixelbar.nl).
+
+* Toegang tot de ruimte (onregelmatig, alleen wanneer er iemand aanwezig is).
+* Gebruik van de gereedschappen / apparatuur in de ruimte.
+* Een Spacenet-account (waarmee je wereldwijd toegang hebt tot internet bij elke hackerspace met Spacenet).
+* Een Pixelbar-account (waarmee je consumpties kan afnemen).
+* Een [nickname] @ pixelbar.nl e-mail forwarder.
+* Ondersteuning van onze space!
+

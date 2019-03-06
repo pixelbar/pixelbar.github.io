@@ -3,10 +3,6 @@ layout: page
 title: History
 ---
 
-<p class="message">
-  Opening hours: <br /> Every Wednesday - from 7pm <br /> Every Saturday - from 2pm <br /><br /><small>If the spatestate says it's open, but the door isn't, please call +31 (0) 10 7171 591.</small>
-</p>
-
 ### History
 
 The name Pixelbar was founded around 2013 when 4 of our earliest members ( who still are members in the current foundation ) were joined together in one of the famous "Hacking Weekends". These weekends excisted for the sole purpose of having fun, creating stuff with electronics and programming.
