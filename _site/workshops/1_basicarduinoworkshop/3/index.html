@@ -26,7 +26,7 @@
     <meta content="Hackerspace in Rotterdam, The Netherlands" property="og:description">
   
   
-    <meta content="http://pixelbar.github.io/workshops/1_basicarduinoworkshop/3/" property="og:url">
+    <meta content="http://localhost:4000/workshops/1_basicarduinoworkshop/3/" property="og:url">
   
   
   
@@ -241,7 +241,7 @@
 <span class="kt">int</span> <span class="n">beats</span><span class="o">[]</span> <span class="o">=</span> <span class="o">{</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">2</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">1</span><span class="o">,</span> <span class="mi">2</span><span class="o">,</span> <span class="mi">4</span> <span class="o">};</span>
 <span class="kt">int</span> <span class="n">tempo</span> <span class="o">=</span> <span class="mi">300</span><span class="o">;</span>
 
-<span class="kt">void</span> <span class="nf">playTone</span><span class="p">(</span><span class="kt">int</span> <span class="n">tone</span><span class="o">,</span> <span class="kt">int</span> <span class="n">duration</span><span class="o">)</span> <span class="o">{</span>
+<span class="kt">void</span> <span class="nf">playTone</span><span class="o">(</span><span class="kt">int</span> <span class="n">tone</span><span class="o">,</span> <span class="kt">int</span> <span class="n">duration</span><span class="o">)</span> <span class="o">{</span>
   <span class="k">for</span> <span class="o">(</span><span class="kt">long</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">duration</span> <span class="o">*</span> <span class="mi">1000L</span><span class="o">;</span> <span class="n">i</span> <span class="o">+=</span> <span class="n">tone</span> <span class="o">*</span> <span class="mi">2</span><span class="o">)</span> <span class="o">{</span>
     <span class="n">digitalWrite</span><span class="o">(</span><span class="n">speakerPin</span><span class="o">,</span> <span class="n">HIGH</span><span class="o">);</span>
     <span class="n">delayMicroseconds</span><span class="o">(</span><span class="n">tone</span><span class="o">);</span>
@@ -250,7 +250,7 @@
   <span class="o">}</span>
 <span class="o">}</span>
 
-<span class="kt">void</span> <span class="nf">playNote</span><span class="p">(</span><span class="kt">char</span> <span class="n">note</span><span class="o">,</span> <span class="kt">int</span> <span class="n">duration</span><span class="o">)</span> <span class="o">{</span>
+<span class="kt">void</span> <span class="nf">playNote</span><span class="o">(</span><span class="kt">char</span> <span class="n">note</span><span class="o">,</span> <span class="kt">int</span> <span class="n">duration</span><span class="o">)</span> <span class="o">{</span>
   <span class="kt">char</span> <span class="n">names</span><span class="o">[]</span> <span class="o">=</span> <span class="o">{</span> <span class="sc">'c'</span><span class="o">,</span> <span class="sc">'d'</span><span class="o">,</span> <span class="sc">'e'</span><span class="o">,</span> <span class="sc">'f'</span><span class="o">,</span> <span class="sc">'g'</span><span class="o">,</span> <span class="sc">'a'</span><span class="o">,</span> <span class="sc">'b'</span><span class="o">,</span> <span class="sc">'C'</span> <span class="o">};</span>
   <span class="kt">int</span> <span class="n">tones</span><span class="o">[]</span> <span class="o">=</span> <span class="o">{</span> <span class="mi">1915</span><span class="o">,</span> <span class="mi">1700</span><span class="o">,</span> <span class="mi">1519</span><span class="o">,</span> <span class="mi">1432</span><span class="o">,</span> <span class="mi">1275</span><span class="o">,</span> <span class="mi">1136</span><span class="o">,</span> <span class="mi">1014</span><span class="o">,</span> <span class="mi">956</span> <span class="o">};</span>
 
@@ -262,11 +262,11 @@
   <span class="o">}</span>
 <span class="o">}</span>
 
-<span class="kt">void</span> <span class="nf">setup</span><span class="p">(</span><span class="o">)</span> <span class="o">{</span>
+<span class="kt">void</span> <span class="nf">setup</span><span class="o">()</span> <span class="o">{</span>
   <span class="n">pinMode</span><span class="o">(</span><span class="n">speakerPin</span><span class="o">,</span> <span class="n">OUTPUT</span><span class="o">);</span>
 <span class="o">}</span>
 
-<span class="kt">void</span> <span class="nf">loop</span><span class="p">(</span><span class="o">)</span> <span class="o">{</span>
+<span class="kt">void</span> <span class="nf">loop</span><span class="o">()</span> <span class="o">{</span>
   <span class="k">for</span> <span class="o">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="o">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="o">;</span> <span class="n">i</span><span class="o">++)</span> <span class="o">{</span>
     <span class="k">if</span> <span class="o">(</span><span class="n">notes</span><span class="o">[</span><span class="n">i</span><span class="o">]</span> <span class="o">==</span> <span class="sc">' '</span><span class="o">)</span> <span class="o">{</span>
       <span class="n">delay</span><span class="o">(</span><span class="n">beats</span><span class="o">[</span><span class="n">i</span><span class="o">]</span> <span class="o">*</span> <span class="n">tempo</span><span class="o">);</span> <span class="c1">// rest</span>

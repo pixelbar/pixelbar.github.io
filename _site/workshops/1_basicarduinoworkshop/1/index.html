@@ -26,7 +26,7 @@
     <meta content="Hackerspace in Rotterdam, The Netherlands" property="og:description">
   
   
-    <meta content="http://pixelbar.github.io/workshops/1_basicarduinoworkshop/1/" property="og:url">
+    <meta content="http://localhost:4000/workshops/1_basicarduinoworkshop/1/" property="og:url">
   
   
   
@@ -245,13 +245,13 @@
 <span class="kt">int</span> <span class="n">led</span> <span class="o">=</span> <span class="mi">2</span><span class="o">;</span>
 
 <span class="c1">// the setup() method is executed only once</span>
-<span class="kt">void</span> <span class="nf">setup</span><span class="p">(</span><span class="o">)</span> <span class="o">{</span>
+<span class="kt">void</span> <span class="nf">setup</span><span class="o">()</span> <span class="o">{</span>
   <span class="c1">// the led PIN is declared as digital output</span>
   <span class="n">pinMode</span><span class="o">(</span><span class="n">led</span><span class="o">,</span> <span class="n">OUTPUT</span><span class="o">);</span>
 <span class="o">}</span>
 
 <span class="c1">// the loop() method is repeated</span>
-<span class="kt">void</span> <span class="nf">loop</span><span class="p">(</span><span class="o">)</span> <span class="o">{</span>
+<span class="kt">void</span> <span class="nf">loop</span><span class="o">()</span> <span class="o">{</span>
   <span class="c1">// switching on the led</span>
   <span class="n">digitalWrite</span><span class="o">(</span><span class="n">led</span><span class="o">,</span> <span class="n">HIGH</span><span class="o">);</span>
 
