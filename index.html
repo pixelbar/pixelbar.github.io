@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+<p class="message">
+  We are open almost every wednesday (from 7 pm) and saturday (from 2 pm)<br />
+  Feel free to drop on by whenever we're open.
+</p>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -21,18 +26,17 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+  <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
+  {% if paginator.page == 2 %}
+  <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
+  {% endif %}
+  {% else %}
+  <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
