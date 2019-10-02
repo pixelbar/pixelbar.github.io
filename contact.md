@@ -11,6 +11,7 @@ title: Contact
 
 Telephone : +31 (0) 10 7171 591<br />
 IRC : #pixelbar at smurfnet.ch<br />
+Discord: <a href="https://discord.gg/b4Dcx8f">https://discord.gg/b4Dcx8f</a><br />
 Slack : <a href="https://slack.pixelbar.nl/">slack.pixelbar.nl</a> Feel free to invite yourself.<br />
 Email : <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
 
