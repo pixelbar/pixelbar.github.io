@@ -16,6 +16,8 @@ Wil je graag betrokken raken bij de Pixelbar? Kom eens langs en bezoek onze ruim
 Kom je regelmatig langs, vindt je het leuk in de space? Dan wordt het tijd om lid te worden van Pixelbar!
 Als lid van de space krijg je volledige toegang. Elke workshop, evenement, uitrusting, alles. Je bent gelijk aan iedereen in de organisatie en het is slechts 25 euro per maand. Wat ook betekent dat je onze stichting voor 100% steunt.
 
+<p class="message">Je mag natuurlijk altijd meer dan 25 Euro betalen, we zien dit als een extra steuntje in de rug voor onze hackerspace. Je verwerft hiermee natuurlijk geen extra rechten.</p>
+
 Deelnemer zijn heeft de volgende voordelen:
 
 * 24x7 toegang doormiddel van een eigen sleutel tot de space (Na 2 maanden actief lidmaatschap).
