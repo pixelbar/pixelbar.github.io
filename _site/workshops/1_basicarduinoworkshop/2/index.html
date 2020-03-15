@@ -139,26 +139,6 @@
     
       
         
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
           <a class="sidebar-nav-item" href="/workshops/">Workshops</a>
         
       
@@ -195,7 +175,7 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; 2019. All rights reserved.
+      &copy; 2020. All rights reserved.
       <a href="/responsibledisclosure" style="opacity: 0.6; font-size: 11px">Responsible Disclosure</a><br />
       <a href="/privacystatement" style="opacity: 0.6; font-size: 11px">Privacy Statement</a>
     </p>
@@ -267,9 +247,9 @@
 
 <span class="kt">void</span> <span class="nf">setup</span><span class="o">()</span> <span class="o">{</span>
   <span class="c1">// initialize the LED pin as an output:</span>
-  <span class="n">pinMode</span><span class="o">(</span><span class="n">ledPin</span><span class="o">,</span> <span class="n">OUTPUT</span><span class="o">);</span>
+  <span class="n">pinMode</span><span class="o">(</span><span class="n">ledPin</span><span class="o">,</span> <span class="no">OUTPUT</span><span class="o">);</span>
   <span class="c1">// initialize the pushbutton pin as an input:</span>
-  <span class="n">pinMode</span><span class="o">(</span><span class="n">buttonPin</span><span class="o">,</span> <span class="n">INPUT</span><span class="o">);</span>
+  <span class="n">pinMode</span><span class="o">(</span><span class="n">buttonPin</span><span class="o">,</span> <span class="no">INPUT</span><span class="o">);</span>
 <span class="o">}</span>
 
 <span class="kt">void</span> <span class="nf">loop</span><span class="o">(){</span>
@@ -278,13 +258,13 @@
 
   <span class="c1">// check if the pushbutton is pressed.</span>
   <span class="c1">// if it is, the buttonState is HIGH:</span>
-  <span class="k">if</span> <span class="o">(</span><span class="n">buttonState</span> <span class="o">==</span> <span class="n">HIGH</span><span class="o">)</span> <span class="o">{</span>
+  <span class="k">if</span> <span class="o">(</span><span class="n">buttonState</span> <span class="o">==</span> <span class="no">HIGH</span><span class="o">)</span> <span class="o">{</span>
     <span class="c1">// turn LED on:</span>
-    <span class="n">digitalWrite</span><span class="o">(</span><span class="n">ledPin</span><span class="o">,</span> <span class="n">HIGH</span><span class="o">);</span>
+    <span class="n">digitalWrite</span><span class="o">(</span><span class="n">ledPin</span><span class="o">,</span> <span class="no">HIGH</span><span class="o">);</span>
   <span class="o">}</span>
   <span class="k">else</span> <span class="o">{</span>
     <span class="c1">// turn LED off:</span>
-    <span class="n">digitalWrite</span><span class="o">(</span><span class="n">ledPin</span><span class="o">,</span> <span class="n">LOW</span><span class="o">);</span>
+    <span class="n">digitalWrite</span><span class="o">(</span><span class="n">ledPin</span><span class="o">,</span> <span class="no">LOW</span><span class="o">);</span>
   <span class="o">}</span>
 <span class="o">}</span></code></pre></figure>
 
