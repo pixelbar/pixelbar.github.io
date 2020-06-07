@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pixelbar re-opening for participants and a BBQ
+title: Pixelbar re-opening and a BBQ
 ---
 
 It has been a while since there was news from us since the space was temporarily closed. We are already working hard on plans to make the space Corona Proof as possible and it looks like we can open again soon!
