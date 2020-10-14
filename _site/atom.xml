@@ -4,7 +4,7 @@
  <title>pixelbar</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-03-15T18:31:42+01:00</updated>
+ <updated>2020-10-14T11:42:32+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Pixelbar</name>
@@ -13,16 +13,102 @@
 
  
  <entry>
-   <title>Pixelbar and COVID-19</title>
-   <link href="http://localhost:4000/2020/03/15/Pixelbar-and-COVID-19/"/>
-   <updated>2020-03-15T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/03/15/Pixelbar-and-COVID-19</id>
-   <content type="html">&lt;p&gt;After the recent press conference from the Dutch government, we have decided that Pixelbar will be closed to everyone. The closure lasts until April 6. We hope for everyone’s understanding. As soon as there is further information, it will be shared via the known channels.&lt;/p&gt;
+   <title>Pixelbar re-opening</title>
+   <link href="http://localhost:4000/2020/06/17/Pixelbar-Re-Opening/"/>
+   <updated>2020-06-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/06/17/Pixelbar-Re-Opening</id>
+   <content type="html">&lt;p&gt;After the awesome BBQ we had on 13-June with our participants, we took a moment to prepare for reopening Pixelbar. The entire area was cleaned, which was no luxery after beeing closed for 2.5 months.&lt;/p&gt;
+
+&lt;p&gt;At the same time, we have started on deviding the hacking-desks downstairs with plastic foil. While the Proof of Concept worked, but also showed to be a lot of work, we are awaiting deliveries for the final construction.&lt;/p&gt;
+
+&lt;p&gt;Tonight, 19th of June 2020, we want to reopen for a small group of people. We have set the limit of this evening to 5 people. Please talk to eachother in the chat to reserve your spot.&lt;/p&gt;
+
+&lt;p&gt;There will be desinfectants for your hands, and cleaning material for the desks, doorknobs etc. We do kindly request you to wash or desinfect your hands when entering the space.&lt;/p&gt;
+
+&lt;p&gt;Please also keep the generic rules set by the Government and the RIVM in mind. &lt;a href=&quot;https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/nederlandse-maatregelen-tegen-het-coronavirus/gezondheidsadviezen&quot;&gt;Current regulations&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h2&gt;Nederlandse Tekst&lt;/h2&gt;
 
-&lt;p&gt;Naar aanleiding van de recente persconferentie van de Nederlandse overheid, Is besloten om Pixelbar in ieder geval tot 6 April te sluiten voor publiek en deelnemers. We rekenen hierbij op begrip van iedereen. Zodra er meer informatie beschikbaar komt, zal dit gedeeld worden via de bekende kanalen.&lt;/p&gt;
+&lt;p&gt;Nadat we afgelopen Zaterdag (13-Juni) een erg gezellige bbq gehad hebben met onze deelnemers, hebben we het moment aangepakt om de voorbereidingen te treffen voor het her-openen van Pixelbar. Wat begon als een wild idee op de chat, liep uit in een complete schoonmaak van de space, Waarbij keuken, tafels beneden en de lounge schoongemaakt zijn na 2,5 maand van gesloten zijn.&lt;/p&gt;
+
+&lt;p&gt;Tevens is er een begin gemaakt aan het scheiden van onze hacking-bureaus beneden. Een tijdelijke voorziening met folie is bedacht, en de materialen om dit af te maken zijn besteld.&lt;/p&gt;
+
+&lt;p&gt;Vanavond, 19 Juni 2020 willen we voor het eerst weer open gaan. Dit doen we voor maximaal 5 mensen. Overleg dus even via de chat wie er gaat. Als vanavond bevalt, gaan we kijken of we kunnen opschalen. Dit bepalen we echter pas na deze eerste testavond.&lt;/p&gt;
+
+&lt;p&gt;Er zijn ontsmettingsmiddelen aanwezig voor de handen, en reinigingsmiddelen voor de tafels, deurklinken enz. Het verzoek is dan ook om je handen goed te wassen bij binnenkomst, of om deze te ontsmetten.&lt;/p&gt;
+
+&lt;p&gt;Houdt A.u.b. ook rekening met geldende regelgeving van de overheid en het RIVM. &lt;a href=&quot;https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/nederlandse-maatregelen-tegen-het-coronavirus/gezondheidsadviezen&quot;&gt;Actuele regelgeving&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pixelbar re-opening and a BBQ</title>
+   <link href="http://localhost:4000/2020/06/07/Pixelbar-Re-Opening-and-BBQ/"/>
+   <updated>2020-06-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/06/07/Pixelbar-Re-Opening-and-BBQ</id>
+   <content type="html">&lt;p&gt;It has been a while since there was news from us since the space was temporarily closed. We are already working hard on plans to make the space Corona Proof as possible and it looks like we can open again soon!&lt;/p&gt;
+
+&lt;p&gt;To thank everyone for the patience and support of the past few months, we invite all the Pixelbar participants for a barbecue! &lt;strong&gt;Saturday, June 13, 2020 at 4:00 PM&lt;/strong&gt; we will have a barbecue outside on the Keilewerf terrain, which will be provided by the Pixelbar board.&lt;/p&gt;
+
+&lt;p&gt;However, there are a number of rules that we have drawn up to ensure that the barbecue runs as safely as possible.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The barbecue is only for participants (so also friends of the space) of Hackerspace Pixelbar, if you are not a participant or friend, we request you not to come.&lt;/li&gt;
+  &lt;li&gt;Be aware of the 1.5 meters&lt;/li&gt;
+  &lt;li&gt;Gloves are used during food preparation&lt;/li&gt;
+  &lt;li&gt;Disinfectant will be available&lt;/li&gt;
+  &lt;li&gt;Pixelbar is not open yet, so stay outside of Pixelbar.&lt;/li&gt;
+  &lt;li&gt;Toilets inside are open&lt;/li&gt;
+  &lt;li&gt;If you have health problems related to corona, stay at home. Look at the website of the &lt;a href=&quot;https://www.rivm.nl/coronavirus-covid-19&quot;&gt;RIVM&lt;/a&gt; for more information.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Only the board will enter the space to get items needed for the barbecue.
+Normally we appreciate all help during a barbecue, but we ask everyone to come no earlier than 16:00.&lt;/p&gt;
+
+&lt;p&gt;You can register via the wiki at our &lt;a href=&quot;https://wiki.pixelbar.nl/index.php/Projects:2020:Participants_BBQ&quot;&gt;Wiki&lt;/a&gt; - If you cannot login yet, ask someone who can login to register you for this bbq.&lt;/p&gt;
+
+&lt;p&gt;We hope to see you all and that it will be a pleasant evening!&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2&gt;Nederlandse Tekst&lt;/h2&gt;
+
+&lt;p&gt;Het is weer even geleden dat wij iets van ons hebben laten horen sinds de space tijdelijk is afgesloten. Er wordt al hard gewerkt aan plannen om de space zo Corona Proof mogelijk in te richten en het ziet er naar uit dat we snel weer open kunnen!&lt;/p&gt;
+
+&lt;p&gt;Om iedereen te bedanken voor het geduld en de steun van de afgelopen maanden nodigen wij alle deelnemers van Pixelbar uit voor een barbecue! &lt;strong&gt;Zaterdag 13 juni 2020 om 16:00&lt;/strong&gt; zullen wij buiten op het Keilewerf terrein een barbecue houden welke verzorgd word door het bestuur van Pixelbar.&lt;/p&gt;
+
+&lt;p&gt;Wel zijn er een aantal regels welke wij hebben opgesteld om de barbecue zo veilig mogelijk te laten verlopen.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;De barbecue is alleen voor deelnemers (dus ook voor friends of the space) van Hackerspace Pixelbar, ben je geen deelnemer of friend dan verzoeken wij je om niet te komen.&lt;/li&gt;
+  &lt;li&gt;Let op de 1.5 meter&lt;/li&gt;
+  &lt;li&gt;Tijdens de bereiding van het eten word er gebruik gemaakt van handschoenen&lt;/li&gt;
+  &lt;li&gt;Er zal desinfectans beschikbaar zijn&lt;/li&gt;
+  &lt;li&gt;Pixelbar is nog niet open, ga dan ook niet de space in.&lt;/li&gt;
+  &lt;li&gt;Toiletten binnen zijn open&lt;/li&gt;
+  &lt;li&gt;Heb je gezondheidsklachten gerelateerd aan corona blijf dan thuis. Meer informatie op de website van het &lt;a href=&quot;https://www.rivm.nl/coronavirus-covid-19&quot;&gt;RIVM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alleen het bestuur zal de space betreden om spullen te halen welke nodig zijn voor de barbecue. 
+Normaliter waarderen we alle hulp tijdens een barbecue, echter vragen we een ieder om niet eerder dan 16:00 te komen.&lt;/p&gt;
+
+&lt;p&gt;Aanmelden kan via de &lt;a href=&quot;https://wiki.pixelbar.nl/index.php/Projects:2020:Participants_BBQ&quot;&gt;wiki&lt;/a&gt; - Kun je nog niet inloggen op de wiki, vraag dan iemand anders je even in te schrijven voor de barbeque.&lt;/p&gt;
+
+&lt;p&gt;We hopen jullie allemaal te zien en dat het een gezellige avond word!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pixelbar and COVID-19</title>
+   <link href="http://localhost:4000/2020/03/15/Pixelbar-and-COVID-19/"/>
+   <updated>2020-03-15T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/03/15/Pixelbar-and-COVID-19</id>
+   <content type="html">&lt;p&gt;UPDATED (24-03-2020)&lt;/p&gt;
+
+&lt;p&gt;After the recent press conference from the Dutch government, we have decided that Pixelbar will be closed to everyone. The closure lasts until June 1st. We hope for everyone’s understanding. As soon as there is further information, it will be shared via the known channels.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2&gt;Nederlandse Tekst&lt;/h2&gt;
+
+&lt;p&gt;Naar aanleiding van de recente persconferentie van de Nederlandse overheid, Is besloten om Pixelbar in ieder geval tot 1 Juni te sluiten voor publiek en deelnemers. We rekenen hierbij op begrip van iedereen. Zodra er meer informatie beschikbaar komt, zal dit gedeeld worden via de bekende kanalen.&lt;/p&gt;
 </content>
  </entry>
  

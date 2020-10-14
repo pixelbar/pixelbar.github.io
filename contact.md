@@ -27,7 +27,7 @@ Vierhavensstraat 56<br />
 Lat : 51.910111<br />
 Lon : 4.433988
 
-We're located in the <a href="http://www.keilewerf.nl">Keilewerf</a>. There is (limited) parking space available and if you go with public transportation: you can take the stop at Marconiplein and walk you way up towards the KFC and take a left into the Vierhavensstraat. After about 450 meters, you'll be at our building (recognisable by all of the street art on the exterior of the building).
+We're located in the <a href="https://www.keilewerf.nl">Keilewerf</a>. There is (limited) parking space available and if you go with public transportation: you can take the stop at Marconiplein and walk you way up towards the KFC and take a left into the Vierhavensstraat. After about 450 meters, you'll be at our building (recognisable by all of the street art on the exterior of the building).
 
 <script src="https://maps.googleapis.com/maps/api/js"></script>
 <script>
