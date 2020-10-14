@@ -11,7 +11,7 @@ Aangezien niemand gevraagd heeft om Corona, en we het allemaal zo snel mogelijk 
 * Blijf thuis tenzij je een goede reden hebt om in de hackerspace te moeten zijn. Bijvoorbeeld omdat het thuis onrustig is, en je jezelf dient te concentreren.
 * Zorg dat je jouw naam op de Visit log geplaatst hebt: <a href="https://wiki.pixelbar.nl/index.php/Visit_log">Visit Log</a>.
 * Maak je werkplaats schoon als je weg gaat. Er is schoonmaakmiddel beschikbaar.
-* Ontsmet en/and of was je handen voordat je binnengaat in de hackerspace.
+* Ontsmet en/of was je handen voordat je binnengaat in de hackerspace.
 
 ## Pixelbar and Corona - The rules.
 
