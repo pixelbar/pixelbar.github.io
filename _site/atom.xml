@@ -4,13 +4,43 @@
  <title>pixelbar</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-10-14T11:42:32+02:00</updated>
+ <updated>2020-11-11T16:05:29+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
  </author>
 
+ 
+ <entry>
+   <title>Pixelbar moves to online-only for now</title>
+   <link href="http://localhost:4000/2020/11/06/Pixelbar-Goes-Online-Only/"/>
+   <updated>2020-11-06T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/11/06/Pixelbar-Goes-Online-Only</id>
+   <content type="html">&lt;p&gt;Dear visitor,&lt;/p&gt;
+
+&lt;p&gt;The Dutch government announced new regulations due to the situation regarding COVID-19. One of the new regulations will be the closing of club houses and other locations for public gatherings, including hackerspaces. Therefore, we have no other choice than to go back to our chairs at home and take our activities back another way.&lt;/p&gt;
+
+&lt;p&gt;We therefore meet online (for now). You can find the Pixelbar Discord Server at https://discord.gg/b4Dcx8f, We also bridged this to IRC #pixelbar on smurfnet and even Slack is used (check website for howto)&lt;/p&gt;
+
+&lt;p&gt;In here we will discuss if there is a demand for a (regular) wednesday / saturday video conference meeting. These meetings will take place at https://jitsi.milliways.info/pixelbar&lt;/p&gt;
+
+&lt;p&gt;Please join our Discord, IRC channel or Slack server and meet us there.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2&gt;Nederlandse Tekst&lt;/h2&gt;
+
+&lt;p&gt;Beste bezoeker,&lt;/p&gt;
+
+&lt;p&gt;De Nederlandse overheid heeft nieuwe maatregelen aangekondigd met betrekking tot COVID-19. Eén van de maatregelen betreft de sluiting van clubhuizen en andere locaties waar mensen samenkomen, een hackerspace valt daar ook onder. We hebben geen andere keus om terug te gaan naar onze stoel thuis en onze activiteiten op een alternatieve manier voort te zetten.&lt;/p&gt;
+
+&lt;p&gt;Om deze reden meeten wij voorlopig online. Je kunt onze Pixelbar Discord Server vinden @ https://discord.gg/b4Dcx8, Ook hebben we de welbekend IRC bridge naar #pixelbar op smurfnet en zelfs Slack is gekoppeld (Howto via onze website)&lt;/p&gt;
+
+&lt;p&gt;Hierr zullen wij onder andere bespreken of er behoefte is aan een (reguliere) video conference meeting op woensdag en donderdag. De meetings zullen online plaatsvinden op https://jitsi.milliways.info/pixelbar&lt;/p&gt;
+
+&lt;p&gt;Join onze Discord server, IRC kanaal of Slack server en wij zien je daar!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Pixelbar re-opening</title>
