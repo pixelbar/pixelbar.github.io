@@ -9,7 +9,7 @@ The Dutch government announced new regulations due to the situation regarding CO
 
 We therefore meet online (for now). You can find the Pixelbar Discord Server at [https://discord.gg/b4Dcx8f](https://discord.gg/b4Dcx8f), We also bridged this to IRC #pixelbar on smurfnet and even Slack is used (check website for howto)
 
-In here we will discuss if there is a demand for a (regular) wednesday / saturday video conference meeting. These meetings will take place at [https://jitsi.milliways.info/pixelbar](The Pixelbar Jitsi)
+In here we will discuss if there is a demand for a (regular) wednesday / saturday video conference meeting. These meetings will take place at [The Pixelbar Jitsi](https://jitsi.milliways.info/pixelbar)
 
 Please join our Discord, IRC channel or Slack server and meet us there.
 
@@ -22,6 +22,6 @@ De Nederlandse overheid heeft nieuwe maatregelen aangekondigd met betrekking tot
 
 Om deze reden meeten wij voorlopig online. Je kunt onze Pixelbar Discord Server vinden @ [https://discord.gg/b4Dcx8f](https://discord.gg/b4Dcx8f), Ook hebben we de welbekend IRC bridge naar #pixelbar op smurfnet en zelfs Slack is gekoppeld (Howto via onze website)
 
-Hierr zullen wij onder andere bespreken of er behoefte is aan een (reguliere) video conference meeting op woensdag en donderdag. De meetings zullen online plaatsvinden op [https://jitsi.milliways.info/pixelbar](The Pixelbar Jitsi) 
+Hierr zullen wij onder andere bespreken of er behoefte is aan een (reguliere) video conference meeting op woensdag en donderdag. De meetings zullen online plaatsvinden op [The Pixelbar Jitsi](https://jitsi.milliways.info/pixelbar) 
 
 Join onze Discord server, IRC kanaal of Slack server en wij zien je daar!
