@@ -9,7 +9,7 @@ title: Corona Policy
 
 <p class="message">
 Vanwege het strengere lockdown beleid van de overheid, is Pixelbar tot 19 Januari 2021 (19-01-2021) helemaal dicht. De enige uitzondering hierop is, door het verkrijgen van toegang van iemand van het bestuur. Zonder expliciete toestemming dien je dus niet naar de space te komen.
-
+<br />
 We hopen jullie weer te zien na deze lockdown!
 </p>
 
@@ -26,8 +26,8 @@ Aangezien niemand gevraagd heeft om Corona, en we het allemaal zo snel mogelijk 
 # Update 14-12-2020
 
 <p class="message">
-Because of the more strict lockdownpolicy which is enforced by the dutch government, Pixelbar will be closed entirely until the 19th of Januari 2021 (19-01-2021). The only exception to gain access to Pixelbar is by requesting and beeing granted an explicit approval from the board.
-
+Because of the more strict lockdownpolicy which is enforced by the dutch government, Pixelbar will be closed entirely until the 19th of Januari 2021 (19-01-2021). The only exception to gain access to Pixelbar is by requesting and beeing granted an explicit approval from a member of the board.
+<br />
 We hopy to see you again after this lockdown!
 </p>
 
