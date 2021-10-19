@@ -9,11 +9,11 @@ David will step down as chairman of Pixelbar on November 1, 2021.
 
 The board will look like this:
 
-Chairman: mc.fly
-Secretary: Nosfaratuss
-Treasurer: Eddie
-General board member: Miep
-General board member: Tucje
+* Chairman: mc.fly
+* Secretary: Nosfaratuss
+* Treasurer: Eddie
+* General board member: Miep
+* General board member: Tucje
 
 David has been involved since the start of Pixelbar and the founding of the foundation and has served as its chairman ever since.
 
@@ -27,11 +27,11 @@ David stopt per 1 november 2021 als voorzitter van Pixelbar.
   
 Hiermee komt het bestuur er als volgt uit te zien;
 
-Voorzitter: mc.fly  
-Secretaris: Nosfaratuss  
-Penningmeester: Eddie  
-Algemeen bestuurslid: Miep  
-Algemeen bestuurslid: Tucje  
+* Voorzitter: mc.fly
+* Secretaris: Nosfaratuss
+* Penningmeester: Eddie
+* Algemeen bestuurslid: Miep
+* Algemeen bestuurslid: Tucje
 
 David is vanaf het begin betrokken geweest bij Pixelbar en de oprichting van de stichting en sindsdien ook de rol als voorzitter vervult.  
   
