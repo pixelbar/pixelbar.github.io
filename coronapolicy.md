@@ -8,7 +8,7 @@ title: Corona Policy
 # Update 28-11-2021
 
 <p class="message">
-Because of lots of changes in the Corona Strategy by our government, we have moved the coronapolicy to our Wiki so it could be maintained by more people. Please find the current coronapolicy at <a href="https://wiki.pixelbar.nl/index.php/Corona">
+Because of lots of changes in the Corona Strategy by our government, we have moved the coronapolicy to our Wiki so it could be maintained by more people. Please find the current coronapolicy at <a href="https://wiki.pixelbar.nl/index.php/Corona"></a>
 <br>
-Vanwege de grote hoeveelheid wijzigingen in de Coronastrategie door onze overheid, hebben we de huidige coronapolicy naar onze Wiki verplaatst zodat deze makkelijker door meer mensen te onderhouden is. Ga voor de huidige coronapolicy naar: <a href="https://wiki.pixelbar.nl/index.php/Corona">
+Vanwege de grote hoeveelheid wijzigingen in de Coronastrategie door onze overheid, hebben we de huidige coronapolicy naar onze Wiki verplaatst zodat deze makkelijker door meer mensen te onderhouden is. Ga voor de huidige coronapolicy naar: <a href="https://wiki.pixelbar.nl/index.php/Corona"></a>
 <p>
