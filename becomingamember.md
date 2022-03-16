@@ -2,7 +2,7 @@
 layout: page
 title: Becoming a member
 ---
-### This page is awaiting translation
+### This page is awaiting translation.
 
 
 <!--Do you want to get involved with Pixelbar? Visit us and hang around with our participants. To visit us we do not need you to become a participant immdiately. Just check our website to see if we're open, or contact us and let us know you want to visit us.
