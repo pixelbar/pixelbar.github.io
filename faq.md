@@ -9,7 +9,7 @@ As we have noticed lately, there are some basic questions almost everyone we mee
 
 ### Questions about membership
 
-<b>Q: </b><i>Can i visit Pixelbar before i decide to become a member?</i><br />
+<b>Q: </b><i>Can I visit Pixelbar before I decide to become a member?</i><br />
 <b>A: </b>Yes, Please do so! we encourage everyone to at least once visit Pixelbar before deciding to become a member. You might get a taste of the hackerspace when visiting, meet the other hackers and maybe even drink a Club-Mate with us.
 
 <b>Q: </b><i>If i want to unsubscribe as a member because of $insert reason here$, are there any constraints ?</i><br />
@@ -18,7 +18,7 @@ As we have noticed lately, there are some basic questions almost everyone we mee
 <b>Q: </b><i>I am under 18, can i still become a member ?</i><br />
 <b>A: </b>Yes, you can become a member. The only reason the "Are you over 18" question is on our form is simply because of responsibility. At Pixelbar we have big machinery and other tools like soldering irons available. If you are under 18, there will always have to be an elderly person around for you to operate the big machines. We will happily invite you over and talk about the responsibilities which work both ways.
 
-<b>Q: </b><i>Do i need to have mimimal skills for joining Pixelbar?</i><br />
+<b>Q: </b><i>Do i need to have minimal skills for joining Pixelbar?</i><br />
 <b>A: </b>No. Pixelbar is just a please where we learn things by doing it. Even if you never touched an Arduino, Written a "Hello World" program or soldered some electronic parts together you are very welcome to learn to do so. People learn from doing stuff. We are happy to help you if you're stuck on something.
 
 <b>Q: </b><i>How can i transfer money to Pixelbar to support you guys?</i><br />
