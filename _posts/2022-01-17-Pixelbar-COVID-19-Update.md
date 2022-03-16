@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pixelbar: COVID-19 Update
+title: COVID-19 Update
 ---
 
 We updated the COVID-19 rules with the latest updates from the Goverment. You can read them at  <https://wiki.pixelbar.nl/index.php/Corona>
