@@ -2,22 +2,15 @@
 layout: page
 title: Becoming a member
 ---
-<!--Do you want to get involved with Pixelbar? Visit us and hang around with our participants. To visit us we do not need you to become a participant immdiately. Just check our website to see if we're open, or contact us and let us know you want to visit us.
-If you decide to become a regular visitor and you really like the atmosphere, it might be your time to become a participant.
-As a participant of Pixelbar you will get full access to the space. Each workshop, event, tools, just everything is available to you. You are equal to the rest of Pixelbar and it will only set you back for 25 Euro per month. This also means you support Pixelbar for the full 100%.
-
--->
-
 Would you like to get involved with Pixelbar? Come and visit our space
 and hang out with our members. No membership required! Check when we are
 open on our website or contact us and let us know when you would like to
 come by.
 
-
 Are you a Pixelbar regular? Then it's time to become a member! As a
 member of the space you will get access to every workshop, event, piece
 of equipment, everything. You are an equal to everyone in the
-organization and it will only cost you 25 euros per month. 
+organization and it will only cost you 25 euros per month. This also means you support Pixelbar for the full 100%.
 
 <p class="message">Of course,
 you can always pay more than 25 Euro, we see this as an extra support
