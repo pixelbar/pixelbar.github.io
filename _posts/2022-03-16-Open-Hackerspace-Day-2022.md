@@ -16,7 +16,7 @@ ________________________________________
 
 Op 30 maart is het International Open Hackerspace Day! En natuurlijk zal Pixelbar ook zijn deuren voor iedereen openen. Pixelbar is te vinden op de Vierhavensstraat 56 in Rotterdam in het gebouw genaamd [Keilewerf 1](https://pixelbar.nl/contact/)..
 
-Wij zijn geopend van 11:00 tot minimaal 17:00. Tijdens deze uren zullen we onze projecten laten zien en als jij jouw eigen kleine project hebt, breng het mee er is namelijk genoeg ruimte in onze hackerspace om eraan te werken. En als je het echt naar je zin hebt, kun je zelfs lid worden!
+Wij zijn geopend van 13:37 tot minimaal 17:00. Tijdens deze uren zullen we onze projecten laten zien en als jij jouw eigen kleine project hebt, breng het mee er is namelijk genoeg ruimte in onze hackerspace om eraan te werken. En als je het echt naar je zin hebt, kun je zelfs lid worden!
 
 ‘s Avonds zijn er misschien nog wat deelnemers, dus aarzel niet om langs te komen als je het niet redt om voor 17.00 uur langs te komen. Op onze [website](https://www.pixelbar.nl/) kunt u zien of we open of gesloten zijn. Het is niet nodig om je van te voren aan te melden, kom gewoon langs! Wanneer de buitendeuren gesloten zijn, neem dan contact met ons op via [Discord, IRC of onze  socials](https://pixelbar.nl/contact/).  Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te bezoeken op de woensdag- of zaterdagavonden.
 
