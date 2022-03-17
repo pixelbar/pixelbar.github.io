@@ -2,6 +2,7 @@
 layout: page
 title: Becoming a member
 ---
+
 Would you like to get involved with Pixelbar? Come and visit our space
 and hang out with our members. No membership required! Check when we are
 open on our website or contact us and let us know when you would like to
