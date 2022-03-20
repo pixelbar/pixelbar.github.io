@@ -118,7 +118,7 @@ Opmerkingen:
 
 Als je niet in de buurt woont, geen zin hebt om te hacken of heb je gewoon niet genoeg geld om de hackerspace te ondersteunen. Dan is het ook mogelijk om een vriend van de space we worden voor €5,- per maand. 
 
-Vriend worden? Maak dan € 5,- per maand (of € 60,- per jaar) over (via een periodieke overboeking) op **NL55 INGB 0006 9183 31** tnv Stichting Pixelbar.
+Vriend worden? Maak dan € 5,- per maand (of € 60,- per jaar) over (via een periodieke overboeking) op **NL55 INGB 0006 9183 31** t.n.v Stichting Pixelbar.
 Stuur ook een mail met de mededeling dat je vriend wordt en je nickname naar [bestuur@pixelbar.nl](mailto:bestuur@pixelbar.nl).
 
 * Toegang tot de ruimte (onregelmatig, alleen wanneer er iemand aanwezig is).
