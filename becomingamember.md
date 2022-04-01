@@ -25,8 +25,7 @@ Being a participant brings the following benefits:
 * Use of the tools / equipment in the space.
 * The ability to show your project in the space.
 * Your own shelf to keep your project in the space.
-* A Spacenet account (which gives you worldwide access to the internet
-* at every hackerspace with Spacenet).
+* A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet).
 * A Pixelbar account (with which you can purchase consumptions).
 * A [nickname] @ pixelbar.nl email forwarder.
 
