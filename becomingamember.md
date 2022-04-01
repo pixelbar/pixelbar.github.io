@@ -65,8 +65,7 @@ friend and your nickname to [bestuur@pixelbar.nl](mailto:bestuur@pixelbar.nl).
 
 * Access to the room (irregular, only when someone is present).
 * Use of the tools / equipment in the room.
-* A Spacenet account (which gives you worldwide access to the internet
-* at every hackerspace with Spacenet).
+* A Spacenet account (which gives you worldwide access to the internet at every hackerspace with Spacenet).
 * A Pixelbar account (with which you can purchase consumptions).
 * A [nickname] @ pixelbar.nl email forwarder.
 * Support of our space!
