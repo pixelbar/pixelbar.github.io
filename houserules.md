@@ -63,3 +63,7 @@ title: Regulations
 - The Pixelbar Foundation is not liable for any form of injury, material and/or immaterial damage.
 - The board reserves the right to change these house rules at any time.
 - If a member violates any of these house rules, the board may immediately revoke his membership and/or prohibit/deny access to the space.
+
+### Note
+
+In case of conflict between the Dutch and English rules, the Dutch rules shall prevail
