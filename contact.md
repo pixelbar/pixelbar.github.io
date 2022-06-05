@@ -4,12 +4,11 @@ title: Contact
 ---
 
 <p class="message">
-  Opening hours: <br /> Every Wednesday - from 7pm <br /> Every Saturday - from 2pm <br /><br /><small>If the spatestate says it's open, but the door isn't, please call +31 (0) 10 7171 591.</small>
+  Opening hours: <br /> Every Wednesday - from ~7pm <br /> Every Saturday - from ~2pm <br /><br /><small>If the spacestate says it's open, but the door isn't, please push the doorbell or ask on Discord</small>
 </p>
 
 ### Contact
 
-Telephone : +31 (0) 10 7171 591<br />
 IRC : #pixelbar at smurfnet.ch<br />
 Discord: <a href="https://discord.gg/b4Dcx8f">https://discord.gg/b4Dcx8f</a><br />
 Email : <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
