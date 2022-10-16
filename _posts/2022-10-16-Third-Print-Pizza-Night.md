@@ -7,7 +7,7 @@ At the print & Pizza night everyone is welcome with an interest in 3D Printing, 
 **To get access push the red button on the middle door at the backside of the building and someone will open the door.**
 
 ***INFO Print & Pizza night***
-**Date:** Tuesday October 25
-**Time:** 18:00 to 23:00
-**Cost:** Free entrance
+**Date:** Tuesday October 25  
+**Time:** 18:00 to 23:00  
+**Cost:** Free entrance  
 **Location:** Keilewerf 1 Vierhavenstraat 56 Rotterdam
