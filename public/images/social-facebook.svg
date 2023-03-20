@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>social-facebook</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-198.000000, -69.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="social-facebook" transform="translate(198.000000, 69.000000)">
+                <path d="M16,0 C7.164,0 0,7.164 0,16 C0,24.836 7.164,32 16,32 C24.836,32 32,24.836 32,16 C32,7.164 24.836,0 16,0 Z M20,10.6666667 L18.2,10.6666667 C17.4826667,10.6666667 17.3333333,10.9613333 17.3333333,11.704 L17.3333333,13.3333333 L20,13.3333333 L19.7213333,16 L17.3333333,16 L17.3333333,25.3333333 L13.3333333,25.3333333 L13.3333333,16 L10.6666667,16 L10.6666667,13.3333333 L13.3333333,13.3333333 L13.3333333,10.256 C13.3333333,7.89733333 14.5746667,6.66666667 17.372,6.66666667 L20,6.66666667 L20,10.6666667 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
