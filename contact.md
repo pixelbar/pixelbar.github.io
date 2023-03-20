@@ -9,9 +9,9 @@ title: Contact
 
 ### Contact
 
-IRC : #pixelbar at smurfnet.ch<br />
 Discord: <a href="https://discord.gg/b4Dcx8f">https://discord.gg/b4Dcx8f</a><br />
-Email : <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
+IRC: #pixelbar at smurfnet.ch<br />
+Email: <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
 
 Mailing List : Pixelbar has a mailinglist for general communication. You can subscribe yourself <a href="https://www.pixelbar.nl/joinlist/">here</a>
 
