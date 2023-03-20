@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>social-email</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-346.000000, -69.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="social-email" transform="translate(346.000000, 69.000000)">
+                <path d="M16,0 C7.164,0 0,7.164 0,16 C0,24.836 7.164,32 16,32 C24.836,32 32,24.836 32,16 C32,7.164 24.836,0 16,0 L16,0 Z M25.32,9.30666667 L16,16.8613333 L6.67866667,9.30666667 L25.32,9.30666667 Z M25.3333333,22.64 L6.66666667,22.64 L6.66666667,11.3 L16,18.864 L25.3333333,11.3013333 L25.3333333,22.64 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

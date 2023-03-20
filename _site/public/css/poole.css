@@ -227,11 +227,29 @@ blockquote p:last-child {
   }
 }
 
-img {
+.content img {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
+}
+
+#logo {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}
+
+.social-icon img {
+  padding-right: 5px;
+  width: 32px;
+  height: 32px;
+  opacity: 60%;
+}
+
+.social-icon img:hover {
+  opacity: 100%;
 }
 
 /* Tables */

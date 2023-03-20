@@ -4,28 +4,27 @@ title: Contact
 ---
 
 <p class="message">
-  Opening hours: <br /> Every Wednesday - from ~7pm <br /> Every Saturday - from ~2pm <br /><br /><small>If the spacestate says it's open, but the door isn't, please push the doorbell or ask on Discord</small>
+  Opening hours: <br /> Every Wednesday - from ~7pm <br /> Every Saturday - from ~2pm <br /><br /><small>If the spacestate says it's open, but the door isn't, please push the big red button on the middle door or ask on Discord</small>
 </p>
 
 ### Contact
 
-IRC : #pixelbar at smurfnet.ch<br />
 Discord: <a href="https://discord.gg/b4Dcx8f">https://discord.gg/b4Dcx8f</a><br />
-Email : <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
+IRC: #pixelbar at smurfnet.ch<br />
+Email: <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
 
-Mailing List : Pixelbar has a mailinglist for general communication. You can subscribe yourself <a href="https://www.pixelbar.nl/joinlist/">here</a>
+Mailing List: Pixelbar has a mailinglist for general communication. You can subscribe yourself <a href="https://www.pixelbar.nl/joinlist/">here</a>
 
 ### Location
 
-Our Address is :
-
+Our Address is:<br />
 Vierhavensstraat 56<br />
 3029 BG Rotterdam
 
-Lat : 51.910111<br />
-Lon : 4.433988
+Lat: 51.910111<br />
+Lon: 4.433988
 
-We're located in the <a href="https://www.keilewerf.nl">Keilewerf</a>. There is (limited) parking space available and if you go with public transportation: you can take the stop at Marconiplein and walk you way up towards the KFC and take a left into the Vierhavensstraat. After about 450 meters, you'll be at our building (recognisable by all of the street art on the exterior of the building).
+We're located in <a href="https://www.keilewerf.nl">Keilewerf 1</a>. There is (limited) parking space available and if you go with public transportation: you can take the stop at Marconiplein and walk you way up towards the KFC and take a left into the Vierhavensstraat. After about 450 meters, you'll be at our building (recognisable by all of the street art on the exterior of the building).
 
 <script src="https://maps.googleapis.com/maps/api/js"></script>
 <script>
@@ -48,7 +47,7 @@ We're located in the <a href="https://www.keilewerf.nl">Keilewerf</a>. There is 
 </script>
 <div id="map" style="width: 100%; height: 400px; margin-bottom: 15px;"></div>
 
-Our "frontdoor" can be found over here (please push the button, only works when the spacestate is open):
+Our "frontdoor" can be found over here (please push the red button, only works when the spacestate is open):
 ![location](/public/images/shared/location.jpg)
 
 ### Spacestate
