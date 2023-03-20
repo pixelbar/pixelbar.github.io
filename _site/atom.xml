@@ -4,7 +4,7 @@
  <title>pixelbar</title>
  <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
  <link href="http://pixelbar.github.io/"/>
- <updated>2023-03-20T22:29:13+01:00</updated>
+ <updated>2023-03-20T22:54:07+01:00</updated>
  <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
@@ -36,7 +36,7 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  </entry>
  
  <entry>
-   <title>The fourth Print & Pizza Night.</title>
+   <title>The fourth Print &amp; Pizza Night.</title>
    <link href="http://pixelbar.github.io/2023/02/21/Fourth-Print-Pizza-Night/"/>
    <updated>2023-02-21T00:00:00+01:00</updated>
    <id>http://pixelbar.github.io/2023/02/21/Fourth-Print-Pizza-Night</id>
@@ -55,7 +55,7 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  </entry>
  
  <entry>
-   <title>The third Print & Pizza Night.</title>
+   <title>The third Print &amp; Pizza Night.</title>
    <link href="http://pixelbar.github.io/2022/10/16/Third-Print-Pizza-Night/"/>
    <updated>2022-10-16T00:00:00+02:00</updated>
    <id>http://pixelbar.github.io/2022/10/16/Third-Print-Pizza-Night</id>
