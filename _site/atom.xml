@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>pixelbar</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2023-03-20T22:15:06+01:00</updated>
- <id>http://localhost:4000</id>
+ <link href="http://pixelbar.github.io/atom.xml" rel="self"/>
+ <link href="http://pixelbar.github.io/"/>
+ <updated>2023-03-20T22:16:25+01:00</updated>
+ <id>http://pixelbar.github.io</id>
  <author>
    <name>Pixelbar</name>
    <email>bestuur@pixelbar.nl</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>International Open Hackerspace Day 2023</title>
-   <link href="http://localhost:4000/2023/03/20/International-Open-Hackerspace-Day-2023/"/>
+   <link href="http://pixelbar.github.io/2023/03/20/International-Open-Hackerspace-Day-2023/"/>
    <updated>2023-03-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2023/03/20/International-Open-Hackerspace-Day-2023</id>
+   <id>http://pixelbar.github.io/2023/03/20/International-Open-Hackerspace-Day-2023</id>
    <content type="html">&lt;p&gt;It is almost that time of the year again that all Hackerspaces will open their doors!
 25th of March is the International Open Hackerspace Day and Pixelbar will release ALL the locks we don’t have any locks for the public but i need to make an awesome marketing text to get you interested&lt;/p&gt;
 
@@ -37,9 +37,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>The fourth Print & Pizza Night.</title>
-   <link href="http://localhost:4000/2023/02/21/Fourth-Print-Pizza-Night/"/>
+   <link href="http://pixelbar.github.io/2023/02/21/Fourth-Print-Pizza-Night/"/>
    <updated>2023-02-21T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2023/02/21/Fourth-Print-Pizza-Night</id>
+   <id>http://pixelbar.github.io/2023/02/21/Fourth-Print-Pizza-Night</id>
    <content type="html">&lt;p&gt;At the print &amp;amp; Pizza night everyone is welcome with an interest in 3D Printing. So are you, for example an advanced DIY-builder, owner of a print farm, orientating on buying your first 3d printer or just want to see what is possible? You are welcome at the Print &amp;amp; Pizza night hosted at Pixelbar in Rotterdam.&lt;/p&gt;
 
 &lt;p&gt;Take your prints or even printer with you to show it to others, to ask questions about it or maybe you have a problem. Together with the whole group you get tips and maybe someone can help you solve the problem. But most of all you get to know others with the same interest.&lt;/p&gt;
@@ -56,9 +56,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>The third Print & Pizza Night.</title>
-   <link href="http://localhost:4000/2022/10/16/Third-Print-Pizza-Night/"/>
+   <link href="http://pixelbar.github.io/2022/10/16/Third-Print-Pizza-Night/"/>
    <updated>2022-10-16T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2022/10/16/Third-Print-Pizza-Night</id>
+   <id>http://pixelbar.github.io/2022/10/16/Third-Print-Pizza-Night</id>
    <content type="html">&lt;p&gt;At the print &amp;amp; Pizza night everyone is welcome with an interest in 3D Printing. So are you for example an advanced DIY-builder, owner of a print farm, orientating on buying your first 3d printer or just want to see what is possible? You are welcome at the Print &amp;amp; Pizza night hosted at Pixelbar in Rotterdam.&lt;/p&gt;
 
 &lt;p&gt;Take your prints or even printer with you to show it to others, to ask questions about it or maybe you have a problem. Together with the whole group you get tips and maybe someone can help you solve the problem. But most of all you get to know others with the same interest.&lt;/p&gt;
@@ -75,9 +75,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>Open Hackerspace Day 2022</title>
-   <link href="http://localhost:4000/2022/03/16/Open-Hackerspace-Day-2022/"/>
+   <link href="http://pixelbar.github.io/2022/03/16/Open-Hackerspace-Day-2022/"/>
    <updated>2022-03-16T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2022/03/16/Open-Hackerspace-Day-2022</id>
+   <id>http://pixelbar.github.io/2022/03/16/Open-Hackerspace-Day-2022</id>
    <content type="html">&lt;p&gt;On the 26th of March it’s International Open Hackerspace Day! And of course Pixelbar will also open its doors for everyone. Pixelbar can be found at the Vierhavensstraat 56 in Rotterdam in the building called &lt;a href=&quot;https://pixelbar.nl/contact/&quot;&gt;Keilewerf 1&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We are open from 13:37 until at least 17:00. During these hours we will show off our projects and if you have your own small project, just bring it. There is plenty of room in our hackerspace to work on it. And if you really enjoy your time here, you can even become a member!&lt;/p&gt;
@@ -101,9 +101,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>COVID-19 Update</title>
-   <link href="http://localhost:4000/2022/01/17/Pixelbar-COVID-19-Update/"/>
+   <link href="http://pixelbar.github.io/2022/01/17/Pixelbar-COVID-19-Update/"/>
    <updated>2022-01-17T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2022/01/17/Pixelbar-COVID-19-Update</id>
+   <id>http://pixelbar.github.io/2022/01/17/Pixelbar-COVID-19-Update</id>
    <content type="html">&lt;p&gt;We updated the COVID-19 rules with the latest updates from the Goverment. You can read them at  &lt;a href=&quot;https://wiki.pixelbar.nl/index.php/Corona&quot;&gt;https://wiki.pixelbar.nl/index.php/Corona&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2&gt;Nederlandse Tekst&lt;/h2&gt;
@@ -114,9 +114,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>Pixelbar is closed until further notice.</title>
-   <link href="http://localhost:4000/2021/12/18/Pixelbar-is-now-closed-because-of-pandemic/"/>
+   <link href="http://pixelbar.github.io/2021/12/18/Pixelbar-is-now-closed-because-of-pandemic/"/>
    <updated>2021-12-18T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2021/12/18/Pixelbar-is-now-closed-because-of-pandemic</id>
+   <id>http://pixelbar.github.io/2021/12/18/Pixelbar-is-now-closed-because-of-pandemic</id>
    <content type="html">&lt;p&gt;Another day, another press conference. This time the message was clear: We need to bring down Omikron. So lockdown it is.&lt;/p&gt;
 
 &lt;p&gt;This means that Pixelbar will be completely closed for everyone beginning from 19-12-2021 05:00u till further notice.&lt;/p&gt;
@@ -139,9 +139,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>Pixelbar and the current Corona Policy.</title>
-   <link href="http://localhost:4000/2021/11/28/Pixelbar-and-current-corona-policy/"/>
+   <link href="http://pixelbar.github.io/2021/11/28/Pixelbar-and-current-corona-policy/"/>
    <updated>2021-11-28T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2021/11/28/Pixelbar-and-current-corona-policy</id>
+   <id>http://pixelbar.github.io/2021/11/28/Pixelbar-and-current-corona-policy</id>
    <content type="html">&lt;p&gt;Friday night (26-11-2021), like many, we watched the press conference in slight tension and what measures would be issued. The big question was if there will be a complete lockdown again – or not.&lt;/p&gt;
 
 &lt;p&gt;Although we as Pixelbar Hackerspace often want to read between the lines, we follow the measures as issued by the Dutch government.&lt;/p&gt;
@@ -172,9 +172,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>A refreshing shift in the board.</title>
-   <link href="http://localhost:4000/2021/10/16/A-Refreshing-Shift-In-The-Board/"/>
+   <link href="http://pixelbar.github.io/2021/10/16/A-Refreshing-Shift-In-The-Board/"/>
    <updated>2021-10-16T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2021/10/16/A-Refreshing-Shift-In-The-Board</id>
+   <id>http://pixelbar.github.io/2021/10/16/A-Refreshing-Shift-In-The-Board</id>
    <content type="html">&lt;p&gt;After Pixelbar was founded, David has always been the chairman of Pixelbar and passes the baton to mc.fly. In addition to stopping David, EchteTim stopped his duties within the board a while back. This created 2 vacancies within the board which were completed by Tucje and Nosfaratuss.&lt;/p&gt;
 
 &lt;p&gt;David will step down as chairman of Pixelbar on November 1, 2021.&lt;/p&gt;
@@ -217,9 +217,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>Have a great new year, and have a drink with us!</title>
-   <link href="http://localhost:4000/2021/01/05/Pixelbar-New-Years-Drinks/"/>
+   <link href="http://pixelbar.github.io/2021/01/05/Pixelbar-New-Years-Drinks/"/>
    <updated>2021-01-05T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2021/01/05/Pixelbar-New-Years-Drinks</id>
+   <id>http://pixelbar.github.io/2021/01/05/Pixelbar-New-Years-Drinks</id>
    <content type="html">&lt;p&gt;Happy New Year!&lt;/p&gt;
 
 &lt;p&gt;Please join Pixelbar at Wednesday 06-01-2020 around 2000CET (or 8 PM Dutch time for that matter) on our Jitsi to celebrate the beginning of 2021. The year where we can hopefully finally re-open again for public! Lets make a good time online for now. And share some nice words, ideas and wishes for this year. Do we see you in the Jitsi? We sure hope so! &lt;a href=&quot;https://jitsi.milliways.info/pixelbar&quot;&gt;The Pixelbar Jitsi&lt;/a&gt;&lt;/p&gt;
@@ -235,9 +235,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>Pixelbar moves to online-only for now</title>
-   <link href="http://localhost:4000/2020/11/06/Pixelbar-Goes-Online-Only/"/>
+   <link href="http://pixelbar.github.io/2020/11/06/Pixelbar-Goes-Online-Only/"/>
    <updated>2020-11-06T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/11/06/Pixelbar-Goes-Online-Only</id>
+   <id>http://pixelbar.github.io/2020/11/06/Pixelbar-Goes-Online-Only</id>
    <content type="html">&lt;p&gt;Dear visitor,&lt;/p&gt;
 
 &lt;p&gt;The Dutch government announced new regulations due to the situation regarding COVID-19. One of the new regulations will be the closing of club houses and other locations for public gatherings, including hackerspaces. Therefore, we have no other choice than to go back to our chairs at home and take our activities back another way.&lt;/p&gt;
@@ -265,9 +265,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>Pixelbar re-opening</title>
-   <link href="http://localhost:4000/2020/06/17/Pixelbar-Re-Opening/"/>
+   <link href="http://pixelbar.github.io/2020/06/17/Pixelbar-Re-Opening/"/>
    <updated>2020-06-17T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/06/17/Pixelbar-Re-Opening</id>
+   <id>http://pixelbar.github.io/2020/06/17/Pixelbar-Re-Opening</id>
    <content type="html">&lt;p&gt;After the awesome BBQ we had on 13-June with our participants, we took a moment to prepare for reopening Pixelbar. The entire area was cleaned, which was no luxery after beeing closed for 2.5 months.&lt;/p&gt;
 
 &lt;p&gt;At the same time, we have started on deviding the hacking-desks downstairs with plastic foil. While the Proof of Concept worked, but also showed to be a lot of work, we are awaiting deliveries for the final construction.&lt;/p&gt;
@@ -295,9 +295,9 @@ We are open from 12:00 till 17:00. After these hours some of our participants wi
  
  <entry>
    <title>Pixelbar re-opening and a BBQ</title>
-   <link href="http://localhost:4000/2020/06/07/Pixelbar-Re-Opening-and-BBQ/"/>
+   <link href="http://pixelbar.github.io/2020/06/07/Pixelbar-Re-Opening-and-BBQ/"/>
    <updated>2020-06-07T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/06/07/Pixelbar-Re-Opening-and-BBQ</id>
+   <id>http://pixelbar.github.io/2020/06/07/Pixelbar-Re-Opening-and-BBQ</id>
    <content type="html">&lt;p&gt;It has been a while since there was news from us since the space was temporarily closed. We are already working hard on plans to make the space Corona Proof as possible and it looks like we can open again soon!&lt;/p&gt;
 
 &lt;p&gt;To thank everyone for the patience and support of the past few months, we invite all the Pixelbar participants for a barbecue! &lt;strong&gt;Saturday, June 13, 2020 at 4:00 PM&lt;/strong&gt; we will have a barbecue outside on the Keilewerf terrain, which will be provided by the Pixelbar board.&lt;/p&gt;
@@ -349,9 +349,9 @@ Normaliter waarderen we alle hulp tijdens een barbecue, echter vragen we een ied
  
  <entry>
    <title>Pixelbar and COVID-19</title>
-   <link href="http://localhost:4000/2020/03/15/Pixelbar-and-COVID-19/"/>
+   <link href="http://pixelbar.github.io/2020/03/15/Pixelbar-and-COVID-19/"/>
    <updated>2020-03-15T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/03/15/Pixelbar-and-COVID-19</id>
+   <id>http://pixelbar.github.io/2020/03/15/Pixelbar-and-COVID-19</id>
    <content type="html">&lt;p&gt;UPDATED (24-03-2020)&lt;/p&gt;
 
 &lt;p&gt;After the recent press conference from the Dutch government, we have decided that Pixelbar will be closed to everyone. The closure lasts until June 1st. We hope for everyone’s understanding. As soon as there is further information, it will be shared via the known channels.&lt;/p&gt;
@@ -365,9 +365,9 @@ Normaliter waarderen we alle hulp tijdens een barbecue, echter vragen we een ied
  
  <entry>
    <title>Open Doors Day 2019 <br />( 30 March 2019 )</title>
-   <link href="http://localhost:4000/2019/03/06/open-doors-day-2019/"/>
+   <link href="http://pixelbar.github.io/2019/03/06/open-doors-day-2019/"/>
    <updated>2019-03-06T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2019/03/06/open-doors-day-2019</id>
+   <id>http://pixelbar.github.io/2019/03/06/open-doors-day-2019</id>
    <content type="html">&lt;p&gt;On the 30th of March it’s International Open Hackerspace Day! And of course Pixelbar will also open its doors for everyone. Pixelbar can be found at the Vierhavensstraat 56 in Rotterdam in the building called &lt;a href=&quot;https://www.pixelbar.nl/contact/&quot;&gt;Keilewerf&lt;/a&gt; 1.&lt;/p&gt;
 
 &lt;p&gt;We are open from 11:00 until at least 17:00.
@@ -403,9 +403,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>Come visit us during Art Rotterdam</title>
-   <link href="http://localhost:4000/2019/01/09/art-rotterdam/"/>
+   <link href="http://pixelbar.github.io/2019/01/09/art-rotterdam/"/>
    <updated>2019-01-09T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2019/01/09/art-rotterdam</id>
+   <id>http://pixelbar.github.io/2019/01/09/art-rotterdam</id>
    <content type="html">&lt;p&gt;During Art Rotterdam, on the 9th of February the &lt;a href=&quot;https://www.facebook.com/events/408043403069709/&quot;&gt;Keilewerf will open its doors&lt;/a&gt;. It the breeding ground for creative entrepreneurs in Rotterdam, divided over 2 buildings with a total of 6000m2. The Keilewerf is a place for steelbenders, artist, furniture makers, musicians and ofcourse hackers. Pixelbar is located in The Keilewerf, so we’ll be opening our doors to the public too!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;You can find us at the Keilewerf 1 and visit us from 13:00 until at least 17:00.&lt;/strong&gt;&lt;/p&gt;
@@ -422,9 +422,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>29 November Happy Sint Pannekoek!</title>
-   <link href="http://localhost:4000/2018/11/20/pancakes/"/>
+   <link href="http://pixelbar.github.io/2018/11/20/pancakes/"/>
    <updated>2018-11-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2018/11/20/pancakes</id>
+   <id>http://pixelbar.github.io/2018/11/20/pancakes</id>
    <content type="html">&lt;p&gt;The 29th of November it is a party once again! Just like last year, we will be celebrating Sint Pannekoek with everybody starting &lt;strong&gt;at 19:00&lt;/strong&gt;, with lots and lots of pancakes and friends! Please give us a heads up if you like to join (so we can go grocerie shopping only once :)) on to our &lt;a href=&quot;https://slack.pixelbar.nl&quot;&gt;Slack&lt;/a&gt; or IRC.&lt;/p&gt;
 
 &lt;p&gt;Last year we baked pancakes for about 4 hours, Everyone really enjoyed eating pancakes and placing pancakes over their heads. Sounds strange doesn’t it? Well, it’s a very old Rotterdam tradition and we’d like to celebrate it by basically eating lots of pancakes. Yep. It’s the best tradition there is. And nobody will ever change our tradition.&lt;/p&gt;
@@ -437,9 +437,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>Join NodeSchool #9 and win a ticket to AmsterdamJS!</title>
-   <link href="http://localhost:4000/2018/04/21/nodeschool-9/"/>
+   <link href="http://pixelbar.github.io/2018/04/21/nodeschool-9/"/>
    <updated>2018-04-21T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/04/21/nodeschool-9</id>
+   <id>http://pixelbar.github.io/2018/04/21/nodeschool-9</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://meetu.ps/e/F8Lmc/1VyxL/f&quot;&gt;&lt;img src=&quot;/public/images/click-bait-nodeschool9.png&quot; alt=&quot;NodeSchool&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;It’s been a while, but we’re back! Our space had some renovation, which now allows us to do a workshop downstairs and a freeform upstairs if you want.&lt;/p&gt;
@@ -462,9 +462,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>Going next level PARTY on 14 April</title>
-   <link href="http://localhost:4000/2018/04/04/next-level/"/>
+   <link href="http://pixelbar.github.io/2018/04/04/next-level/"/>
    <updated>2018-04-04T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2018/04/04/next-level</id>
+   <id>http://pixelbar.github.io/2018/04/04/next-level</id>
    <content type="html">&lt;div style=&quot;width:100%;height:0;padding-bottom:56%;position:relative;&quot;&gt;&lt;iframe src=&quot;https://giphy.com/embed/9ViARYUu3mWymt05kh&quot; width=&quot;100%&quot; height=&quot;100%&quot; style=&quot;position:absolute&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;/p&gt;
 
@@ -484,9 +484,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>Open Doors Day 2018 <br />( 31 March 2018 )</title>
-   <link href="http://localhost:4000/2018/02/12/open-doors-day-2018/"/>
+   <link href="http://pixelbar.github.io/2018/02/12/open-doors-day-2018/"/>
    <updated>2018-02-12T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2018/02/12/open-doors-day-2018</id>
+   <id>http://pixelbar.github.io/2018/02/12/open-doors-day-2018</id>
    <content type="html">&lt;p&gt;On Saturday 31’st of March Pixelbar will open it’s doors again to the public. Ofcourse we are not the only one to have an open doors day. Almost all dutch hackerspaces will have their doors open to the public.&lt;/p&gt;
 
 &lt;p&gt;From 11:00 until at least 17:00 you can visit us! We will show off our projects, and might even invite you to do some soldering, programming or hacking ;). If you have your own small project, bring it! there is plenty of room in our hackerspace to work on projects!&lt;/p&gt;
@@ -518,9 +518,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>HackerHotel 2018 <br />( 16 Februari - 18 Februari )</title>
-   <link href="http://localhost:4000/2018/02/07/HackerHotel-2018/"/>
+   <link href="http://pixelbar.github.io/2018/02/07/HackerHotel-2018/"/>
    <updated>2018-02-07T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2018/02/07/HackerHotel-2018</id>
+   <id>http://pixelbar.github.io/2018/02/07/HackerHotel-2018</id>
    <content type="html">&lt;p&gt;After 2 previous editions, HackerHotel will be back again in 2018. This year Pixelbar will join this awesome hacking/security conference with around 10 participants.&lt;/p&gt;
 
 &lt;p&gt;HackerHotel is an event which not only hosts technical and informational talks, but there will also be some space to hack around a bit with led panels, arduino’s, lockpinging, soldering, programming,… you name it.&lt;/p&gt;
@@ -535,9 +535,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>Hacky Newyear</title>
-   <link href="http://localhost:4000/2018/01/02/Hacky-Newyear/"/>
+   <link href="http://pixelbar.github.io/2018/01/02/Hacky-Newyear/"/>
    <updated>2018-01-02T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2018/01/02/Hacky-Newyear</id>
+   <id>http://pixelbar.github.io/2018/01/02/Hacky-Newyear</id>
    <content type="html">&lt;p&gt;We want to wish everyone a very hacky newyear!&lt;/p&gt;
 
 &lt;p&gt;This year will be all about hacking, exploring and creating new stuff! Do you want to find out more about that really old ZX Spectrum or do you really want to learn Rust, C#, NodeJS or any other programming language ? That’s what we’re about! We really support learning new things! And what better time to start hacking then with the beginning of a new year!&lt;/p&gt;
@@ -548,9 +548,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>CryptoParty at Worm (12/12)</title>
-   <link href="http://localhost:4000/2017/11/30/worm-cryptoparty/"/>
+   <link href="http://pixelbar.github.io/2017/11/30/worm-cryptoparty/"/>
    <updated>2017-11-30T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2017/11/30/worm-cryptoparty</id>
+   <id>http://pixelbar.github.io/2017/11/30/worm-cryptoparty</id>
    <content type="html">&lt;p&gt;Nowadays everyone is concerned about their privacy, right?&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -573,9 +573,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>Happy Sint Pannekoek!</title>
-   <link href="http://localhost:4000/2017/11/29/pancakes/"/>
+   <link href="http://pixelbar.github.io/2017/11/29/pancakes/"/>
    <updated>2017-11-29T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2017/11/29/pancakes</id>
+   <id>http://pixelbar.github.io/2017/11/29/pancakes</id>
    <content type="html">&lt;p&gt;Happy Sint Pannekoek everybody! We’re celebrating this very nice tradition at the space &lt;strong&gt;today&lt;/strong&gt; starting &lt;strong&gt;at 19:00&lt;/strong&gt;, with lots and lots of pancakes and friends! Please let us know if you’d like to join on to our &lt;a href=&quot;https://slack.pixelbar.nl&quot;&gt;Slack&lt;/a&gt; or IRC.&lt;/p&gt;
 
 &lt;p&gt;Wait. You’ve never heard of Sint Pannekoek before? Well, it’s a very old Rotterdam tradition and we’d like to celebrate it by basically eating lots of pancakes. Yep. It’s the best tradition there is. And nobody will ever change our tradition.&lt;/p&gt;
@@ -588,9 +588,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>Nodeschool meets Fabcity on September 2nd</title>
-   <link href="http://localhost:4000/2017/08/23/nodeschool-fabcity/"/>
+   <link href="http://pixelbar.github.io/2017/08/23/nodeschool-fabcity/"/>
    <updated>2017-08-23T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2017/08/23/nodeschool-fabcity</id>
+   <id>http://pixelbar.github.io/2017/08/23/nodeschool-fabcity</id>
    <content type="html">&lt;p&gt;Nodeschool Rotterdam is getting bigger, better and stronger. We’re super happy to team up with &lt;a href=&quot;http://futurefluxfestival.nl/program/fabcity-rotterdam/&quot;&gt;Fabcity&lt;/a&gt; on September 2 to introduce more people to NodeJS!&lt;/p&gt;
 
 &lt;p&gt;We also slightly changed the format, so it’s an all new NodeSchool and therefor we’re going to do something special, namely: hardware hacking. Using JavaScript and NodeJS we’re going to start out doing some hardware challenges. It’ll be heavily inspired by Nodebots. So please join us and let’s hack something cool together!&lt;/p&gt;
@@ -603,9 +603,9 @@ Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te
  
  <entry>
    <title>Announcing Electron Junction @ Pixelbar</title>
-   <link href="http://localhost:4000/2017/04/09/announcing-electron-junction/"/>
+   <link href="http://pixelbar.github.io/2017/04/09/announcing-electron-junction/"/>
    <updated>2017-04-09T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2017/04/09/announcing-electron-junction</id>
+   <id>http://pixelbar.github.io/2017/04/09/announcing-electron-junction</id>
    <content type="html">&lt;p&gt;We’re happy to announce &lt;a href=&quot;https://electronjunction.nl&quot;&gt;Electron Junction&lt;/a&gt;. An event that is all about people that like to tinker and play around with electronics, which can be as simple as blinking a LED with an Arduino or as complicated as building autonomous robots to explore the universe. While the focus will be on hardware, software will play an important role as well.&lt;/p&gt;
 
 &lt;p&gt;Tickets are available via the &lt;a href=&quot;https://tickets.pixelbar.nl/ej/1/&quot;&gt;Pixelbar Ticketshop&lt;/a&gt;. If you want to participate in the Arduino workshop by Mitch Altman or the SMD workshop by Klimnt you can reserve your spot and reserve the required kits of components in the shop as well. Please note, there are limited component kits.&lt;/p&gt;
@@ -633,9 +633,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Open doors day</title>
-   <link href="http://localhost:4000/2017/03/22/open-doors-day/"/>
+   <link href="http://pixelbar.github.io/2017/03/22/open-doors-day/"/>
    <updated>2017-03-22T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2017/03/22/open-doors-day</id>
+   <id>http://pixelbar.github.io/2017/03/22/open-doors-day</id>
    <content type="html">&lt;p&gt;This Saturday (March 25) 10 hackerspaces will open their doors to the public. And obviously Pixelbar we be one of those hackerspaces, as we are opening our doors for everyone that wants to visit.&lt;/p&gt;
 
 &lt;p&gt;From 11:00 until 17:00 you can visit us where you can see our projects, talk with our members and can become more familiar with our hackerspace. So if you are looking for some inspiration, learn something or just want to chill, visit us this Saturday!&lt;/p&gt;
@@ -648,9 +648,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Visit the Minsk hackerspace</title>
-   <link href="http://localhost:4000/2017/03/18/minsk-hackerspace/"/>
+   <link href="http://pixelbar.github.io/2017/03/18/minsk-hackerspace/"/>
    <updated>2017-03-18T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2017/03/18/minsk-hackerspace</id>
+   <id>http://pixelbar.github.io/2017/03/18/minsk-hackerspace</id>
    <content type="html">&lt;p&gt;Recently we had a member of the hackerspace in Minsk, Belarus, visited our space. Yahor gave a presentation about what they have done and are doing right now at their space. Pretty interesting and cool too see. And obviously we’re happy to welcome everyone at our space. Check out his presentation:&lt;/p&gt;
 
 &lt;iframe src=&quot;https://docs.google.com/presentation/d/18mFYDeYVEEc0Y9-B2Sl1Rb1A2ouCksU3TFgMfkbK540/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;480&quot; height=&quot;299&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
@@ -660,9 +660,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Ancilla van de Leest surprise visit</title>
-   <link href="http://localhost:4000/2017/02/20/ancilla-surprise-visit/"/>
+   <link href="http://pixelbar.github.io/2017/02/20/ancilla-surprise-visit/"/>
    <updated>2017-02-20T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2017/02/20/ancilla-surprise-visit</id>
+   <id>http://pixelbar.github.io/2017/02/20/ancilla-surprise-visit</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;This Wednesday, on Feb 22th at 8pm&lt;/strong&gt; our hackerspace will welcome a special guest. Namely: &lt;a href=&quot;https://twitter.com/ncilla&quot;&gt;Ancilla van de Leest&lt;/a&gt;, the leader of the &lt;a href=&quot;https://tk2017.piratenpartij.nl/&quot;&gt;Pirate Party&lt;/a&gt; of The Netherlands. The reason why she is stopping by is not necessarily because she is from Rotterdam and visits hackerpaces regularly (it’s a first for our space though). No, instead she will visit us to talk about her party and the upcoming Dutch parliamentary elections, which are happening next month.&lt;/p&gt;
 
 &lt;iframe style=&quot;padding-bottom: 15px;&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GbjUe-FYg7s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -673,9 +673,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>NodeSchool <span>#3:</span> realtime</title>
-   <link href="http://localhost:4000/2016/11/23/nodeschool-3/"/>
+   <link href="http://pixelbar.github.io/2016/11/23/nodeschool-3/"/>
    <updated>2016-11-23T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2016/11/23/nodeschool-3</id>
+   <id>http://pixelbar.github.io/2016/11/23/nodeschool-3</id>
    <content type="html">&lt;p&gt;The last time we had a lot fun building a chatbot with JavaScript in NodeJS! To continue on this journey of learning how to work with event based programming, we figured it was time to dive into websockets. Although it might be very similar to building a chatbot, we think it can be either a good lesson for new people or a fun challenge for the intermediate developer.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/1/4/5/f/600_456185215.jpeg&quot; alt=&quot;nodejs&quot; /&gt;&lt;/p&gt;
@@ -704,9 +704,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>NodeSchool <span>#2:</span> chatbots</title>
-   <link href="http://localhost:4000/2016/10/18/nodeschool-2/"/>
+   <link href="http://pixelbar.github.io/2016/10/18/nodeschool-2/"/>
    <updated>2016-10-18T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/10/18/nodeschool-2</id>
+   <id>http://pixelbar.github.io/2016/10/18/nodeschool-2</id>
    <content type="html">&lt;p&gt;It’s time for the second edition of NodeSchool Rotterdam. While the first edition was mostly theoretical, this time we’re going to be doing mostly practical things. Namely: &lt;strong&gt;Building a chatbot!&lt;/strong&gt; With Node.JS obviously ;-)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/9/9/8/600_455122936.jpeg&quot; alt=&quot;chatbots&quot; /&gt;&lt;/p&gt;
@@ -735,9 +735,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Announcing NodeSchool Rotterdam</title>
-   <link href="http://localhost:4000/2016/09/21/announcing-nodeschool/"/>
+   <link href="http://pixelbar.github.io/2016/09/21/announcing-nodeschool/"/>
    <updated>2016-09-21T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/09/21/announcing-nodeschool</id>
+   <id>http://pixelbar.github.io/2016/09/21/announcing-nodeschool</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://nodeschool.io/images/schoolhouse.svg&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re hosting the first NodeSchool in Rotterdam. &lt;a href=&quot;http://nodeschool.io/&quot;&gt;NodeSchool&lt;/a&gt; are hosted open source workshops that teach web software skills. And best of all… they’re free.&lt;/p&gt;
@@ -754,9 +754,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>We have to blog more!</title>
-   <link href="http://localhost:4000/2016/09/06/we-have-to-blog-more/"/>
+   <link href="http://pixelbar.github.io/2016/09/06/we-have-to-blog-more/"/>
    <updated>2016-09-06T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/09/06/we-have-to-blog-more</id>
+   <id>http://pixelbar.github.io/2016/09/06/we-have-to-blog-more</id>
    <content type="html">&lt;h3 id=&quot;the-holidays-are-over&quot;&gt;The holidays are over!&lt;/h3&gt;
 
 &lt;p&gt;In our last post we mentioned some of our members went to allsort of different camps. From Gamer-related camps to Hacker camps. Our participants are very diverse!&lt;/p&gt;
@@ -779,9 +779,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Buildlog new space part 5</title>
-   <link href="http://localhost:4000/2016/07/24/allmost-two-months-further/"/>
+   <link href="http://pixelbar.github.io/2016/07/24/allmost-two-months-further/"/>
    <updated>2016-07-24T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/07/24/allmost-two-months-further</id>
+   <id>http://pixelbar.github.io/2016/07/24/allmost-two-months-further</id>
    <content type="html">&lt;h3 id=&quot;update-5-hacking-confirmed&quot;&gt;Update #5 Hacking confirmed!&lt;/h3&gt;
 
 &lt;p&gt;Since our last post, pretty much everything has changed. At least, as far as it concerns our hacking/building ratio. We even had some time to do some hacking, tinkering and soldering, Nice!&lt;/p&gt;
@@ -808,9 +808,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Buildlog new space part 4</title>
-   <link href="http://localhost:4000/2016/05/21/buildlog-new-space-part-4/"/>
+   <link href="http://pixelbar.github.io/2016/05/21/buildlog-new-space-part-4/"/>
    <updated>2016-05-21T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/05/21/buildlog-new-space-part-4</id>
+   <id>http://pixelbar.github.io/2016/05/21/buildlog-new-space-part-4</id>
    <content type="html">&lt;h3 id=&quot;update-4-the-floor-is-done-were-getting-somewhere&quot;&gt;Update #4 The floor is done, We’re getting somewhere&lt;/h3&gt;
 
 &lt;p&gt;Last week a lot of work was done on the installation of our floor by Dennus, Teq, Gollum, Jchn, Tucje and Pim. We can safely say, the floor is now finished. Yay!&lt;/p&gt;
@@ -833,9 +833,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Buildlog new space part 3</title>
-   <link href="http://localhost:4000/2016/05/08/buildlog-new-space-part-3/"/>
+   <link href="http://pixelbar.github.io/2016/05/08/buildlog-new-space-part-3/"/>
    <updated>2016-05-08T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/05/08/buildlog-new-space-part-3</id>
+   <id>http://pixelbar.github.io/2016/05/08/buildlog-new-space-part-3</id>
    <content type="html">&lt;h3 id=&quot;update-3-the-floor-is-lava--no-it-aint-but-hey-it-sounds-awesome-&quot;&gt;Update #3 The floor is lava! ( no it aint, but hey it sounds awesome! )&lt;/h3&gt;
 
 &lt;p&gt;The last couple of days we have used our time wisely! on Kingsday we were placing and creating walls and frames on the first floor, Then when we met again on wednesday we prepared some more and had an awesome (pixel-)barbeque, made more idea’s an thought of constructions. Thursday was a national holiday in the netherlands, because it was “bevrijdingsdag” or Liberation Day. Since we all had a day off from work we decided to do some more work.&lt;/p&gt;
@@ -894,9 +894,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Buildlog new space part 2</title>
-   <link href="http://localhost:4000/2016/04/28/buildlog-new-space-part-2/"/>
+   <link href="http://pixelbar.github.io/2016/04/28/buildlog-new-space-part-2/"/>
    <updated>2016-04-28T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/04/28/buildlog-new-space-part-2</id>
+   <id>http://pixelbar.github.io/2016/04/28/buildlog-new-space-part-2</id>
    <content type="html">&lt;p&gt;So, we can start each post with a standard “we’re back again” however we though it was a better idea to show you what we did so-far. On Kingsday 2016 we came together with some of our members to start working on the walls of the new hackerspace.&lt;/p&gt;
 
 &lt;h3 id=&quot;our-agenda&quot;&gt;Our Agenda&lt;/h3&gt;
@@ -926,9 +926,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Buildlog new space and HackerHotel</title>
-   <link href="http://localhost:4000/2016/04/05/buildlog-new-space-and-hackerhotel/"/>
+   <link href="http://pixelbar.github.io/2016/04/05/buildlog-new-space-and-hackerhotel/"/>
    <updated>2016-04-05T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2016/04/05/buildlog-new-space-and-hackerhotel</id>
+   <id>http://pixelbar.github.io/2016/04/05/buildlog-new-space-and-hackerhotel</id>
    <content type="html">&lt;p&gt;Here we are again! Pixelbar, a hackerspace without a space. At least, for now. Since the opening where we announced the upcoming move of the physical location of the space we did a lot of work!&lt;/p&gt;
 
 &lt;p&gt;We had a pile of idea’s, lots of very enthousiastic participants and even more important a location within the Keilewerf where our new hackerspace would come. Since Februari we have made plans for the new hackerspace. Last week we took a major step forward, the mezzanine was finally placed. Now it’s far more visible what the size of the new Pixelbar space will be. We can tell you, we were very pleased with the result so far. Today we will be ordering the nescesarry build materials for the walls, When it arrives our awesome neighbour Sil will help us out with the construction of the walls.&lt;/p&gt;
@@ -949,9 +949,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>It's open!</title>
-   <link href="http://localhost:4000/2016/02/15/its-open/"/>
+   <link href="http://pixelbar.github.io/2016/02/15/its-open/"/>
    <updated>2016-02-15T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2016/02/15/its-open</id>
+   <id>http://pixelbar.github.io/2016/02/15/its-open</id>
    <content type="html">&lt;p&gt;The party last Saturday was awesome! Thank you all for visiting, the presents and many thanks to all the other hackerspaces for helping out! This has really kickstarted the current space. We’ve also received lots of ideas and input on how we could create and arrange everything in the new (upcoming) space.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://keilefest.nl&quot;&gt;Keilefest&lt;/a&gt; did a great job on the festival, with artists like &lt;a href=&quot;http://wldrf.nl/&quot;&gt;WLDRF&lt;/a&gt; and the great food and beverages.&lt;/p&gt;
@@ -973,9 +973,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Brenno de Winter will open the space</title>
-   <link href="http://localhost:4000/2016/01/21/join-our-opening/"/>
+   <link href="http://pixelbar.github.io/2016/01/21/join-our-opening/"/>
    <updated>2016-01-21T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2016/01/21/join-our-opening</id>
+   <id>http://pixelbar.github.io/2016/01/21/join-our-opening</id>
    <content type="html">&lt;p&gt;Our opening starts at &lt;strong&gt;2 PM on Saturday, Februari 13th&lt;/strong&gt;. Like we said before, we have some awesome things planned for you, so make sure to be on time!&lt;/p&gt;
 
 &lt;p&gt;First of, we’re happy to announce that Brenno de Winter will be giving the opening talk.&lt;/p&gt;
@@ -988,9 +988,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Official opening</title>
-   <link href="http://localhost:4000/2016/01/13/official-opening/"/>
+   <link href="http://pixelbar.github.io/2016/01/13/official-opening/"/>
    <updated>2016-01-13T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2016/01/13/official-opening</id>
+   <id>http://pixelbar.github.io/2016/01/13/official-opening</id>
    <content type="html">&lt;p&gt;Are you ready for a party? Because we’re planning to officially open the hackerspace on &lt;strong&gt;Saturday, Februari 13th&lt;/strong&gt;. So make sure to put that date in your calendar!&lt;/p&gt;
 
 &lt;p&gt;When you stop by that day, you can expect several workshops from us and others at the &lt;a href=&quot;http://www.keilewerf.nl/&quot;&gt;Keilewerf&lt;/a&gt;. From making furniture to hacking with Arduino’s, it’s all happening. And, there will be great talks from people in the hacker community and live music from several bands!&lt;/p&gt;
@@ -1001,9 +1001,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Successfully funded</title>
-   <link href="http://localhost:4000/2016/01/11/funded/"/>
+   <link href="http://pixelbar.github.io/2016/01/11/funded/"/>
    <updated>2016-01-11T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2016/01/11/funded</id>
+   <id>http://pixelbar.github.io/2016/01/11/funded</id>
    <content type="html">&lt;p&gt;Recently, we made a proposal for funding at &lt;a href=&quot;https://www.citylab010.nl/plannen/hackerspaceinrotterdam&quot;&gt;CityLab 010&lt;/a&gt; (Dutch). Furthermore, we gave a pitch to the city council and other related parties to inform them about the situation in Rotterdam.&lt;/p&gt;
 
 &lt;p&gt;We’re happy to announce that the Rotterdam government has passed this grant towards our cause.&lt;/p&gt;
@@ -1016,9 +1016,9 @@ This can be either a talk of about 45 mins or, equally awesome, you are welcome 
  
  <entry>
    <title>Introducing Pixelbar</title>
-   <link href="http://localhost:4000/2015/12/19/introducing-pixelbar/"/>
+   <link href="http://pixelbar.github.io/2015/12/19/introducing-pixelbar/"/>
    <updated>2015-12-19T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2015/12/19/introducing-pixelbar</id>
+   <id>http://pixelbar.github.io/2015/12/19/introducing-pixelbar</id>
    <content type="html">&lt;p&gt;Starting 2016, Rotterdam will officially have a proper hackerspace: Pixelbar. We’ve been a small community and are prepping a workspace in &lt;a href=&quot;http://stadshavensrotterdam.nl/deelgebieden/merwe-vierhavens/&quot;&gt;M4H&lt;/a&gt;. It’s time to meet, socialize and collaborate in 010. Bring your knowledge and ideas about computers, machinery, tech, science, digital art and let’s get this party started!&lt;/p&gt;
 
 &lt;h3 id=&quot;what-do-we-offer&quot;&gt;What do we offer?&lt;/h3&gt;
