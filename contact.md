@@ -13,11 +13,11 @@ Discord: <a href="https://discord.gg/b4Dcx8f">https://discord.gg/b4Dcx8f</a><br 
 IRC: #pixelbar at smurfnet.ch<br />
 Email: <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
 
-Mailing List : Pixelbar has a mailinglist for general communication. You can subscribe yourself <a href="https://www.pixelbar.nl/joinlist/">here</a>
+Mailing List: Pixelbar has a mailinglist for general communication. You can subscribe yourself <a href="https://www.pixelbar.nl/joinlist/">here</a>
 
 ### Location
 
-Our Address is:
+Our Address is:<br />
 Vierhavensstraat 56<br />
 3029 BG Rotterdam
 
