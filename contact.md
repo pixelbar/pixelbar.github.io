@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <p class="message">
-  Opening hours: <br /> Every Wednesday - from ~7pm <br /> Every Saturday - from ~2pm <br /><br /><small>If the spacestate says it's open, but the door isn't, please push the doorbell or ask on Discord</small>
+  Opening hours: <br /> Every Wednesday - from ~7pm <br /> Every Saturday - from ~2pm <br /><br /><small>If the spacestate says it's open, but the door isn't, please push the big red button on the middle door or ask on Discord</small>
 </p>
 
 ### Contact
@@ -48,7 +48,7 @@ We're located in the <a href="https://www.keilewerf.nl">Keilewerf</a>. There is 
 </script>
 <div id="map" style="width: 100%; height: 400px; margin-bottom: 15px;"></div>
 
-Our "frontdoor" can be found over here (please push the button, only works when the spacestate is open):
+Our "frontdoor" can be found over here (please push the red button, only works when the spacestate is open):
 ![location](/public/images/shared/location.jpg)
 
 ### Spacestate
