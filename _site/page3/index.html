@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      pixelbar &middot; Hackerspace in Rotterdam, The Netherlands
+    
+  </title>
+
+  <meta content="pixelbar" property="og:site_name">
+  
+    <meta content="Home" property="og:title">
+  
+  
+    <meta content="article" property="og:type">
+  
+  
+    <meta content="Hackerspace in Rotterdam, The Netherlands" property="og:description">
+  
+  
+    <meta content="http://localhost:4000/page3/" property="og:url">
+  
+  
+  
+    <meta content="/img/logo-high-resolution.png" property="og:image">
+  
+  
+  
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="/public/fonts/ss-social/ss-social-circle.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Scripts -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/0.10.1/fetch.min.js"></script>
+  <script src="/public/scripts/main.js"></script>
+
+</head>
+
+
+  <body>
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <img id="logo" src="/public/logo.png">
+    <p>Hackerspace in Rotterdam, The Netherlands</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/becomingamember/">Becoming a member</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/contact/">Contact</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/coronapolicy/">Corona Policy</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/faq/">F.A.Q.</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/history/">History</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/houserules/">Regulations</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/workshops/">Workshops</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+
+    <a class="sidebar-nav-item" href="https://wiki.pixelbar.nl/index.php/Main_Page">Wiki</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <a class="ss-icon" href="https://github.com/pixelbar" target="_blank">&#xF671;</a>
+    <a class="ss-icon" href="https://facebook.com/pixelbar010" target="_blank">&#xF610;</a>
+    <a class="ss-icon" href="https://twitter.com/pixelbar010" target="_blank">&#xF611;</a>
+    <a class="ss-icon" href="https://reddit.com/r/pixelbar" target="_blank">&#xF616;</a>
+    <a class="ss-icon" href="https://www.linkedin.com/company/6612405" target="_blank">&#xF612;</a>
+    <a class="ss-icon" href="/atom.xml">&#xE310;</a>
+    <a class="ss-icon" href="mailto:bestuur@pixelbar.nl">&#x2709;</a>
+  </div>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2023. All rights reserved.
+      <a href="/responsibledisclosure" style="opacity: 0.6; font-size: 11px">Responsible Disclosure</a><br />
+      <a href="/privacystatement" style="opacity: 0.6; font-size: 11px">Privacy Statement</a>
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">pixelbar</a>
+            <small><span>is currently <span id="status"></span></span></small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <p class="message">
+  We are open almost every wednesday (from 7 pm) and saturday (from 2 pm)<br />
+  Feel free to drop on by whenever we're open.
+</p>
+
+<div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2020/06/17/Pixelbar-Re-Opening/">
+        Pixelbar re-opening
+      </a>
+    </h1>
+
+    <span class="post-date">17 Jun 2020</span>
+
+    <p>After the awesome BBQ we had on 13-June with our participants, we took a moment to prepare for reopening Pixelbar. The entire area was cleaned, which was no luxery after beeing closed for 2.5 months.</p>
+
+<p>At the same time, we have started on deviding the hacking-desks downstairs with plastic foil. While the Proof of Concept worked, but also showed to be a lot of work, we are awaiting deliveries for the final construction.</p>
+
+<p>Tonight, 19th of June 2020, we want to reopen for a small group of people. We have set the limit of this evening to 5 people. Please talk to eachother in the chat to reserve your spot.</p>
+
+<p>There will be desinfectants for your hands, and cleaning material for the desks, doorknobs etc. We do kindly request you to wash or desinfect your hands when entering the space.</p>
+
+<p>Please also keep the generic rules set by the Government and the RIVM in mind. <a href="https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/nederlandse-maatregelen-tegen-het-coronavirus/gezondheidsadviezen">Current regulations</a></p>
+
+<hr />
+<h2>Nederlandse Tekst</h2>
+
+<p>Nadat we afgelopen Zaterdag (13-Juni) een erg gezellige bbq gehad hebben met onze deelnemers, hebben we het moment aangepakt om de voorbereidingen te treffen voor het her-openen van Pixelbar. Wat begon als een wild idee op de chat, liep uit in een complete schoonmaak van de space, Waarbij keuken, tafels beneden en de lounge schoongemaakt zijn na 2,5 maand van gesloten zijn.</p>
+
+<p>Tevens is er een begin gemaakt aan het scheiden van onze hacking-bureaus beneden. Een tijdelijke voorziening met folie is bedacht, en de materialen om dit af te maken zijn besteld.</p>
+
+<p>Vanavond, 19 Juni 2020 willen we voor het eerst weer open gaan. Dit doen we voor maximaal 5 mensen. Overleg dus even via de chat wie er gaat. Als vanavond bevalt, gaan we kijken of we kunnen opschalen. Dit bepalen we echter pas na deze eerste testavond.</p>
+
+<p>Er zijn ontsmettingsmiddelen aanwezig voor de handen, en reinigingsmiddelen voor de tafels, deurklinken enz. Het verzoek is dan ook om je handen goed te wassen bij binnenkomst, of om deze te ontsmetten.</p>
+
+<p>Houdt A.u.b. ook rekening met geldende regelgeving van de overheid en het RIVM. <a href="https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/nederlandse-maatregelen-tegen-het-coronavirus/gezondheidsadviezen">Actuele regelgeving</a></p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2020/06/07/Pixelbar-Re-Opening-and-BBQ/">
+        Pixelbar re-opening and a BBQ
+      </a>
+    </h1>
+
+    <span class="post-date">07 Jun 2020</span>
+
+    <p>It has been a while since there was news from us since the space was temporarily closed. We are already working hard on plans to make the space Corona Proof as possible and it looks like we can open again soon!</p>
+
+<p>To thank everyone for the patience and support of the past few months, we invite all the Pixelbar participants for a barbecue! <strong>Saturday, June 13, 2020 at 4:00 PM</strong> we will have a barbecue outside on the Keilewerf terrain, which will be provided by the Pixelbar board.</p>
+
+<p>However, there are a number of rules that we have drawn up to ensure that the barbecue runs as safely as possible.</p>
+<ul>
+  <li>The barbecue is only for participants (so also friends of the space) of Hackerspace Pixelbar, if you are not a participant or friend, we request you not to come.</li>
+  <li>Be aware of the 1.5 meters</li>
+  <li>Gloves are used during food preparation</li>
+  <li>Disinfectant will be available</li>
+  <li>Pixelbar is not open yet, so stay outside of Pixelbar.</li>
+  <li>Toilets inside are open</li>
+  <li>If you have health problems related to corona, stay at home. Look at the website of the <a href="https://www.rivm.nl/coronavirus-covid-19">RIVM</a> for more information.</li>
+</ul>
+
+<p>Only the board will enter the space to get items needed for the barbecue.
+Normally we appreciate all help during a barbecue, but we ask everyone to come no earlier than 16:00.</p>
+
+<p>You can register via the wiki at our <a href="https://wiki.pixelbar.nl/index.php/Projects:2020:Participants_BBQ">Wiki</a> - If you cannot login yet, ask someone who can login to register you for this bbq.</p>
+
+<p>We hope to see you all and that it will be a pleasant evening!</p>
+
+<hr />
+<h2>Nederlandse Tekst</h2>
+
+<p>Het is weer even geleden dat wij iets van ons hebben laten horen sinds de space tijdelijk is afgesloten. Er wordt al hard gewerkt aan plannen om de space zo Corona Proof mogelijk in te richten en het ziet er naar uit dat we snel weer open kunnen!</p>
+
+<p>Om iedereen te bedanken voor het geduld en de steun van de afgelopen maanden nodigen wij alle deelnemers van Pixelbar uit voor een barbecue! <strong>Zaterdag 13 juni 2020 om 16:00</strong> zullen wij buiten op het Keilewerf terrein een barbecue houden welke verzorgd word door het bestuur van Pixelbar.</p>
+
+<p>Wel zijn er een aantal regels welke wij hebben opgesteld om de barbecue zo veilig mogelijk te laten verlopen.</p>
+<ul>
+  <li>De barbecue is alleen voor deelnemers (dus ook voor friends of the space) van Hackerspace Pixelbar, ben je geen deelnemer of friend dan verzoeken wij je om niet te komen.</li>
+  <li>Let op de 1.5 meter</li>
+  <li>Tijdens de bereiding van het eten word er gebruik gemaakt van handschoenen</li>
+  <li>Er zal desinfectans beschikbaar zijn</li>
+  <li>Pixelbar is nog niet open, ga dan ook niet de space in.</li>
+  <li>Toiletten binnen zijn open</li>
+  <li>Heb je gezondheidsklachten gerelateerd aan corona blijf dan thuis. Meer informatie op de website van het <a href="https://www.rivm.nl/coronavirus-covid-19">RIVM</a></li>
+</ul>
+
+<p>Alleen het bestuur zal de space betreden om spullen te halen welke nodig zijn voor de barbecue. 
+Normaliter waarderen we alle hulp tijdens een barbecue, echter vragen we een ieder om niet eerder dan 16:00 te komen.</p>
+
+<p>Aanmelden kan via de <a href="https://wiki.pixelbar.nl/index.php/Projects:2020:Participants_BBQ">wiki</a> - Kun je nog niet inloggen op de wiki, vraag dan iemand anders je even in te schrijven voor de barbeque.</p>
+
+<p>We hopen jullie allemaal te zien en dat het een gezellige avond word!</p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2020/03/15/Pixelbar-and-COVID-19/">
+        Pixelbar and COVID-19
+      </a>
+    </h1>
+
+    <span class="post-date">15 Mar 2020</span>
+
+    <p>UPDATED (24-03-2020)</p>
+
+<p>After the recent press conference from the Dutch government, we have decided that Pixelbar will be closed to everyone. The closure lasts until June 1st. We hope for everyone’s understanding. As soon as there is further information, it will be shared via the known channels.</p>
+
+<hr />
+<h2>Nederlandse Tekst</h2>
+
+<p>Naar aanleiding van de recente persconferentie van de Nederlandse overheid, Is besloten om Pixelbar in ieder geval tot 1 Juni te sluiten voor publiek en deelnemers. We rekenen hierbij op begrip van iedereen. Zodra er meer informatie beschikbaar komt, zal dit gedeeld worden via de bekende kanalen.</p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2019/03/06/open-doors-day-2019/">
+        Open Doors Day 2019 <br />( 30 March 2019 )
+      </a>
+    </h1>
+
+    <span class="post-date">06 Mar 2019</span>
+
+    <p>On the 30th of March it’s International Open Hackerspace Day! And of course Pixelbar will also open its doors for everyone. Pixelbar can be found at the Vierhavensstraat 56 in Rotterdam in the building called <a href="https://www.pixelbar.nl/contact/">Keilewerf</a> 1.</p>
+
+<p>We are open from 11:00 until at least 17:00.
+During these hours we will show off our projects, and might even invite you to do some soldering, programming, hacking and/or play a game with our VR goggles. 
+If you have your own small project, just bring it. There is plenty of room in our hackerspace to work on it. And if you really enjoy your time here, you can even become a member!</p>
+
+<p>In the evening there might be some participants left, so don’t hesitate to drop by if you don’t make it before 17:00. On our website <a href="https://www.pixelbar.nl/">pixelbar.nl</a> you can see whether we’re open or closed.
+There is no need to sign up, just come by. When the outside doors are closed, just push the big red button on the door in the middle of the building and someone will come to open the door.
+When you can’t visit us on the 30th of March then you’re always welcome to visit us on Wednesdays or Saturdays, check on our website whether we’re open or closed.</p>
+
+<p>Do you want to visit other hackerspaces too? Check out the <a href="https://hackerspaces.nl/open-dag/">Dutch hackerspaces site</a>.</p>
+
+<p>Want to help out with this open doors day ? that’s possible too! just sign in at the <a href="https://wiki.pixelbar.nl/index.php?title=Projects:2019:Open_dag_hackerspaces_30_maart">Pixelbar Wiki ( Spacenet account required )</a>.</p>
+
+<hr />
+<h2>Nederlandse Tekst</h2>
+
+<p>Op 30 maart is het International Open Hackerspace Day! En natuurlijk zal Pixelbar ook zijn deuren voor iedereen openen. Pixelbar is te vinden op de Vierhavensstraat 56 in Rotterdam in het gebouw genaamd <a href="https://www.pixelbar.nl/contact/">Keilewerf</a> 1.</p>
+
+<p>Wij zijn geopend van 11:00 tot minimaal 17:00.
+Tijdens deze uren zullen we onze projecten laten zien en jou uitnodigen om solderen, programmeren, hacken en / of een game spelen met onze VR-bril.
+Als jij jou eigen kleine project hebt, breng het mee er is namelijk genoeg ruimte in onze hackerspace om eraan te werken. En als je het echt naar je zin hebt, kun je zelfs lid worden!</p>
+
+<p>‘S Avonds zijn er misschien nog wat deelnemers, dus aarzel niet om langs te komen als je het niet redt om voor 17.00 uur langs te komen. Op onze website [pixelbar.nl] (https://www.pixelbar.nl/) kunt u zien of we open of gesloten zijn.
+Het is niet nodig om je van te voren aan te melden, kom gewoon langs! Wanneer de buitendeuren gesloten zijn, drukt u gewoon op de grote rode knop op de deur in het midden van het gebouw en iemand zal komen om de deur te openen.
+Wanneer u ons op 30 Maart niet kunt bezoeken, dan bent u altijd welkom om ons te bezoeken op de woensdag- of zaterdagavonden.</p>
+
+<p>Wil je ook andere hackerspaces bezoeken? Bekijk de <a href="https://hackerspaces.nl/open-dag/">site van Nederlandse hackerspaces</a>.</p>
+
+<p>Wil je helpen met deze open dag? dat is ook mogelijk! log gewoon in op de <a href="https://wiki.pixelbar.nl/index.php?title=Projects:2019:Open_dag_hackerspaces_30_maart">Pixelbar Wiki (vereist Spacenet-account)</a>.</p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2019/01/09/art-rotterdam/">
+        Come visit us during Art Rotterdam
+      </a>
+    </h1>
+
+    <span class="post-date">09 Jan 2019</span>
+
+    <p>During Art Rotterdam, on the 9th of February the <a href="https://www.facebook.com/events/408043403069709/">Keilewerf will open its doors</a>. It the breeding ground for creative entrepreneurs in Rotterdam, divided over 2 buildings with a total of 6000m2. The Keilewerf is a place for steelbenders, artist, furniture makers, musicians and ofcourse hackers. Pixelbar is located in The Keilewerf, so we’ll be opening our doors to the public too!</p>
+
+<p><strong>You can find us at the Keilewerf 1 and visit us from 13:00 until at least 17:00.</strong></p>
+
+<p>During these hours we will show off our projects, and might even invite you to do some soldering, programming, hacking and/or play a game with our VR goggles. If you have your own small project, just bring it! There is plenty of room in our hackerspace to work on it. And if you really enjoy your time here, you can even become a member!</p>
+
+<p>In the evening there might be some participants left, so don’t hesitate to drop by if you don’t make it before 17:00. On the top of this page you can see whether the space is opened (or simply ask us in <a href="https://www.pixelbar.nl/contact/">our chat</a>).</p>
+
+<p>There is no need to sign up, just come by. When the doors are closed, just push the big red button on the door in the middle of the building and someone will come to open the door.</p>
+
+<p>When you can’t visit us on the 9th of February then you’re always welcome to visit us on Wednesdays or Saturdays, check on our website whether we’re open or closed.</p>
+
+  </div>
+  
+</div>
+
+<div class="pagination">
+  
+  <a class="pagination-item older" href="/page4">Older</a>
+  
+  
+  
+  <a class="pagination-item newer" href="/page2">Newer</a>
+  
+  
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+    <script src="/public/fonts/ss-social/ss-social.js"></script>
+  </body>
+</html>

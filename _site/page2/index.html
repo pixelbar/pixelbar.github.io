@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      pixelbar &middot; Hackerspace in Rotterdam, The Netherlands
+    
+  </title>
+
+  <meta content="pixelbar" property="og:site_name">
+  
+    <meta content="Home" property="og:title">
+  
+  
+    <meta content="article" property="og:type">
+  
+  
+    <meta content="Hackerspace in Rotterdam, The Netherlands" property="og:description">
+  
+  
+    <meta content="http://localhost:4000/page2/" property="og:url">
+  
+  
+  
+    <meta content="/img/logo-high-resolution.png" property="og:image">
+  
+  
+  
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="/public/fonts/ss-social/ss-social-circle.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- Scripts -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/0.10.1/fetch.min.js"></script>
+  <script src="/public/scripts/main.js"></script>
+
+</head>
+
+
+  <body>
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <img id="logo" src="/public/logo.png">
+    <p>Hackerspace in Rotterdam, The Netherlands</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/becomingamember/">Becoming a member</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/contact/">Contact</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/coronapolicy/">Corona Policy</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/faq/">F.A.Q.</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/history/">History</a>
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/houserules/">Regulations</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/workshops/">Workshops</a>
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+
+    <a class="sidebar-nav-item" href="https://wiki.pixelbar.nl/index.php/Main_Page">Wiki</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <a class="ss-icon" href="https://github.com/pixelbar" target="_blank">&#xF671;</a>
+    <a class="ss-icon" href="https://facebook.com/pixelbar010" target="_blank">&#xF610;</a>
+    <a class="ss-icon" href="https://twitter.com/pixelbar010" target="_blank">&#xF611;</a>
+    <a class="ss-icon" href="https://reddit.com/r/pixelbar" target="_blank">&#xF616;</a>
+    <a class="ss-icon" href="https://www.linkedin.com/company/6612405" target="_blank">&#xF612;</a>
+    <a class="ss-icon" href="/atom.xml">&#xE310;</a>
+    <a class="ss-icon" href="mailto:bestuur@pixelbar.nl">&#x2709;</a>
+  </div>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2023. All rights reserved.
+      <a href="/responsibledisclosure" style="opacity: 0.6; font-size: 11px">Responsible Disclosure</a><br />
+      <a href="/privacystatement" style="opacity: 0.6; font-size: 11px">Privacy Statement</a>
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">pixelbar</a>
+            <small><span>is currently <span id="status"></span></span></small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        <p class="message">
+  We are open almost every wednesday (from 7 pm) and saturday (from 2 pm)<br />
+  Feel free to drop on by whenever we're open.
+</p>
+
+<div class="posts">
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2021/12/18/Pixelbar-is-now-closed-because-of-pandemic/">
+        Pixelbar is closed until further notice.
+      </a>
+    </h1>
+
+    <span class="post-date">18 Dec 2021</span>
+
+    <p>Another day, another press conference. This time the message was clear: We need to bring down Omikron. So lockdown it is.</p>
+
+<p>This means that Pixelbar will be completely closed for everyone beginning from 19-12-2021 05:00u till further notice.</p>
+
+<p>In case of emergency it is possible to consult with the board whether these rules can be deviated from. If you have any questions we can be reached via <a href="https://pixelbar.nl/contact/">https://pixelbar.nl/contact/</a></p>
+
+<p>For a complete list of up-to-date rules visit <a href="https://wiki.pixelbar.nl/index.php/Corona/">https://wiki.pixelbar.nl/index.php/Corona/</a></p>
+
+<h2>Nederlandse Tekst</h2>
+
+<p>Een nieuwe dag met een nieuwe persconferentie. Deze keer was het bericht duidelijk: We moeten Omikron eronder krijgen. Dus we gaan in lockdown.</p>
+
+<p>Dit betekent dat Pixelbar volledig gesloten zal zijn voor iedereen, ingaand van 19-12-2021 05:00u tot nader bericht.</p>
+
+<p>Bij noodgevallen kan er overlegd worden met het bestuur voor eventuele uitzonderingen. Mochten er vragen zijn dan zijn wij te bereiken via <a href="https://pixelbar.nl/contact/">https://pixelbar.nl/contact/</a></p>
+
+<p>Voor een volledige up-to-date informatie kun je gaan naar <a href="https://wiki.pixelbar.nl/index.php/Corona">https://wiki.pixelbar.nl/index.php/Corona</a></p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2021/11/28/Pixelbar-and-current-corona-policy/">
+        Pixelbar and the current Corona Policy.
+      </a>
+    </h1>
+
+    <span class="post-date">28 Nov 2021</span>
+
+    <p>Friday night (26-11-2021), like many, we watched the press conference in slight tension and what measures would be issued. The big question was if there will be a complete lockdown again – or not.</p>
+
+<p>Although we as Pixelbar Hackerspace often want to read between the lines, we follow the measures as issued by the Dutch government.</p>
+
+<p>This means that Pixelbar will be closed from 17:00 to 5:00.</p>
+
+<p>We advice strongly to not going to the space! If you need to visit Pixelbar you can do this when you are a member or a friend of Pixelbar. You can only visit the space between 5:00 and 17:00 with a maximum of four people at a time! You can coördinate this via the Pixelbar Discord or IRC. The rules for visiting are the same like last weeks. Wear a mask and keep the 1.5 meter distance.</p>
+
+<p>In case of emergency it is possible to consult with the board whether these rules can be deviated from. If you have any questions we can be reached via <a href="https://pixelbar.nl/contact/">https://pixelbar.nl/contact/</a></p>
+
+<p>For a complete list of rules visit <a href="https://wiki.pixelbar.nl/index.php/Corona">https://wiki.pixelbar.nl/index.php/Corona</a></p>
+
+<h2>Nederlandse Tekst</h2>
+
+<p>Vrijdag avond (26-11-2021) hebben wij zoals velen in lichte spanning gekeken naar de persconferentie en welke maatregelen hierbij afgegeven zouden worden. Moeten wij weer volledig op slot of niet was hierin de grote vraag.</p>
+
+<p>Ondanks dat wij als Pixelbar Hackerspace vaak tussen de regels heen willen lezen, volgen wij de maatregelen op zoals deze zijn afgegeven door de Nederlandse overheid.</p>
+
+<p>Dit betekent dat Pixelbar van 17:00 tot en met 5:00 gesloten zal zijn.</p>
+
+<p>We adviseren met klem om niet naar Pixelbar te gaan! Wanneer je toch naar Pixelbar moet kan dit alleen als je een member of friend van Pixelbar bent. Je kan alleen tussen 5:00 en 17:00 langs komen met een maximum van vier personen tegelijk. Overleg in de Pixelbar Discord of IRC als je van plan bent om te gaan. De regels zijn hetzelfde als afgelopen weken. Draag een mondkapje en houd 1.5 meter afstand.</p>
+
+<p>Bij noodgevallen kan er overlegd worden met het bestuur voor eventuele uitzonderingen. Mochten er vragen zijn dan zijn wij te bereiken via <a href="https://pixelbar.nl/contact/">https://pixelbar.nl/contact/</a></p>
+
+<p>De volledige lijst met regels is terug te vinden op <a href="https://wiki.pixelbar.nl/index.php/Corona">https://wiki.pixelbar.nl/index.php/Corona</a></p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2021/10/16/A-Refreshing-Shift-In-The-Board/">
+        A refreshing shift in the board.
+      </a>
+    </h1>
+
+    <span class="post-date">16 Oct 2021</span>
+
+    <p>After Pixelbar was founded, David has always been the chairman of Pixelbar and passes the baton to mc.fly. In addition to stopping David, EchteTim stopped his duties within the board a while back. This created 2 vacancies within the board which were completed by Tucje and Nosfaratuss.</p>
+
+<p>David will step down as chairman of Pixelbar on November 1, 2021.</p>
+
+<p>The board will look like this:</p>
+
+<ul>
+  <li>Chairman: mc.fly</li>
+  <li>Secretary: Nosfaratuss</li>
+  <li>Treasurer: Eddie</li>
+  <li>General board member: Miep</li>
+  <li>General board member: Tucje</li>
+</ul>
+
+<p>David has been involved since the start of Pixelbar and the founding of the foundation and has served as its chairman ever since.</p>
+
+<p>In 2015, David and Miep gave shape to the establishment of Pixelbar and thereby also laid the first planks within the Keilewerf. From the board we would like to thank David for his efforts since the beginning of time. <em>insert applause</em></p>
+
+<h2>Nederlandse Tekst</h2>
+
+<p>Nadat Pixelbar is opgericht is David altijd de voorzitter geweest van Pixelbar en geeft hij het stokje door aan mc.fly. Naast het stoppen van David is een tijdje terug EchteTim gestopt met zijn taken binnen het bestuur. Hiermee ontstonden er 2 open plekken binnen het bestuur welke aangevuld zijn door Tucje en Nosfaratuss.</p>
+
+<p>David stopt per 1 november 2021 als voorzitter van Pixelbar.</p>
+
+<p>Hiermee komt het bestuur er als volgt uit te zien;</p>
+
+<ul>
+  <li>Voorzitter: mc.fly</li>
+  <li>Secretaris: Nosfaratuss</li>
+  <li>Penningmeester: Eddie</li>
+  <li>Algemeen bestuurslid: Miep</li>
+  <li>Algemeen bestuurslid: Tucje</li>
+</ul>
+
+<p>David is vanaf het begin betrokken geweest bij Pixelbar en de oprichting van de stichting en sindsdien ook de rol als voorzitter vervult.</p>
+
+<p>In 2015 heeft David samen met Miep vorm gegeven aan de oprichting van Pixelbar en hiermee ook de eerste planken gelegd binnen de Keilewerf. Vanuit het bestuur willen wij David bedanken voor zijn inzet sinds het begin der tijden. <em>insert applaus</em></p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2021/01/05/Pixelbar-New-Years-Drinks/">
+        Have a great new year, and have a drink with us!
+      </a>
+    </h1>
+
+    <span class="post-date">05 Jan 2021</span>
+
+    <p>Happy New Year!</p>
+
+<p>Please join Pixelbar at Wednesday 06-01-2020 around 2000CET (or 8 PM Dutch time for that matter) on our Jitsi to celebrate the beginning of 2021. The year where we can hopefully finally re-open again for public! Lets make a good time online for now. And share some nice words, ideas and wishes for this year. Do we see you in the Jitsi? We sure hope so! <a href="https://jitsi.milliways.info/pixelbar">The Pixelbar Jitsi</a></p>
+
+<hr />
+<h2>Nederlandse Tekst</h2>
+
+<p>Gelukkig Nieuwjaar!</p>
+
+<p>Op Woensdag 06-01-2020 omstreeks 2000CET (of 8 Uur savonds :) ), Zal er een Pixelbar Nieuwjaarsborrel zijn via onze Jitsi, Hopelijk word 2021 het jaar dat we onze space weer kunnen openen voor deelnemers, bezoekers en anders geintereseerden. Voor nu gaan we in ieder geval een leuke on-line nieuwjaarsborrel doen. Laten we in ieder geval eens zien of er leuke zaken te delen zijn. Zien we jou ook op de Jitsi? We hopen het wel! <a href="https://jitsi.milliways.info/pixelbar">De Pixelbar Jitsi</a></p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/2020/11/06/Pixelbar-Goes-Online-Only/">
+        Pixelbar moves to online-only for now
+      </a>
+    </h1>
+
+    <span class="post-date">06 Nov 2020</span>
+
+    <p>Dear visitor,</p>
+
+<p>The Dutch government announced new regulations due to the situation regarding COVID-19. One of the new regulations will be the closing of club houses and other locations for public gatherings, including hackerspaces. Therefore, we have no other choice than to go back to our chairs at home and take our activities back another way.</p>
+
+<p>We therefore meet online (for now). You can find the Pixelbar Discord Server at <a href="https://discord.gg/b4Dcx8f">https://discord.gg/b4Dcx8f</a>, We also bridged this to IRC #pixelbar on smurfnet and even Slack is used (check website for howto)</p>
+
+<p>In here we will discuss if there is a demand for a (regular) wednesday / saturday video conference meeting. These meetings will take place at <a href="https://jitsi.milliways.info/pixelbar">The Pixelbar Jitsi</a></p>
+
+<p>Please join our Discord, IRC channel or Slack server and meet us there.</p>
+
+<hr />
+<h2>Nederlandse Tekst</h2>
+
+<p>Beste bezoeker,</p>
+
+<p>De Nederlandse overheid heeft nieuwe maatregelen aangekondigd met betrekking tot COVID-19. Eén van de maatregelen betreft de sluiting van clubhuizen en andere locaties waar mensen samenkomen, een hackerspace valt daar ook onder. We hebben geen andere keus om terug te gaan naar onze stoel thuis en onze activiteiten op een alternatieve manier voort te zetten.</p>
+
+<p>Om deze reden meeten wij voorlopig online. Je kunt onze Pixelbar Discord Server vinden @ <a href="https://discord.gg/b4Dcx8f">https://discord.gg/b4Dcx8f</a>, Ook hebben we de welbekend IRC bridge naar #pixelbar op smurfnet en zelfs Slack is gekoppeld (Howto via onze website)</p>
+
+<p>Hierr zullen wij onder andere bespreken of er behoefte is aan een (reguliere) video conference meeting op woensdag en donderdag. De meetings zullen online plaatsvinden op <a href="https://jitsi.milliways.info/pixelbar">The Pixelbar Jitsi</a></p>
+
+<p>Join onze Discord server, IRC kanaal of Slack server en wij zien je daar!</p>
+
+  </div>
+  
+</div>
+
+<div class="pagination">
+  
+  <a class="pagination-item older" href="/page3">Older</a>
+  
+  
+  
+  <a class="pagination-item newer" href="/">Newer</a>
+  
+  
+</div>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+    <script src="/public/fonts/ss-social/ss-social.js"></script>
+  </body>
+</html>
