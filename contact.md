@@ -26,7 +26,7 @@ Lon: 4.433988
 
 We're located in <a href="https://www.keilewerf.nl">Keilewerf 1</a>. There is (limited) parking space available and if you go with public transportation: you can take the stop at Marconiplein and walk you way up towards the KFC and take a left into the Vierhavensstraat. After about 450 meters, you'll be at our building (recognisable by all of the street art on the exterior of the building).
 
-<p>It's kind of a puzzle to find the entrance sometimes, that's why we've we added this little video on Youtube: <a href="https://youtu.be/kjGywfjhbyY" target="_blank"><img src="/public/images/shared/video.jpg"></img></a>
+<p>It's kind of a puzzle to find the entrance sometimes, that's why we've we added this little video on Youtube: <a href="https://youtu.be/kjGywfjhbyY" target="_blank"><img src="/public/images/shared/video.jpg"></a>
 
 
 ### Spacestate
