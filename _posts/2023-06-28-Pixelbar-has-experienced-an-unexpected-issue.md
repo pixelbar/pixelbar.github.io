@@ -9,7 +9,7 @@ We are devestated and need some time to get the community together to think abou
 
 For now, no open evenings at Pixelbar until further announcement!
 
-More info about the fire on the website of [Flashfoto]([Duck Duck Go](https://duckduckgo.com))
+More info about the fire on the website of [Flashfoto](https://www.flashphoto.nl/nieuws/13281/zeer-grote-uitslaande-brand-in-loods-keileweg-rotterdam.html)
 
 At this moment we have no idea how we are going to proceed, but keep following us to stay up to date on our plans and to help us rebuild!
 
