@@ -3,7 +3,7 @@ layout: post
 title: The disaster that struck
 ---
 
-On Wednesday 28-06-2023 at around 08:00 AM we got some terrible news from the media, The building that Pixelbar has had its residence in, was on fire. Not "Just" a fire, but a very very big fire. At there is no idea what the damages are, if and how the building got on fire or what this means for us... 
+On Wednesday 28-06-2023 at around 08:00 AM we got some terrible news from the media, The building that Pixelbar has had its residence in, was on fire. Not "Just" a fire, but a very very big fire. At this moment there is no idea what the damages are, if and how the building got on fire or what this means for us... 
 
 We are devestated and need some time to get the community together to think about our future.
 
