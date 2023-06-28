@@ -15,8 +15,8 @@ At this moment we have no idea how we are going to proceed, but keep following u
 
 Small note to all hackers around Rotterdam, Please do not visit the space at this moment since it may be unsafe.
 
-Update 28-06-2023 10:17:00: We opened up a donationlink for rebuilding the space! feel free to donate and be part of Pixelbar Space 3! 
+We opened up a donationlink for rebuilding the space! feel free to donate and be part of Pixelbar Space 3! 
 
-[Donations](https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=eWM4ODjNWKytGerCTmKZPXWJXxzZAyas)
+[Donations page](https://pixelbar.nl/donations/)
 
-Donation link via QR Code: ![](https://pixelbar.nl/public/images/shared/28062023-Pixelbar-Disaster-Donations.png) or go to the [Donations page](https://pixelbar.nl/donations/) for more options.
+Donation link via QR Code: ![](https://pixelbar.nl/public/images/shared/28062023-Pixelbar-Disaster-Donations.png)
