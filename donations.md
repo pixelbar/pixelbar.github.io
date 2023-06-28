@@ -9,6 +9,11 @@ If you want and are able to donate something, you can do this the following way.
 
 The money will be used completely for the rebuild of Pixelbar. In whatever form it will be, like a deposit or increased rent etc.
 
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/rebuild-pixelbar/widget/large"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+
+**Fundraiser for Pixelbar:**\
+<https://www.gofundme.com/f/rebuild-pixelbar>
+
 **Via the link:**\
 <https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=eWM4ODjNWKytGerCTmKZPXWJXxzZAyas>
 
@@ -17,9 +22,6 @@ Name: Stichting Pixelbar\
 Bank: ING Bank\
 BIC Code: INGBNL2A\
 IBAN Number: NL55INGB0006918331
-
-**Fundraiser for Pixelbar:**\
-<https://www.gofundme.com/f/rebuild-pixelbar>
 
 As we are not the only one in the building, please also consider donating to the other people in the Keilewerf building:
 
