@@ -23,7 +23,7 @@ Bank: ING Bank\
 BIC Code: INGBNL2A\
 IBAN Number: NL55INGB0006918331
 
-As we are not the only one in the building, please also consider donating to the other people in the Keilewerf building:
+**As we are not the only one in the building, please also consider donating to the other people in the Keilewerf building:**
 
 <https://www.gofundme.com/f/help-de-keilewervers>&#x20;
 <https://www.gofundme.com/f/help-buurman-rotterdam-weer-overeind>&#x20;
