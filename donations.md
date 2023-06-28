@@ -9,7 +9,7 @@ If you want and are able to donate something, you can do this the following way.
 
 The money will be used completely for the rebuild of Pixelbar. In whatever form it will be, like a deposit or increased rent etc.
 
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/rebuild-pixelbar/widget/large"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+More information on the fire : <https://www.flashphoto.nl/nieuws/13281/zeer-grote-uitslaande-brand-in-loods-keileweg-rotterdam.html>
 
 **Fundraiser for Pixelbar:**\
 <https://www.gofundme.com/f/rebuild-pixelbar>
