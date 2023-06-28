@@ -1,4 +1,4 @@
-# Funding after disaster struck
+# Funding
 
 As we are still horrified on what happened to our Hackerspace, we are looking into options for a new hackerspace. As we and our members probably lost everything at the space in the fire, we have to start over again.&#x20;
 
