@@ -14,3 +14,7 @@ More info about the fire on the website of [Flashfoto](https://www.flashphoto.nl
 At this moment we have no idea how we are going to proceed, but keep following us to stay up to date on our plans and to help us rebuild!
 
 Small note to all hackers around Rotterdam, Please do not visit the space at this moment since it may be unsafe.
+
+Update 28-06-2023 10:17:00: We opened up a donationlink for rebuilding the space! feel free to donate and be part of Pixelbar Space 3! [Donations](I have created a payment request for Donations. https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=eWM4ODjNWKytGerCTmKZPXWJXxzZAyas)
+
+
