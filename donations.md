@@ -11,6 +11,7 @@ The money will be used completely for the rebuild of Pixelbar. In whatever form 
 
 More information on the fire : <https://www.flashphoto.nl/nieuws/13281/zeer-grote-uitslaande-brand-in-loods-keileweg-rotterdam.html>
 
+https://www.gofundme.com/f/rebuild-pixelbar/widget/large
 
 **Fundraiser for Pixelbar:**\
 <https://www.gofundme.com/f/rebuild-pixelbar>
