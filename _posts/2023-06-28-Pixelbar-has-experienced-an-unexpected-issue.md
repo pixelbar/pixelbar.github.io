@@ -19,4 +19,4 @@ Update 28-06-2023 10:17:00: We opened up a donationlink for rebuilding the space
 
 [Donations](https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=eWM4ODjNWKytGerCTmKZPXWJXxzZAyas)
 
-Donation link via QR Code: ![](public/images/shared/28062023-Pixelbar-Disaster-Donations.png)
+Donation link via QR Code: ![](https://pixelbar.nl/public/images/shared/28062023-Pixelbar-Disaster-Donations.png)
