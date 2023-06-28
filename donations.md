@@ -18,8 +18,8 @@ Bank: ING Bank\
 BIC Code: INGBNL2A\
 IBAN Number: NL55INGB0006918331
 
-**Fundraiser for Pixelbar (takes a fee):**\
-<https://gofund.me/2de736a3>
+**Fundraiser for Pixelbar:**\
+<https://www.gofundme.com/f/rebuild-pixelbar>
 
 As we are not the only one in the building, please also consider donating to the other people in the Keilewerf building:
 
