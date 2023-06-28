@@ -12,3 +12,5 @@ For now, no open evenings at Pixelbar until further announcement!
 More info about the fire on the website of [Flashfoto]([Duck Duck Go](https://duckduckgo.com))
 
 At this moment we have no idea how we are going to proceed, but keep following us to stay up to date on our plans and to help us rebuild!
+
+Small note to all hackers around Rotterdam, Please do not visit the space at this moment since it may be unsafe.
