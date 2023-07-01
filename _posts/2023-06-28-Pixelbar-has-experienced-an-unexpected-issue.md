@@ -1,21 +1,20 @@
 ---
 layout: post
-title: The disaster that struck
+title: The disaster that struck [updated]
 ---
 
-On Wednesday 28-06-2023 at around 08:00 AM we got some terrible news from the media, The building that Pixelbar has had its residence in, was on fire. Not "Just" a fire, but a very very big fire. At this moment there is no idea what the damages are, if and how the building got on fire or what this means for us... 
+Wednesday, June 28th, at around 8:00 AM, we received distressing messages notifying us that the building housing Pixelbar was engulfed in flames. This building was not only a home to artists, furniture makers, and other builders, but it was also the heart of our community. The fire has had a devastating impact, reducing the entire structure to ashes. Fortunately, no injuries were reported.
 
-We are devestated and need some time to get the community together to think about our future.
+The incident has left our community in a state of shock, as we have suffered the irreplaceable loss of not just our physical space, but also all the equipment, tools, and projects we had  gathered over the course of 8 years.
 
-For now, no open evenings at Pixelbar until further announcement!
+![fire](/images/blog/fire.png)
 
-More info about the fire on the website of [Flashfoto](https://www.flashphoto.nl/nieuws/13281/zeer-grote-uitslaande-brand-in-loods-keileweg-rotterdam.html)
+- Article on NOS: [Ondernemers Rotterdam in tranen na brand: 'Ik ben nu heel erg failliet'](https://nos.nl/artikel/2480632-ondernemers-rotterdam-in-tranen-na-brand-ik-ben-nu-heel-erg-failliet)
+- Article on De Haven Loods: [Ongeloof en tranen in de ogen: Keilewerf, the day after...](https://www.dehavenloods.nl/nieuws/algemeen/48148/ongeloof-en-tranen-in-de-ogen-keilewerf-the-day-after-)
+- TV program Hart van Nederland: [TV item covering the event](https://embed.kijk.nl/?video=mWopjlFNVfvlnF)
 
-At this moment we have no idea how we are going to proceed, but keep following us to stay up to date on our plans and to help us rebuild!
 
-Small note to all hackers around Rotterdam, Please do not visit the space at this moment since it may be unsafe.
-
-We opened up a donationlink for rebuilding the space! feel free to donate and be part of Pixelbar Space 3! 
+All the support has been heartwarming, but we still have a long way to go. We are determined to rebuild our hackerspace, keeping our mission alive. We are looking for equipment (supplies, tools, etc) and donations to rebuild our hackerspace to its former glory. Any contribution, no matter how big or small, will make a tremendous difference in our ability to rebuild.
 
 [Donations page](https://pixelbar.nl/donations/)
 
