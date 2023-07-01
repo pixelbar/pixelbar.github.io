@@ -4,7 +4,7 @@
  <title>pixelbar</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-07-01T15:12:39+00:00</updated>
+ <updated>2023-07-01T15:17:41+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Pixelbar</name>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;The incident has left our community in a state of shock, as we have suffered the irreplaceable loss of not just our physical space, but also all the equipment, tools, and projects we had  gathered over the course of 8 years.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/fire.png&quot; alt=&quot;fire&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/public/images/blog/fire.jpg&quot; alt=&quot;fire&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Article on NOS: &lt;a href=&quot;https://nos.nl/artikel/2480632-ondernemers-rotterdam-in-tranen-na-brand-ik-ben-nu-heel-erg-failliet&quot;&gt;Ondernemers Rotterdam in tranen na brand: ‘Ik ben nu heel erg failliet’&lt;/a&gt;&lt;/li&gt;

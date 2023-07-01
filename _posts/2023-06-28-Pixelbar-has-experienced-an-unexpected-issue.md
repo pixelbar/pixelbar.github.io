@@ -7,7 +7,7 @@ Wednesday, June 28th, at around 8:00 AM, we received distressing messages notify
 
 The incident has left our community in a state of shock, as we have suffered the irreplaceable loss of not just our physical space, but also all the equipment, tools, and projects we had  gathered over the course of 8 years.
 
-![fire](/images/blog/fire.png)
+![fire](/public/images/blog/fire.jpg)
 
 - Article on NOS: [Ondernemers Rotterdam in tranen na brand: 'Ik ben nu heel erg failliet'](https://nos.nl/artikel/2480632-ondernemers-rotterdam-in-tranen-na-brand-ik-ben-nu-heel-erg-failliet)
 - Article on De Haven Loods: [Ongeloof en tranen in de ogen: Keilewerf, the day after...](https://www.dehavenloods.nl/nieuws/algemeen/48148/ongeloof-en-tranen-in-de-ogen-keilewerf-the-day-after-)
