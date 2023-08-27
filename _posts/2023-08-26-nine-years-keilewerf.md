@@ -9,10 +9,10 @@ This day is a celebration of renewal, resilience and building an inspiring commu
 
 Learn more about our exciting technology and art projects, workshops and activities. Meet the participants of the Pixelbar Foundation and the entrepreneurs of the Keilewerf.
 
-INFO Open Dag Keilewerf
-🗓 Saturday September 2
-🕛12:00 till 18:00
-💸 Free entrance
-📍 Keilewerf 1, Vierhavenstraat 56, Rotterdam 
+### **INFO Open Dag Keilewerf**<br>
+🗓 Saturday September 2<br>
+🕛12:00 till 18:00<br>
+💸 Free entrance<br>
+📍 Keilewerf 1, Vierhavenstraat 56, Rotterdam<br> 
 
 ![9yearkeilewerf](/public/images/blog/keile-9jaar-v6-vierkant.jpg) 
