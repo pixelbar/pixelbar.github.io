@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The 12th Print &amp; Pizza evening @ Pixelbar Rotterdam
+title: The 15th 3D Print &amp; Pizza evening @ Pixelbar Rotterdam
 ---
-At the print &amp; Pizza evening everyone is welcome with an interest in 3D Printing. Are you an advanced DIY-builder, owner of a print farm, or just orientating before buying your first printer? Everyone is welcome at the Print &amp; Pizza evening hosted at Pixelbar in Rotterdam.
+At the 3D print &amp; Pizza evening everyone is welcome with an interest in 3D Printing. Are you an advanced DIY-builder, owner of a print farm, or just orientating before buying your first printer? Everyone is welcome at the Print &amp; Pizza evening hosted at Pixelbar in Rotterdam.
 
 Take your prints or even printer with you to show it to others, to ask questions or get help with problems. Together with the whole group you get tips, maybe someone can help you solve the problem and you get to know others with the same interest.
 
