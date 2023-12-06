@@ -16,7 +16,6 @@ This is the best option for longtime support. To continue to grow our hackerspac
 
 ### **Donate money**
 [Click here](https://www.gofundme.com/f/rebuild-pixelbar) for the GoFundMe  
-[Click here](https://www.ing.nl/particulier/betaalverzoek/index.html?trxid=IeFqV7ZLYv09W0auKNTlaXpFbtURK3IY) for a Dutch payment link  
 [Click here](https://pixelbar.nl/contact/) for our bank details
 
 ### **Donating stuff**
