@@ -17,7 +17,8 @@ Mailing List: Pixelbar has a mailinglist for general communication. You can subs
 
 ### Location
 
-Our (temporary) address is:<br />
+Our address is:<br />
+Pixelbar Rotterdam <br />
 Schiehaven 15C<br />
 3024 EC Rotterdam
 
