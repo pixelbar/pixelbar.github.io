@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Hacking Insights @ Pixelbar Rotterdam
+title: "Moved: Hacking Insights @ Pixelbar Rotterdam"
 ---
 
-On 25 June 2024 Pixelbar is hosting the people of Hacking Insights. Organizing a meetup filled with talks.
+**Hacking insights was orginally planned for 25 June 2024, however Pixelbar is moving to a larger space so more people can attend. Due to the move, we've moved the hacking insights to Sunday 28 July 2024**
+
+On 28 July 2024 Pixelbar is hosting the people of Hacking Insights. Organizing a meetup filled with talks.
 The Hacking Insighs meetups have talks for all experience levels.
 
 Due to our current location the spaces are limited to 15, so please RSVP or join the waitlist [on meetup](https://www.meetup.com/hacking-insights/events/301060748/).
@@ -22,7 +24,7 @@ For more information see the [meetup page](https://www.meetup.com/hacking-insigh
 
 
 ### **INFO Hacking Insights**<br>
-🗓 Tuesday 25 June 2024<br>
-🕛 19:00 till 21:00<br>
+🗓 Sunday 28 July 2024<br>
+🕛 14:00 till 16:00<br>
 💸 Free entrance, [registration required](https://www.meetup.com/hacking-insights/events/301060748/)<br>
-📍 Schiehaven 15C, 3024 EC, Rotterdam<br> 
+📍 Schiemond 20, 3024 EE, Rotterdam (located inside "De Kroon")<br> 
