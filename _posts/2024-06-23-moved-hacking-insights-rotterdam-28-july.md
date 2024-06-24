@@ -25,6 +25,6 @@ For more information see the [meetup page](https://www.meetup.com/hacking-insigh
 
 ### **INFO Hacking Insights**<br>
 🗓 Sunday 28 July 2024<br>
-🕛 14:00 till 16:00<br>
+🕛 14:00 till 16:30<br>
 💸 Free entrance, [registration required](https://www.meetup.com/hacking-insights/events/301060748/)<br>
 📍 Schiemond 20, 3024 EE, Rotterdam (located inside "De Kroon")<br> 
