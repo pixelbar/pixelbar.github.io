@@ -11,10 +11,10 @@ come by.
 Are you a Pixelbar regular? Then it's time to become a member! As a
 member of the space you will get access to every workshop, event, piece
 of equipment, everything. You are an equal to everyone in the
-organization and it will only cost you 25 euros per month. This also means you support Pixelbar for the full 100%.
+organization and it will only cost you 32,50 euros per month. This also means you support Pixelbar for the full 100%.
 
 <p class="message">Of course,
-you can always pay more than 25 Euro, we see this as an extra support
+you can always pay more than 32,50 Euro, we see this as an extra support
 for our hackerspace. You naturally do not acquire any additional rights
 with this.</p>
 
@@ -35,7 +35,7 @@ You want to become a member, awesome! What now?
 - Come and visit the space to get to know each other.
 - Become aware of our [house rules](https://www.pixelbar.nl/houserules).
 - Complete the form below and send it by email to [bestuur@pixelbar.nl](mailto:bestuur@pixelbar.nl).
-- After confirming the board you transfer € 25 per month (via a periodic
+- After confirming the board you transfer € 32,50 per month (via a periodic
   transfer) to **NL55 INGB 0006 9183 31** in the name of Stichting Pixelbar.
 - You will become a member after the first payment is made.
 
@@ -75,9 +75,9 @@ friend and your nickname to [bestuur@pixelbar.nl](mailto:bestuur@pixelbar.nl).
 Wil je graag betrokken raken bij de Pixelbar? Kom eens langs en bezoek onze ruimte en hang wat rond met onze leden. Daar hoef je natuurlijk geen lid voor te zijn. Controleer via onze website wanneer we open zijn of neem contact op met ons en laat ons weten waarom je graag langs wilt komen.
 
 Kom je regelmatig langs, vindt je het leuk in de space? Dan wordt het tijd om lid te worden van Pixelbar!
-Als lid van de space krijg je volledige toegang. Elke workshop, evenement, uitrusting, alles. Je bent gelijk aan iedereen in de organisatie en het is slechts 25 euro per maand. Wat ook betekent dat je onze stichting voor 100% steunt.
+Als lid van de space krijg je volledige toegang. Elke workshop, evenement, uitrusting, alles. Je bent gelijk aan iedereen in de organisatie en het is slechts 32,50 euro per maand. Wat ook betekent dat je onze stichting voor 100% steunt.
 
-<p class="message">Je mag natuurlijk altijd meer dan 25 Euro betalen, we zien dit als een extra steuntje in de rug voor onze hackerspace. Je verwerft hiermee natuurlijk geen extra rechten.</p>
+<p class="message">Je mag natuurlijk altijd meer dan 32,50 Euro betalen, we zien dit als een extra steuntje in de rug voor onze hackerspace. Je verwerft hiermee natuurlijk geen extra rechten.</p>
 
 Deelnemer zijn heeft de volgende voordelen:
 
@@ -96,7 +96,7 @@ Je wilt lid worden, awesome! Hoe nu verder?
 * Kom even langs op de space om elkaar te leren kennen.
 * Je bent op de hoogte van onze [huisregels](https://www.pixelbar.nl/houserules).
 * Vul onderstaand formulier in en stuur deze per email naar [bestuur@pixelbar.nl](mailto:bestuur@pixelbar.nl).
-* Na bevestiging van het bestuur maak je € 25,- per maand over (via een periodieke overboeking) op **NL55 INGB 0006 9183 31** tnv Stichting Pixelbar.
+* Na bevestiging van het bestuur maak je € 32,50,- per maand over (via een periodieke overboeking) op **NL55 INGB 0006 9183 31** tnv Stichting Pixelbar.
 * Je bent lid nadat de eerste betaling gedaan is.
 
 <pre>
