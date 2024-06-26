@@ -4,14 +4,14 @@ title: Contact
 ---
 
 <p class="message">
-  Opening hours: <br /> Every Wednesday - from ~7pm <br /> Every Saturday - from ~2pm <br /><br /><small>If the spacestate says it's open, but the door isn't, please press the doorbell or ask on if anyone can open the door on Discord.</small>
+  Opening hours: <br /> Every Wednesday - from ~5pm <br /> Every Saturday - from ~2pm <br /><br /><small>If the spacestate says it's open, but the door isn't, please press the doorbell or ask on if anyone can open the door on Discord.</small>
 </p>
 
 ### Contact
 
 Discord: <a href="https://discord.gg/b4Dcx8f">https://discord.gg/b4Dcx8f</a><br />
-IRC: #pixelbar at smurfnet.ch<br />
-Email: <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a>
+Email: <a href="mailto:bestuur@pixelbar.nl">bestuur@pixelbar.nl.</a><br />
+IRC: #pixelbar at smurfnet.ch
 
 Mailing List: Pixelbar has a mailinglist for general communication. You can subscribe yourself <a href="https://www.pixelbar.nl/joinlist/">here</a>
 
@@ -19,8 +19,9 @@ Mailing List: Pixelbar has a mailinglist for general communication. You can subs
 
 Our address is:<br />
 Pixelbar Rotterdam <br />
-Schiehaven 15C<br />
-3024 EC Rotterdam
+Unit K14.1.01
+Schiemond 20<br />
+3024 EE Rotterdam
 
 
 ### Spacestate
