@@ -19,7 +19,7 @@ Mailing List: Pixelbar has a mailinglist for general communication. You can subs
 
 Our address is:<br />
 Pixelbar Rotterdam <br />
-Unit K14.1.01
+Unit K14.1.01<br />
 Schiemond 20<br />
 3024 EE Rotterdam
 
