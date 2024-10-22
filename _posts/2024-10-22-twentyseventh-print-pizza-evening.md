@@ -31,4 +31,4 @@ If you are bringing a large object we have a seperate entrance, ping one of the 
 💸 Free entrance, pizza are paid for by Tikkie<br>
 📍 Schiemond 20, 3024 EE, Rotterdam, inside "De Kroon" at K14.1.01<br> 
 
-You can RSVP on [Meetup](https://www.meetup.com/3d-print-pizza/events/302055590/), [Discord](https://discord.gg/tqTZJYZ2gm?event=1258740730042781778) or [Facebook](https://www.facebook.com/events/925392032661707/) (not required)
+You can RSVP on [Meetup](https://www.meetup.com/3d-print-pizza/events/304115508/), [Discord](https://discord.gg/tqTZJYZ2gm?event=1293866757425201162) or [Facebook](https://www.facebook.com/events/925392032661707/) (not required)
