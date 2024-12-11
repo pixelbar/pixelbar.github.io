@@ -20,7 +20,7 @@ To access the space you need to go up a set stairs, we sadly don’t have an ele
 If you are bringing a large object we have a seperate entrance, ping one of the Pixelbar members.
 
 ### **INFO Print &amp; Pizza night**<br>
-🗓 Thursday 9 January 2024<br>
+🗓 Thursday 9 January 2025<br>
 🕛 18:00 till 23:00<br>
 💸 Free entrance, pizza and 2 drinks for €15<br>
 📍 Schiemond 20, 3024 EE, Rotterdam, inside "De Kroon" at K14.1.01<br> 
