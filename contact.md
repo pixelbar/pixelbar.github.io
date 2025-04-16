@@ -25,7 +25,7 @@ Schiemond 20<br />
 
 ### Finding your way inside "De Kroon"
 
-<video>
+<video controls width="100%">
   <source src="/public/video/large.mp4" media="(max-width: 1280px)" />
   <source src="/public/video/medium.mp4" media="(max-width: 1080px)" />
   <source src="/public/video/small.mp4" media="(max-width: 720px)" />
