@@ -25,20 +25,21 @@ Schiemond 20<br />
 
 ### Finding your way inside "De Kroon"
 
-<script type="module" src="https://cdn.video-dns.com/npm/@maveio/components/+esm"></script>
-<mave-player embed="ubg50Sr9JuxKhTh" style="display: block; width: 100%; background: center / contain no-repeat url(https://space-ubg50.video-dns.com/Sr9JuxKhTh/thumbnail.jpg?e=1744827372); aspect-ratio: 16 / 9;"></mave-player>
+<video width="640" height="360" controls>
+  <source src="/public/video/thisistheway.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 
 ### Spacestate
 
-Almost every hackerspace has a way of letting visitors know if the space is open. This is called a SpaceState. At Pixelbar we also implemented a spacestate switch which is toggled by the first participant entering the hackerspace, and is toggled to closed when the last participant leaves. You will find the current spacestate on the top of this website. 
+Almost every hackerspace has a way of letting visitors know if the space is open. This is called a SpaceState. At Pixelbar we also implemented a spacestate switch which is toggled by the first participant entering the hackerspace, and is toggled to closed when the last participant leaves. You will find the current spacestate on the top of this website.
 
 The spacestate is also published to <a href="https://discord.gg/b4Dcx8f">Discord</a>, <a href="https://hsnl.social/@pixelbar_door" rel="me">Mastodon</a>, and <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">Pushover</a>.<br />
 Additionally, you can also integrate the spacestate yourself using <a href="https://spaceapi.io">SpaceAPI</a>.
 
 ### Organisational
 
-* Chambre of Commerce: 63989255 ( Rotterdam )
-* VAT Number: NL855478172B01
-* Bank: ING Bank
-* BIC Code: INGBNL2A
-* IBAN Number: NL55INGB0006918331
+- Chambre of Commerce: 63989255 ( Rotterdam )
+- VAT Number: NL855478172B01
+- Bank: ING Bank
+- BIC Code: INGBNL2A
+- IBAN Number: NL55INGB0006918331
