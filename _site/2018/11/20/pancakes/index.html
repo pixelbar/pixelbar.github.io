@@ -5,7 +5,7 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval' data: blob:;"/>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' https://*.pixelbar.nl https://space-ubg50.video-dns.com; font-src 'self' https://fonts.gstatic.com; frame-src 'self' https://*.pixelbar.nl https://giphy.com; img-src 'self' data: https://www.google-analytics.com https://space-ubg50.video-dns.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google-analytics.com https://ajax.googleapis.com https://cdnjs.cloudflare.com https://cdn.video-dns.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; frame-ancestors 'self'; block-all-mixed-content;" />
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -74,7 +74,9 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <img id="logo" src="/public/logo.png">
+    <a href="http://pixelbar.github.io/" class="sidebar-logo">
+      <img id="logo" src="/public/logo.png" aria-label="Logo of Hackerspace Pixelbar" alt="Logo of Hackerspace Pixelbar" />
+    </a>
     <p>Hackerspace in Rotterdam, The Netherlands</p>
   </div>
 

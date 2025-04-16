@@ -5,7 +5,7 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval' data: blob:;"/>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' https://*.pixelbar.nl https://space-ubg50.video-dns.com; font-src 'self' https://fonts.gstatic.com; frame-src 'self' https://*.pixelbar.nl https://giphy.com; img-src 'self' data: https://www.google-analytics.com https://space-ubg50.video-dns.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://www.google-analytics.com https://ajax.googleapis.com https://cdnjs.cloudflare.com https://cdn.video-dns.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; frame-ancestors 'self'; block-all-mixed-content;" />
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -67,7 +67,9 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <img id="logo" src="/public/logo.png">
+    <a href="http://pixelbar.github.io/" class="sidebar-logo">
+      <img id="logo" src="/public/logo.png" aria-label="Logo of Hackerspace Pixelbar" alt="Logo of Hackerspace Pixelbar" />
+    </a>
     <p>Hackerspace in Rotterdam, The Netherlands</p>
   </div>
 
@@ -278,7 +280,7 @@ Schiemond 20<br />
 
 <p>Almost every hackerspace has a way of letting visitors know if the space is open. This is called a SpaceState. At Pixelbar we also implemented a spacestate switch which is toggled by the first participant entering the hackerspace, and is toggled to closed when the last participant leaves. You will find the current spacestate on the top of this website.</p>
 
-<p>The spacestate is also published to <a href="https://discord.gg/b4Dcx8f">Discor</a>, <a href="https://hsnl.social/@pixelbar_door" rel="me">Mastodon</a>, and <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">Pushover</a>.<br />
+<p>The spacestate is also published to <a href="https://discord.gg/b4Dcx8f">Discord</a>, <a href="https://hsnl.social/@pixelbar_door" rel="me">Mastodon</a>, and <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">Pushover</a>.<br />
 Addtionally you can also integrate the space state yourself using <a href="https://spaceapi.io">SpaceAPI</a></p>
 
 <h3 id="organisational">Organisational</h3>
