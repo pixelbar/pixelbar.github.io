@@ -25,9 +25,13 @@ Schiemond 20<br />
 
 ### Finding your way inside "De Kroon"
 
-<video width="640" height="360" controls>
-  <source src="/public/video/thisistheway.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video>
+  <source src="/public/video/large.mp4" media="(max-width: 1280px)" />
+  <source src="/public/video/medium.mp4" media="(max-width: 1080px)" />
+  <source src="/public/video/small.mp4" media="(max-width: 720px)" />
+  <!-- Fallback if your browser doesn't support media query in source -->
+  <source src="/public/video/medium.mp4" />
+</video>
 
 ### Spacestate
 
