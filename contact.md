@@ -25,8 +25,10 @@ Schiemond 20<br />
 
 ### Finding your way inside "De Kroon"
 
-<script type="module" src="https://cdn.video-dns.com/npm/@maveio/components/+esm"></script>
-<mave-player controls="play time seek volume rate fullscreen subtitles" subtitles="en,fr,nl" embed="ubg50Sr9JuxKhTh" style="display: block; width: 100%; background: center / contain no-repeat url(https://space-ubg50.video-dns.com/Sr9JuxKhTh/thumbnail.jpg?e=1744827372); aspect-ratio: 16 / 9;"></mave-player>
+<iframe
+  src="https://space-ubg50.video-dns.com/Sr9JuxKhTh/player.html"
+  width="640" height="360" frameborder="0" scrolling="no" allowfullscreen>
+</iframe>
 
 ### Spacestate
 
