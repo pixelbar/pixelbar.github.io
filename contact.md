@@ -32,7 +32,7 @@ Schiemond 20<br />
 
 Almost every hackerspace has a way of letting visitors know if the space is open. This is called a SpaceState. At Pixelbar we also implemented a spacestate switch which is toggled by the first participant entering the hackerspace, and is toggled to closed when the last participant leaves. You will find the current spacestate on the top of this website. 
 
-The spacestate is also published to <a href="https://discord.gg/b4Dcx8f">Discor</a>, <a href="https://hsnl.social/@pixelbar_door" rel="me">Mastodon</a>, and <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">Pushover</a>.<br />
+The spacestate is also published to <a href="https://discord.gg/b4Dcx8f">Discord</a>, <a href="https://hsnl.social/@pixelbar_door" rel="me">Mastodon</a>, and <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">Pushover</a>.<br />
 Addtionally you can also integrate the space state yourself using <a href="https://spaceapi.io">SpaceAPI</a>
 
 ### Organisational
