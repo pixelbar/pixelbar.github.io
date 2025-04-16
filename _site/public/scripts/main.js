@@ -3,7 +3,7 @@ function getState() {
   .then(function(response) {
     return response.text()
   }).then(function(body) {
-    setTimeout(getState, 2500);
+    setTimeout(getState, 10000);
     var data = JSON.parse(body);
     $('#status').html(data.state.toUpperCase()).removeAttr('class').addClass(data.state);
   })
