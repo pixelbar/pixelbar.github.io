@@ -5,6 +5,7 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval' data: blob:;"/>
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -239,7 +240,7 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="/" title="Home">pixelbar</a>
-            <small><span>is currently <span id="status"></span></span></small>
+            <small><span>is <span id="status"></span> right now</span> <a href="/contact#spacestate" class="spacestate-explanation" aria-label="What is the spacestate and what does open/closed mean">What is this?</a></small>
           </h3>
         </div>
       </div>
@@ -269,16 +270,16 @@ Schiemond 20<br />
 
 <h3 id="finding-your-way-inside-de-kroon">Finding your way inside “De Kroon”</h3>
 
-<iframe src="https://space-ubg50.video-dns.com/Sr9JuxKhTh/player.html" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen="">
-</iframe>
+<script type="module" src="https://cdn.video-dns.com/npm/@maveio/components/+esm"></script>
+
+<mave-player embed="ubg50Sr9JuxKhTh" style="display: block; width: 100%; background: center / contain no-repeat url(https://space-ubg50.video-dns.com/Sr9JuxKhTh/thumbnail.jpg?e=1744827372); aspect-ratio: 16 / 9;"></mave-player>
 
 <h3 id="spacestate">Spacestate</h3>
 
-<p>Allmost every hackerspace has a way of letting visitors know if the space is open. This is called a SpaceState. At Pixelbar we also implemented a spacestate switch which is toggled by the first participant entering the hackerspace, and is toggled to close when the last participant leaves. You will find the current spacestate on the top of this website.</p>
+<p>Almost every hackerspace has a way of letting visitors know if the space is open. This is called a SpaceState. At Pixelbar we also implemented a spacestate switch which is toggled by the first participant entering the hackerspace, and is toggled to closed when the last participant leaves. You will find the current spacestate on the top of this website.</p>
 
-<p>You can also follow the space state on Mastodon/fediverse. <a href="https://hsnl.social/@pixelbar_door" rel="me">@pixelbardoor@nsnl.social</a> to see when the space state changes.</p>
-
-<p>If you use Pushover we can even send you a push message via the link <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">here</a></p>
+<p>The spacestate is also published to <a href="https://discord.gg/b4Dcx8f">Discor</a>, <a href="https://hsnl.social/@pixelbar_door" rel="me">Mastodon</a>, and <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">Pushover</a>.<br />
+Addtionally you can also integrate the space state yourself using <a href="https://spaceapi.io">SpaceAPI</a></p>
 
 <h3 id="organisational">Organisational</h3>
 

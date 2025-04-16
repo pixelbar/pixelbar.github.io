@@ -25,18 +25,15 @@ Schiemond 20<br />
 
 ### Finding your way inside "De Kroon"
 
-<iframe
-  src="https://space-ubg50.video-dns.com/Sr9JuxKhTh/player.html"
-  width="640" height="360" frameborder="0" scrolling="no" allowfullscreen>
-</iframe>
+<script type="module" src="https://cdn.video-dns.com/npm/@maveio/components/+esm"></script>
+<mave-player embed="ubg50Sr9JuxKhTh" style="display: block; width: 100%; background: center / contain no-repeat url(https://space-ubg50.video-dns.com/Sr9JuxKhTh/thumbnail.jpg?e=1744827372); aspect-ratio: 16 / 9;"></mave-player>
 
 ### Spacestate
 
-Allmost every hackerspace has a way of letting visitors know if the space is open. This is called a SpaceState. At Pixelbar we also implemented a spacestate switch which is toggled by the first participant entering the hackerspace, and is toggled to close when the last participant leaves. You will find the current spacestate on the top of this website. 
+Almost every hackerspace has a way of letting visitors know if the space is open. This is called a SpaceState. At Pixelbar we also implemented a spacestate switch which is toggled by the first participant entering the hackerspace, and is toggled to closed when the last participant leaves. You will find the current spacestate on the top of this website. 
 
-You can also follow the space state on Mastodon/fediverse. <a href="https://hsnl.social/@pixelbar_door" rel="me">@pixelbardoor@nsnl.social</a> to see when the space state changes. 
-
-If you use Pushover we can even send you a push message via the link <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">here</a>
+The spacestate is also published to <a href="https://discord.gg/b4Dcx8f">Discor</a>, <a href="https://hsnl.social/@pixelbar_door" rel="me">Mastodon</a>, and <a href="https://pushover.net/subscribe/PixelbarSpacestate-gbQgUDCwh2Yi8L5">Pushover</a>.<br />
+Addtionally you can also integrate the space state yourself using <a href="https://spaceapi.io">SpaceAPI</a>
 
 ### Organisational
 
