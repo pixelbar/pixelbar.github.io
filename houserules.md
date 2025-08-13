@@ -22,9 +22,9 @@ title: Regulations
 ### Toegang
 
 - Uit veiligheidsoverwegingen wordt gebruik gemaakt van cameratoezicht.
-- 24/7 toegang is beschikbaar voor leden die in het bezit zijn van een iButton.
-- Een iButton is verkrijgbaar na 2 maanden actief lidmaatschap op aanvraag bij het bestuur. voor deze iButton wordt €15,- gevraagd, de button koop je.
-- Een iButton is persoonlijk en niet overdraagbaar, in geval van verlies dien je het bestuur direct te informeren.
+- 24/7 toegang is beschikbaar voor volledige leden.
+- Het bestuur voorziet je van een Openr account voor de Openr app, deze app is voor toegang tot "De Kroon".
+- Toegang tot de hackerspace in de kroon verloopt middels een NFC Tag of kaart naar keuze.
 - Een lid die een nieuw lid introduceert draagt de verantwoordelijkheid voor diens gedrag en is verplicht toe te zien dat ook hij/zij zich aan de regels houdt.
 - Een niet-lid mag nooit alleen achter gelaten worden in de space.
 
@@ -52,9 +52,9 @@ title: Regulations
 ### Access
 
 - Camera surveillance is used for security reasons.
-- 24/7 access is available to members who have an iButton.
-- An iButton is available after 2 months of active membership upon request from the board. €15 is asked for this iButton, you buy the button.
-- An iButton is personal and non-transferable, in case of loss you must inform the board immediately.
+- 24/7 access is available to full members
+- The board will give you a Openr account for the Openr app, this app is used to access "De Kroon".
+- Access to the hackerspace within de kroon happens using a NFC tag or card of your choice.
 - A member who introduces a new member bears responsibility for his/her behavior and is obliged to ensure that he/she also adheres to the rules.
 - A non-member should never be left alone in the space.
 
