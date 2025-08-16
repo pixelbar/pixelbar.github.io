@@ -20,8 +20,8 @@ Stichting Pixelbar vind uw privacy belangrijk. In dit Privacy Policy proberen wi
 Stichting Pixelbar is verantwoordelijk voor de verwerking van uw persoonsgegevens. Indien u na het lezen van onze Privacy Policy nog vragen heeft, kunt u contact met ons opnemen via onderstaande contactgegevens:
 
 Stichting Pixelbar
-Vierhavensstraat 56
-3029 BG Rotterdam
+Schiemond 20
+3024 EE Rotterdam
 
 of via E-Mail: bestuur@pixelbar.nl.
 

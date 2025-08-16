@@ -36,7 +36,7 @@ title: Beleidsplan 2018-2019
 # Gegevens
 
 **Statutaire naam:** Stichting Pixelbar<br />
-**Adres:** Vierhavensstraat 56, 3029BG Rotterdam<br />
+**Adres:** Schiemond 20, 3024 EE Rotterdam<br />
 **KVK:** 63989255<br />
 **RSIN:** 855478172<br />
 **SBI-code:** 94994
