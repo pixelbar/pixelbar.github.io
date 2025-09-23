@@ -3,9 +3,6 @@ layout: post
 title: Pixelbar 10 Years !!!
 ---
 
-
-# PIXELBAR 10 YEARS
-
 In 2025, Pixelbar officially celebrates its **10th anniversary**!  
 What started as a small group of enthusiasts with a shared passion for technology, creativity, and collaboration has grown into a vibrant hackerspace in Rotterdam over the past decade.
 
