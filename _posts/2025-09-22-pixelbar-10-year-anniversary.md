@@ -18,7 +18,7 @@ Pixelbar will continue to be the place where makers, hackers, and creatives come
 
 Have you heard about our merchandise?  
 The first batch of merchandise will be available during our 10-year anniversary!  
-Want to get your hands on some? **Orders are open until September 14.**
+Want to get your hands on some? **Orders are closed. Stay tuned for maybe a next batch**
 
 For more information and to place your order, visit the **[Merchandise page](#)**.
 
