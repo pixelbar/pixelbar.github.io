@@ -27,4 +27,4 @@ If you are bringing a large object we have a seperate entrance, ping one of the 
 💸 Free entrance, pizza and 2 drinks for €15<br>
 📍 Schiemond 20, 3024 EE, Rotterdam, inside "De Kroon" at K14.1.01<br> 
 
-You can RSVP on one of the following platforms: [Discord](https://discord.gg/tqTZJYZ2gm?event=1428126920641351710), [Luma Events](https://luma.com/5imgb8hp), [Meetup](https://www.meetup.com/3d-print-pizza/events/311556412) (RSVP is not required, but recommended)
+You can RSVP on one of the following platforms: [Discord](https://discord.com/events/506783130854621197/1452751770206867466), [Luma Events](https://luma.com/bs5uew80), [Meetup](https://www.meetup.com/3d-print-pizza/events/312542376) (RSVP is not required, but recommended)
