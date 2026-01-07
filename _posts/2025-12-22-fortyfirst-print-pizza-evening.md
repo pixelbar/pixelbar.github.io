@@ -3,7 +3,7 @@ layout: post
 title: The 41th 3D Print &amp; Pizza @ Pixelbar Rotterdam
 ---
 
-**Update due to the weather conditions the 41 3D Print & Pizza meetup is moved to 15 January 2026!**
+**Update 7 Jan: due to the weather conditions the 41 3D Print & Pizza meetup is moved to 15 January 2026!**
 
 **Normally the 3D Print &amp; Pizza is on the first thursday of the month, but in January 2026 this is New Years day. So it has been moved by a week**
 
