@@ -3,6 +3,8 @@ layout: post
 title: The 41th 3D Print &amp; Pizza @ Pixelbar Rotterdam
 ---
 
+**Update due to the weather conditions the 41 3D Print & Pizza meetup is moved to 15 January 2026!**
+
 **Normally the 3D Print &amp; Pizza is on the first thursday of the month, but in January 2026 this is New Years day. So it has been moved by a week**
 
 Are you interested in 3D printing? Whether you have yet to buy your first 3D printer or already have an entire print farm, the 3D Print & Pizza Meetup is the perfect opportunity to meet like-minded individuals and share your passion. Everyone with an interest in 3D printing is welcome!
@@ -22,7 +24,7 @@ To access the space you need to go up a set stairs, we sadly don’t have an ele
 If you are bringing a large object we have a seperate entrance, ping one of the Pixelbar members.
 
 ### **INFO Print &amp; Pizza night**<br>
-🗓 Thursday 8 January 2026<br>
+🗓 ~~Thursday 8 January 2026~~Thursday 15 January 2026<br>
 🕛 18:00 till 23:00<br>
 💸 Free entrance, pizza and 2 drinks for €15<br>
 📍 Schiemond 20, 3024 EE, Rotterdam, inside "De Kroon" at K14.1.01<br> 
