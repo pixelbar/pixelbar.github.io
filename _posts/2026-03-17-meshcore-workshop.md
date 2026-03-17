@@ -3,7 +3,7 @@ layout: post
 title: Meshcore Workshop @ Pixelbar Rotterdam
 ---
 
-Interessted in Meshcore?
+Interested in Meshcore?
 It doesn't matter if you are new to this,
 of if you have sent hundreds of messages already.
 Everyone is welcome!
