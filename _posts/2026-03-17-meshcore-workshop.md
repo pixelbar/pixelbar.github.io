@@ -4,8 +4,8 @@ title: Meshcore Workshop @ Pixelbar Rotterdam
 ---
 
 Interested in Meshcore?
-It doesn't matter if you are new to this,
-of if you have sent hundreds of messages already.
+It doesn't matter if you are new to this
+or if you have sent hundreds of messages already.
 Everyone is welcome!
 
 
@@ -14,7 +14,7 @@ In this workshop, we're going to flash a meshcore companion device.
 And use it to send out our first messages.  
 
 For the more advanced Meshcore users, 
-we're go over how to manage a repeater,
+we're going to go over how to manage a repeater,
 and how to perform an 'over-the-air' update.  
 
 **Preparations**  
@@ -22,7 +22,7 @@ It's not required to bring your own hardware, but if you want to fully participa
 * A meshcore companion device, like a Heltec v3//v4, or a LilyGO T-Deck.
 There will be a few SenseCAP Trackers available for people without a device.
 * A laptop ( Windows / Mac / Linux) to flash the device.
-* For more acvanced users, a meshcore repeater device, to practice an OTA update
+* For more advanced users, a meshcore repeater device, to practice an OTA update
 
 At the end of the workshop, you'll be ready to send messages in the Meshcore community!
 
