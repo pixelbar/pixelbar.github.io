@@ -31,6 +31,8 @@ What we promise:
 <li>In the public information concerning the problem reported, we will give your name as the discoverer of the problem (unless you desire otherwise), and</li>
 <li>As a token of our gratitude for your assistance, we offer a reward for every report of a security problem that was not yet known to us. **The reward for serious issues will be a bottle of “Club Mate” which you can pick up at Pixelbar when visiting.**. Please note, we can not pay any money for responsible disclosures.</li>
 <br />
+Researchers who report valid issues are credited in our <a href="/halloffame">Hall of Fame</a>.
+<br />
 We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication on the problem after it is resolved.
 <br />
 Stichting Pixelbar is not required by law to follow specific guidelines on (E-Mail) security. Please understand we do not have a legal requirement to have SPF, DKIM, DMARC, etc.
