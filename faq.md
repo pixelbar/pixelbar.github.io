@@ -38,3 +38,11 @@ As we have noticed lately, there are some basic questions almost everyone we mee
 <b>Q: </b><i>I have an assignment and i want Pixelbar to help me with it</i><br />
 <b>A: </b>No! At Pixelbar we have no interest in doing commercial assignments or fixing your homework. If you have specific questions and are willing to take a deep dive in to the knowledge yourself we will happily help you! it's just, we have no interest in mass production or beeing there as a helpdesk for basic issues.
  
+<b>Q: </b><i>Do you recycle your 3D-print waste ? </i><br />
+<b>A: </b>We’re a hackerspace, and naturally, our members and the wider community generate quite a bit of 3D printing waste. Rather than simply throwing it away, we wanted to explore whether we could give this material a second life and make 3D printing a little more sustainable. That’s how we got in touch with Spool Again.
+
+So, you’ve come to the right place! You can drop off your 3D printing waste at our hackerspace, and we’ll collect it until we have a sufficient quantity to send to [Spool Again](https://spoolagain.eu/). This way, even hobbyists who only have small amounts of waste can contribute to the recycling process without having to arrange a shipment themselves.
+
+Once we’ve collected enough material, we’ll pass it on to [Spool Again](https://spoolagain.eu/), who will take care of the recycling process and turn the waste into something useful again.
+
+Together, we can reduce waste, make better use of materials, and give leftover filament a second chance!
